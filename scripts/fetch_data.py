@@ -9,9 +9,11 @@ def get_owner_name(team):
     """Extract owner name from team object."""
     if team.owners:
         owner = team.owners[0]
-        first = owner.get('firstName', '')
-        last = owner.get('lastName', '')
-        return f"{first} {last}".strip()
+        first = owner.get('firstName', '').strip()
+        last = owner.get('lastName', '').strip()
+        # Normalize whitespace - replace multiple spaces with single space
+        name = f"{first} {last}".strip()
+        return ' '.join(name.split())
     return "Unknown"
 
 def fetch_season_data(year):

@@ -5,7 +5,7 @@
     {
       "team_id": 4,
       "team_name": "Louisiana State Mud Dogs",
-      "owner": "Steve  Gilmore",
+      "owner": "Steve Gilmore",
       "wins": 11,
       "losses": 2,
       "ties": 0,
@@ -127,7 +127,7 @@
     {
       "rank": 1,
       "team_name": "Louisiana State Mud Dogs",
-      "owner": "Steve  Gilmore",
+      "owner": "Steve Gilmore",
       "record": "11-2",
       "points_for": 1899.5
     },

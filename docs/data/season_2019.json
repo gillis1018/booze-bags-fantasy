@@ -89,7 +89,7 @@
     {
       "team_id": 4,
       "team_name": "Evil Snead",
-      "owner": "Steve  Gilmore",
+      "owner": "Steve Gilmore",
       "wins": 6,
       "losses": 7,
       "ties": 0,
@@ -176,7 +176,7 @@
     {
       "rank": 8,
       "team_name": "Evil Snead",
-      "owner": "Steve  Gilmore",
+      "owner": "Steve Gilmore",
       "record": "6-7",
       "points_for": 1644.65
     },

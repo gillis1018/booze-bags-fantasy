@@ -15,8 +15,89 @@
     2025
   ],
   "total_seasons": 11,
-  "last_updated": "2026-02-04T20:13:01.043097",
+  "last_updated": "2026-02-04T21:09:54.318639",
   "all_time_records": [
+    {
+      "owner": "Steve Gilmore",
+      "seasons": 11,
+      "wins": 91,
+      "losses": 57,
+      "ties": 0,
+      "points_for": 18743.73,
+      "points_against": 17803.79,
+      "championships": 5,
+      "playoff_appearances": 8,
+      "best_finish": 1,
+      "teams": [
+        {
+          "year": 2015,
+          "team_name": "Gildo Reign ",
+          "record": "7-6",
+          "standing": 1
+        },
+        {
+          "year": 2016,
+          "team_name": "Evil Snead",
+          "record": "10-3",
+          "standing": 1
+        },
+        {
+          "year": 2017,
+          "team_name": "Evil Snead",
+          "record": "9-4",
+          "standing": 4
+        },
+        {
+          "year": 2018,
+          "team_name": "Evil Snead",
+          "record": "9-4",
+          "standing": 1
+        },
+        {
+          "year": 2019,
+          "team_name": "Evil Snead",
+          "record": "6-7",
+          "standing": 8
+        },
+        {
+          "year": 2020,
+          "team_name": "Louisiana State Mud Dogs",
+          "record": "11-2",
+          "standing": 1
+        },
+        {
+          "year": 2021,
+          "team_name": "Louisiana State Mud Dogs",
+          "record": "6-8",
+          "standing": 7
+        },
+        {
+          "year": 2022,
+          "team_name": "Louisiana State Mud Dogs",
+          "record": "12-2",
+          "standing": 3
+        },
+        {
+          "year": 2023,
+          "team_name": "Louisiana State Mud Dogs",
+          "record": "8-6",
+          "standing": 1
+        },
+        {
+          "year": 2024,
+          "team_name": "Louisiana State Mud Dogs",
+          "record": "7-7",
+          "standing": 12
+        },
+        {
+          "year": 2025,
+          "team_name": "Louisiana State Mud Dogs",
+          "record": "6-8",
+          "standing": 5
+        }
+      ],
+      "win_pct": 61.5
+    },
     {
       "owner": "Patrick Gonsalves",
       "seasons": 11,
@@ -498,69 +579,6 @@
       "win_pct": 48.0
     },
     {
-      "owner": "Steve  Gilmore",
-      "seasons": 8,
-      "wins": 65,
-      "losses": 44,
-      "ties": 0,
-      "points_for": 13827.5,
-      "points_against": 13301.1,
-      "championships": 3,
-      "playoff_appearances": 5,
-      "best_finish": 1,
-      "teams": [
-        {
-          "year": 2018,
-          "team_name": "Evil Snead",
-          "record": "9-4",
-          "standing": 1
-        },
-        {
-          "year": 2019,
-          "team_name": "Evil Snead",
-          "record": "6-7",
-          "standing": 8
-        },
-        {
-          "year": 2020,
-          "team_name": "Louisiana State Mud Dogs",
-          "record": "11-2",
-          "standing": 1
-        },
-        {
-          "year": 2021,
-          "team_name": "Louisiana State Mud Dogs",
-          "record": "6-8",
-          "standing": 7
-        },
-        {
-          "year": 2022,
-          "team_name": "Louisiana State Mud Dogs",
-          "record": "12-2",
-          "standing": 3
-        },
-        {
-          "year": 2023,
-          "team_name": "Louisiana State Mud Dogs",
-          "record": "8-6",
-          "standing": 1
-        },
-        {
-          "year": 2024,
-          "team_name": "Louisiana State Mud Dogs",
-          "record": "7-7",
-          "standing": 12
-        },
-        {
-          "year": 2025,
-          "team_name": "Louisiana State Mud Dogs",
-          "record": "6-8",
-          "standing": 5
-        }
-      ],
-      "win_pct": 59.6
-    },
-    {
       "owner": "Christian Kelly",
       "seasons": 9,
       "wins": 57,
@@ -760,39 +778,6 @@
         }
       ],
       "win_pct": 45.9
-    },
-    {
-      "owner": "Steve Gilmore",
-      "seasons": 3,
-      "wins": 26,
-      "losses": 13,
-      "ties": 0,
-      "points_for": 4916.23,
-      "points_against": 4502.69,
-      "championships": 2,
-      "playoff_appearances": 3,
-      "best_finish": 1,
-      "teams": [
-        {
-          "year": 2015,
-          "team_name": "Gildo Reign ",
-          "record": "7-6",
-          "standing": 1
-        },
-        {
-          "year": 2016,
-          "team_name": "Evil Snead",
-          "record": "10-3",
-          "standing": 1
-        },
-        {
-          "year": 2017,
-          "team_name": "Evil Snead",
-          "record": "9-4",
-          "standing": 4
-        }
-      ],
-      "win_pct": 66.7
     },
     {
       "owner": "Matt Driscoll",
@@ -1021,7 +1006,7 @@
     {
       "year": 2018,
       "team_name": "Evil Snead",
-      "owner": "Steve  Gilmore",
+      "owner": "Steve Gilmore",
       "record": "9-4",
       "points_for": 1768.5
     },
@@ -1035,7 +1020,7 @@
     {
       "year": 2020,
       "team_name": "Louisiana State Mud Dogs",
-      "owner": "Steve  Gilmore",
+      "owner": "Steve Gilmore",
       "record": "11-2",
       "points_for": 1899.5
     },
@@ -1056,7 +1041,7 @@
     {
       "year": 2023,
       "team_name": "Louisiana State Mud Dogs",
-      "owner": "Steve  Gilmore",
+      "owner": "Steve Gilmore",
       "record": "8-6",
       "points_for": 1621.7
     },
