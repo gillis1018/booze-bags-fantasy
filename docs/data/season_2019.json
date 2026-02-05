@@ -1,0 +1,1926 @@
+{
+  "year": 2019,
+  "league_name": "Booze Bags Fantasy League",
+  "teams": [
+    {
+      "team_id": 8,
+      "team_name": "Sizzling SeX GOD",
+      "owner": "george gillis",
+      "wins": 9,
+      "losses": 4,
+      "ties": 0,
+      "points_for": 1819.1,
+      "points_against": 1574.15,
+      "final_standing": 1,
+      "playoff_seed": null
+    },
+    {
+      "team_id": 2,
+      "team_name": "Them New Asians",
+      "owner": "joshua deangelis",
+      "wins": 9,
+      "losses": 4,
+      "ties": 0,
+      "points_for": 1737.6,
+      "points_against": 1479.7,
+      "final_standing": 2,
+      "playoff_seed": null
+    },
+    {
+      "team_id": 10,
+      "team_name": "77 Degreez",
+      "owner": "Jacob Bergeron",
+      "wins": 6,
+      "losses": 7,
+      "ties": 0,
+      "points_for": 1664.9,
+      "points_against": 1745.95,
+      "final_standing": 3,
+      "playoff_seed": null
+    },
+    {
+      "team_id": 6,
+      "team_name": "MAGA   2020",
+      "owner": "Henry Krueger",
+      "wins": 7,
+      "losses": 6,
+      "ties": 0,
+      "points_for": 1637.1,
+      "points_against": 1592.3,
+      "final_standing": 4,
+      "playoff_seed": null
+    },
+    {
+      "team_id": 1,
+      "team_name": "Its Just  A Buzz",
+      "owner": "Patrick Gonsalves",
+      "wins": 9,
+      "losses": 4,
+      "ties": 0,
+      "points_for": 1711.8,
+      "points_against": 1503.7,
+      "final_standing": 5,
+      "playoff_seed": null
+    },
+    {
+      "team_id": 3,
+      "team_name": "Tannehill 2.0",
+      "owner": "Ryan Fleming",
+      "wins": 6,
+      "losses": 7,
+      "ties": 0,
+      "points_for": 1743.9,
+      "points_against": 1750.95,
+      "final_standing": 6,
+      "playoff_seed": null
+    },
+    {
+      "team_id": 9,
+      "team_name": "Big Balls",
+      "owner": "Ben Lenhart",
+      "wins": 5,
+      "losses": 8,
+      "ties": 0,
+      "points_for": 1459.4,
+      "points_against": 1691.2,
+      "final_standing": 7,
+      "playoff_seed": null
+    },
+    {
+      "team_id": 4,
+      "team_name": "Evil Snead",
+      "owner": "Steve  Gilmore",
+      "wins": 6,
+      "losses": 7,
+      "ties": 0,
+      "points_for": 1644.65,
+      "points_against": 1617.0,
+      "final_standing": 8,
+      "playoff_seed": null
+    },
+    {
+      "team_id": 11,
+      "team_name": "Bad  Juju",
+      "owner": "Christian Kelly",
+      "wins": 4,
+      "losses": 9,
+      "ties": 0,
+      "points_for": 1480.95,
+      "points_against": 1648.55,
+      "final_standing": 9,
+      "playoff_seed": null
+    },
+    {
+      "team_id": 5,
+      "team_name": "Mr. Big Chest",
+      "owner": "Brandon Baglio",
+      "wins": 4,
+      "losses": 9,
+      "ties": 0,
+      "points_for": 1450.2,
+      "points_against": 1746.1,
+      "final_standing": 10,
+      "playoff_seed": null
+    }
+  ],
+  "standings": [
+    {
+      "rank": 1,
+      "team_name": "Sizzling SeX GOD",
+      "owner": "george gillis",
+      "record": "9-4",
+      "points_for": 1819.1
+    },
+    {
+      "rank": 2,
+      "team_name": "Them New Asians",
+      "owner": "joshua deangelis",
+      "record": "9-4",
+      "points_for": 1737.6
+    },
+    {
+      "rank": 3,
+      "team_name": "77 Degreez",
+      "owner": "Jacob Bergeron",
+      "record": "6-7",
+      "points_for": 1664.9
+    },
+    {
+      "rank": 4,
+      "team_name": "MAGA   2020",
+      "owner": "Henry Krueger",
+      "record": "7-6",
+      "points_for": 1637.1
+    },
+    {
+      "rank": 5,
+      "team_name": "Its Just  A Buzz",
+      "owner": "Patrick Gonsalves",
+      "record": "9-4",
+      "points_for": 1711.8
+    },
+    {
+      "rank": 6,
+      "team_name": "Tannehill 2.0",
+      "owner": "Ryan Fleming",
+      "record": "6-7",
+      "points_for": 1743.9
+    },
+    {
+      "rank": 7,
+      "team_name": "Big Balls",
+      "owner": "Ben Lenhart",
+      "record": "5-8",
+      "points_for": 1459.4
+    },
+    {
+      "rank": 8,
+      "team_name": "Evil Snead",
+      "owner": "Steve  Gilmore",
+      "record": "6-7",
+      "points_for": 1644.65
+    },
+    {
+      "rank": 9,
+      "team_name": "Bad  Juju",
+      "owner": "Christian Kelly",
+      "record": "4-9",
+      "points_for": 1480.95
+    },
+    {
+      "rank": 10,
+      "team_name": "Mr. Big Chest",
+      "owner": "Brandon Baglio",
+      "record": "4-9",
+      "points_for": 1450.2
+    }
+  ],
+  "matchups": [
+    {
+      "week": 1,
+      "home_team": "Evil Snead",
+      "home_score": 113.85,
+      "away_team": "Its Just  A Buzz",
+      "away_score": 144.8,
+      "is_playoff": false
+    },
+    {
+      "week": 1,
+      "home_team": "Mr. Big Chest",
+      "home_score": 121.1,
+      "away_team": "Them New Asians",
+      "away_score": 164.5,
+      "is_playoff": false
+    },
+    {
+      "week": 1,
+      "home_team": "Bad  Juju",
+      "home_score": 116.45,
+      "away_team": "Big Balls",
+      "away_score": 96.95,
+      "is_playoff": false
+    },
+    {
+      "week": 1,
+      "home_team": "77 Degreez",
+      "home_score": 139.2,
+      "away_team": "MAGA   2020",
+      "away_score": 116.95,
+      "is_playoff": false
+    },
+    {
+      "week": 1,
+      "home_team": "Tannehill 2.0",
+      "home_score": 148.9,
+      "away_team": "Sizzling SeX GOD",
+      "away_score": 137.1,
+      "is_playoff": false
+    },
+    {
+      "week": 2,
+      "home_team": "Its Just  A Buzz",
+      "home_score": 101.7,
+      "away_team": "Them New Asians",
+      "away_score": 134.85,
+      "is_playoff": false
+    },
+    {
+      "week": 2,
+      "home_team": "Big Balls",
+      "home_score": 118.15,
+      "away_team": "Evil Snead",
+      "away_score": 117.05,
+      "is_playoff": false
+    },
+    {
+      "week": 2,
+      "home_team": "MAGA   2020",
+      "home_score": 133.95,
+      "away_team": "Mr. Big Chest",
+      "away_score": 101.2,
+      "is_playoff": false
+    },
+    {
+      "week": 2,
+      "home_team": "Sizzling SeX GOD",
+      "home_score": 131.85,
+      "away_team": "Bad  Juju",
+      "away_score": 127.05,
+      "is_playoff": false
+    },
+    {
+      "week": 2,
+      "home_team": "Tannehill 2.0",
+      "home_score": 144.25,
+      "away_team": "77 Degreez",
+      "away_score": 125.8,
+      "is_playoff": false
+    },
+    {
+      "week": 3,
+      "home_team": "Big Balls",
+      "home_score": 145.25,
+      "away_team": "Its Just  A Buzz",
+      "away_score": 129.75,
+      "is_playoff": false
+    },
+    {
+      "week": 3,
+      "home_team": "Them New Asians",
+      "home_score": 107.85,
+      "away_team": "MAGA   2020",
+      "away_score": 149.25,
+      "is_playoff": false
+    },
+    {
+      "week": 3,
+      "home_team": "Evil Snead",
+      "home_score": 146.2,
+      "away_team": "Sizzling SeX GOD",
+      "away_score": 110.15,
+      "is_playoff": false
+    },
+    {
+      "week": 3,
+      "home_team": "Mr. Big Chest",
+      "home_score": 120.0,
+      "away_team": "Tannehill 2.0",
+      "away_score": 206.3,
+      "is_playoff": false
+    },
+    {
+      "week": 3,
+      "home_team": "Bad  Juju",
+      "home_score": 133.55,
+      "away_team": "77 Degreez",
+      "away_score": 151.1,
+      "is_playoff": false
+    },
+    {
+      "week": 4,
+      "home_team": "Its Just  A Buzz",
+      "home_score": 138.95,
+      "away_team": "MAGA   2020",
+      "away_score": 101.3,
+      "is_playoff": false
+    },
+    {
+      "week": 4,
+      "home_team": "Sizzling SeX GOD",
+      "home_score": 176.6,
+      "away_team": "Big Balls",
+      "away_score": 88.25,
+      "is_playoff": false
+    },
+    {
+      "week": 4,
+      "home_team": "Tannehill 2.0",
+      "home_score": 110.35,
+      "away_team": "Them New Asians",
+      "away_score": 114.1,
+      "is_playoff": false
+    },
+    {
+      "week": 4,
+      "home_team": "77 Degreez",
+      "home_score": 124.1,
+      "away_team": "Evil Snead",
+      "away_score": 117.25,
+      "is_playoff": false
+    },
+    {
+      "week": 4,
+      "home_team": "Bad  Juju",
+      "home_score": 133.9,
+      "away_team": "Mr. Big Chest",
+      "away_score": 96.6,
+      "is_playoff": false
+    },
+    {
+      "week": 5,
+      "home_team": "Sizzling SeX GOD",
+      "home_score": 138.75,
+      "away_team": "Its Just  A Buzz",
+      "away_score": 137.55,
+      "is_playoff": false
+    },
+    {
+      "week": 5,
+      "home_team": "MAGA   2020",
+      "home_score": 165.15,
+      "away_team": "Tannehill 2.0",
+      "away_score": 127.9,
+      "is_playoff": false
+    },
+    {
+      "week": 5,
+      "home_team": "Big Balls",
+      "home_score": 141.95,
+      "away_team": "77 Degreez",
+      "away_score": 167.1,
+      "is_playoff": false
+    },
+    {
+      "week": 5,
+      "home_team": "Them New Asians",
+      "home_score": 151.9,
+      "away_team": "Bad  Juju",
+      "away_score": 72.8,
+      "is_playoff": false
+    },
+    {
+      "week": 5,
+      "home_team": "Evil Snead",
+      "home_score": 127.35,
+      "away_team": "Mr. Big Chest",
+      "away_score": 160.3,
+      "is_playoff": false
+    },
+    {
+      "week": 6,
+      "home_team": "Its Just  A Buzz",
+      "home_score": 142.4,
+      "away_team": "Tannehill 2.0",
+      "away_score": 130.15,
+      "is_playoff": false
+    },
+    {
+      "week": 6,
+      "home_team": "77 Degreez",
+      "home_score": 170.3,
+      "away_team": "Sizzling SeX GOD",
+      "away_score": 111.75,
+      "is_playoff": false
+    },
+    {
+      "week": 6,
+      "home_team": "Bad  Juju",
+      "home_score": 97.2,
+      "away_team": "MAGA   2020",
+      "away_score": 100.5,
+      "is_playoff": false
+    },
+    {
+      "week": 6,
+      "home_team": "Mr. Big Chest",
+      "home_score": 108.05,
+      "away_team": "Big Balls",
+      "away_score": 105.7,
+      "is_playoff": false
+    },
+    {
+      "week": 6,
+      "home_team": "Evil Snead",
+      "home_score": 162.5,
+      "away_team": "Them New Asians",
+      "away_score": 119.7,
+      "is_playoff": false
+    },
+    {
+      "week": 7,
+      "home_team": "77 Degreez",
+      "home_score": 81.65,
+      "away_team": "Its Just  A Buzz",
+      "away_score": 101.25,
+      "is_playoff": false
+    },
+    {
+      "week": 7,
+      "home_team": "Tannehill 2.0",
+      "home_score": 98.8,
+      "away_team": "Bad  Juju",
+      "away_score": 156.25,
+      "is_playoff": false
+    },
+    {
+      "week": 7,
+      "home_team": "Sizzling SeX GOD",
+      "home_score": 116.6,
+      "away_team": "Mr. Big Chest",
+      "away_score": 86.95,
+      "is_playoff": false
+    },
+    {
+      "week": 7,
+      "home_team": "MAGA   2020",
+      "home_score": 101.15,
+      "away_team": "Evil Snead",
+      "away_score": 108.55,
+      "is_playoff": false
+    },
+    {
+      "week": 7,
+      "home_team": "Big Balls",
+      "home_score": 76.9,
+      "away_team": "Them New Asians",
+      "away_score": 127.0,
+      "is_playoff": false
+    },
+    {
+      "week": 8,
+      "home_team": "Its Just  A Buzz",
+      "home_score": 146.5,
+      "away_team": "Bad  Juju",
+      "away_score": 139.05,
+      "is_playoff": false
+    },
+    {
+      "week": 8,
+      "home_team": "Mr. Big Chest",
+      "home_score": 132.2,
+      "away_team": "77 Degreez",
+      "away_score": 111.85,
+      "is_playoff": false
+    },
+    {
+      "week": 8,
+      "home_team": "Evil Snead",
+      "home_score": 157.7,
+      "away_team": "Tannehill 2.0",
+      "away_score": 116.0,
+      "is_playoff": false
+    },
+    {
+      "week": 8,
+      "home_team": "Them New Asians",
+      "home_score": 112.95,
+      "away_team": "Sizzling SeX GOD",
+      "away_score": 131.65,
+      "is_playoff": false
+    },
+    {
+      "week": 8,
+      "home_team": "Big Balls",
+      "home_score": 139.6,
+      "away_team": "MAGA   2020",
+      "away_score": 127.6,
+      "is_playoff": false
+    },
+    {
+      "week": 9,
+      "home_team": "Mr. Big Chest",
+      "home_score": 126.7,
+      "away_team": "Its Just  A Buzz",
+      "away_score": 120.85,
+      "is_playoff": false
+    },
+    {
+      "week": 9,
+      "home_team": "Bad  Juju",
+      "home_score": 105.85,
+      "away_team": "Evil Snead",
+      "away_score": 137.4,
+      "is_playoff": false
+    },
+    {
+      "week": 9,
+      "home_team": "77 Degreez",
+      "home_score": 103.55,
+      "away_team": "Them New Asians",
+      "away_score": 148.45,
+      "is_playoff": false
+    },
+    {
+      "week": 9,
+      "home_team": "Tannehill 2.0",
+      "home_score": 107.3,
+      "away_team": "Big Balls",
+      "away_score": 97.55,
+      "is_playoff": false
+    },
+    {
+      "week": 9,
+      "home_team": "Sizzling SeX GOD",
+      "home_score": 165.1,
+      "away_team": "MAGA   2020",
+      "away_score": 165.45,
+      "is_playoff": false
+    },
+    {
+      "week": 10,
+      "home_team": "Its Just  A Buzz",
+      "home_score": 125.55,
+      "away_team": "Evil Snead",
+      "away_score": 108.35,
+      "is_playoff": false
+    },
+    {
+      "week": 10,
+      "home_team": "Them New Asians",
+      "home_score": 145.75,
+      "away_team": "Mr. Big Chest",
+      "away_score": 99.2,
+      "is_playoff": false
+    },
+    {
+      "week": 10,
+      "home_team": "Big Balls",
+      "home_score": 132.9,
+      "away_team": "Bad  Juju",
+      "away_score": 95.95,
+      "is_playoff": false
+    },
+    {
+      "week": 10,
+      "home_team": "MAGA   2020",
+      "home_score": 177.6,
+      "away_team": "77 Degreez",
+      "away_score": 115.0,
+      "is_playoff": false
+    },
+    {
+      "week": 10,
+      "home_team": "Sizzling SeX GOD",
+      "home_score": 158.4,
+      "away_team": "Tannehill 2.0",
+      "away_score": 151.8,
+      "is_playoff": false
+    },
+    {
+      "week": 11,
+      "home_team": "Them New Asians",
+      "home_score": 112.55,
+      "away_team": "Its Just  A Buzz",
+      "away_score": 141.2,
+      "is_playoff": false
+    },
+    {
+      "week": 11,
+      "home_team": "Evil Snead",
+      "home_score": 108.4,
+      "away_team": "Big Balls",
+      "away_score": 139.9,
+      "is_playoff": false
+    },
+    {
+      "week": 11,
+      "home_team": "Mr. Big Chest",
+      "home_score": 81.0,
+      "away_team": "MAGA   2020",
+      "away_score": 131.55,
+      "is_playoff": false
+    },
+    {
+      "week": 11,
+      "home_team": "Bad  Juju",
+      "home_score": 61.45,
+      "away_team": "Sizzling SeX GOD",
+      "away_score": 153.0,
+      "is_playoff": false
+    },
+    {
+      "week": 11,
+      "home_team": "77 Degreez",
+      "home_score": 132.7,
+      "away_team": "Tannehill 2.0",
+      "away_score": 148.65,
+      "is_playoff": false
+    },
+    {
+      "week": 12,
+      "home_team": "Its Just  A Buzz",
+      "home_score": 165.75,
+      "away_team": "Big Balls",
+      "away_score": 92.15,
+      "is_playoff": false
+    },
+    {
+      "week": 12,
+      "home_team": "MAGA   2020",
+      "home_score": 87.55,
+      "away_team": "Them New Asians",
+      "away_score": 155.2,
+      "is_playoff": false
+    },
+    {
+      "week": 12,
+      "home_team": "Sizzling SeX GOD",
+      "home_score": 143.95,
+      "away_team": "Evil Snead",
+      "away_score": 93.15,
+      "is_playoff": false
+    },
+    {
+      "week": 12,
+      "home_team": "Tannehill 2.0",
+      "home_score": 131.55,
+      "away_team": "Mr. Big Chest",
+      "away_score": 101.0,
+      "is_playoff": false
+    },
+    {
+      "week": 12,
+      "home_team": "77 Degreez",
+      "home_score": 135.15,
+      "away_team": "Bad  Juju",
+      "away_score": 125.2,
+      "is_playoff": false
+    },
+    {
+      "week": 13,
+      "home_team": "MAGA   2020",
+      "home_score": 79.1,
+      "away_team": "Its Just  A Buzz",
+      "away_score": 115.55,
+      "is_playoff": false
+    },
+    {
+      "week": 13,
+      "home_team": "Big Balls",
+      "home_score": 84.15,
+      "away_team": "Sizzling SeX GOD",
+      "away_score": 144.2,
+      "is_playoff": false
+    },
+    {
+      "week": 13,
+      "home_team": "Them New Asians",
+      "home_score": 142.8,
+      "away_team": "Tannehill 2.0",
+      "away_score": 121.95,
+      "is_playoff": false
+    },
+    {
+      "week": 13,
+      "home_team": "Evil Snead",
+      "home_score": 146.9,
+      "away_team": "77 Degreez",
+      "away_score": 107.4,
+      "is_playoff": false
+    },
+    {
+      "week": 13,
+      "home_team": "Mr. Big Chest",
+      "home_score": 115.9,
+      "away_team": "Bad  Juju",
+      "away_score": 116.25,
+      "is_playoff": false
+    },
+    {
+      "week": 14,
+      "home_team": "MAGA   2020",
+      "home_score": 121.15,
+      "away_team": "Tannehill 2.0",
+      "away_score": 104.05,
+      "is_playoff": false
+    },
+    {
+      "week": 14,
+      "home_team": "Its Just  A Buzz",
+      "home_score": 92.25,
+      "away_team": "77 Degreez",
+      "away_score": 112.85,
+      "is_playoff": false
+    },
+    {
+      "week": 14,
+      "home_team": "Evil Snead",
+      "home_score": 127.0,
+      "away_team": "Big Balls",
+      "away_score": 107.7,
+      "is_playoff": false
+    },
+    {
+      "week": 14,
+      "home_team": "Bad  Juju",
+      "home_score": 70.85,
+      "away_team": "Mr. Big Chest",
+      "away_score": 132.45,
+      "is_playoff": false
+    },
+    {
+      "week": 15,
+      "home_team": "Sizzling SeX GOD",
+      "home_score": 166.85,
+      "away_team": "MAGA   2020",
+      "away_score": 148.1,
+      "is_playoff": true
+    },
+    {
+      "week": 15,
+      "home_team": "Them New Asians",
+      "home_score": 162.35,
+      "away_team": "77 Degreez",
+      "away_score": 110.8,
+      "is_playoff": true
+    },
+    {
+      "week": 15,
+      "home_team": "Its Just  A Buzz",
+      "home_score": 113.4,
+      "away_team": "Tannehill 2.0",
+      "away_score": 2.9,
+      "is_playoff": true
+    },
+    {
+      "week": 15,
+      "home_team": "Evil Snead",
+      "home_score": 153.75,
+      "away_team": "Mr. Big Chest",
+      "away_score": 148.0,
+      "is_playoff": true
+    },
+    {
+      "week": 15,
+      "home_team": "Big Balls",
+      "home_score": 128.95,
+      "away_team": "Bad  Juju",
+      "away_score": 93.85,
+      "is_playoff": true
+    },
+    {
+      "week": 16,
+      "home_team": "Sizzling SeX GOD",
+      "home_score": 152.7,
+      "away_team": "Them New Asians",
+      "away_score": 106.7,
+      "is_playoff": true
+    },
+    {
+      "week": 16,
+      "home_team": "MAGA   2020",
+      "home_score": 115.55,
+      "away_team": "77 Degreez",
+      "away_score": 142.25,
+      "is_playoff": true
+    },
+    {
+      "week": 16,
+      "home_team": "Its Just  A Buzz",
+      "home_score": 97.2,
+      "away_team": "Tannehill 2.0",
+      "away_score": 14.2,
+      "is_playoff": true
+    },
+    {
+      "week": 16,
+      "home_team": "Evil Snead",
+      "home_score": 89.75,
+      "away_team": "Big Balls",
+      "away_score": 106.5,
+      "is_playoff": true
+    },
+    {
+      "week": 16,
+      "home_team": "Bad  Juju",
+      "home_score": 130.1,
+      "away_team": "Mr. Big Chest",
+      "away_score": 115.45,
+      "is_playoff": true
+    },
+    {
+      "week": 17,
+      "home_team": "Sizzling SeX GOD",
+      "home_score": 152.7,
+      "away_team": "Them New Asians",
+      "away_score": 106.7,
+      "is_playoff": true
+    },
+    {
+      "week": 17,
+      "home_team": "MAGA   2020",
+      "home_score": 115.55,
+      "away_team": "77 Degreez",
+      "away_score": 142.25,
+      "is_playoff": true
+    },
+    {
+      "week": 17,
+      "home_team": "Its Just  A Buzz",
+      "home_score": 97.2,
+      "away_team": "Tannehill 2.0",
+      "away_score": 14.2,
+      "is_playoff": true
+    },
+    {
+      "week": 17,
+      "home_team": "Evil Snead",
+      "home_score": 89.75,
+      "away_team": "Big Balls",
+      "away_score": 106.5,
+      "is_playoff": true
+    },
+    {
+      "week": 17,
+      "home_team": "Bad  Juju",
+      "home_score": 130.1,
+      "away_team": "Mr. Big Chest",
+      "away_score": 115.45,
+      "is_playoff": true
+    }
+  ],
+  "playoffs": [],
+  "draft": [
+    {
+      "round": 1,
+      "pick": 1,
+      "overall": 1,
+      "team": "Evil Snead",
+      "player": "Adam Thielen"
+    },
+    {
+      "round": 1,
+      "pick": 2,
+      "overall": 2,
+      "team": "Tannehill 2.0",
+      "player": "Alvin Kamara"
+    },
+    {
+      "round": 1,
+      "pick": 3,
+      "overall": 3,
+      "team": "Big Balls",
+      "player": "Joe Mixon"
+    },
+    {
+      "round": 1,
+      "pick": 4,
+      "overall": 4,
+      "team": "Sizzling SeX GOD",
+      "player": "Robert Woods"
+    },
+    {
+      "round": 1,
+      "pick": 5,
+      "overall": 5,
+      "team": "Its Just  A Buzz",
+      "player": "DeAndre Hopkins"
+    },
+    {
+      "round": 1,
+      "pick": 6,
+      "overall": 6,
+      "team": "Them New Asians",
+      "player": "Tyreek Hill"
+    },
+    {
+      "round": 1,
+      "pick": 7,
+      "overall": 7,
+      "team": "Bad  Juju",
+      "player": "JuJu Smith-Schuster"
+    },
+    {
+      "round": 1,
+      "pick": 8,
+      "overall": 8,
+      "team": "Mr. Big Chest",
+      "player": "Odell Beckham Jr."
+    },
+    {
+      "round": 1,
+      "pick": 9,
+      "overall": 9,
+      "team": "77 Degreez",
+      "player": "Christian McCaffrey"
+    },
+    {
+      "round": 1,
+      "pick": 10,
+      "overall": 10,
+      "team": "MAGA   2020",
+      "player": "Tyler Lockett"
+    },
+    {
+      "round": 2,
+      "pick": 1,
+      "overall": 11,
+      "team": "Evil Snead",
+      "player": "James Conner"
+    },
+    {
+      "round": 2,
+      "pick": 2,
+      "overall": 12,
+      "team": "Tannehill 2.0",
+      "player": "Keenan Allen"
+    },
+    {
+      "round": 2,
+      "pick": 3,
+      "overall": 13,
+      "team": "Big Balls",
+      "player": "Julio Jones"
+    },
+    {
+      "round": 2,
+      "pick": 4,
+      "overall": 14,
+      "team": "Sizzling SeX GOD",
+      "player": "Davante Adams"
+    },
+    {
+      "round": 2,
+      "pick": 5,
+      "overall": 15,
+      "team": "Its Just  A Buzz",
+      "player": "David Johnson"
+    },
+    {
+      "round": 2,
+      "pick": 6,
+      "overall": 16,
+      "team": "Them New Asians",
+      "player": "Ezekiel Elliott"
+    },
+    {
+      "round": 2,
+      "pick": 7,
+      "overall": 17,
+      "team": "Bad  Juju",
+      "player": "Saquon Barkley"
+    },
+    {
+      "round": 2,
+      "pick": 8,
+      "overall": 18,
+      "team": "Mr. Big Chest",
+      "player": "Todd Gurley II"
+    },
+    {
+      "round": 2,
+      "pick": 9,
+      "overall": 19,
+      "team": "77 Degreez",
+      "player": "T.Y. Hilton"
+    },
+    {
+      "round": 2,
+      "pick": 10,
+      "overall": 20,
+      "team": "MAGA   2020",
+      "player": "Michael Thomas"
+    },
+    {
+      "round": 3,
+      "pick": 1,
+      "overall": 21,
+      "team": "MAGA   2020",
+      "player": "Travis Kelce"
+    },
+    {
+      "round": 3,
+      "pick": 2,
+      "overall": 22,
+      "team": "77 Degreez",
+      "player": "Devonta Freeman"
+    },
+    {
+      "round": 3,
+      "pick": 3,
+      "overall": 23,
+      "team": "Mr. Big Chest",
+      "player": "Aaron Jones"
+    },
+    {
+      "round": 3,
+      "pick": 4,
+      "overall": 24,
+      "team": "Bad  Juju",
+      "player": "Nick Chubb"
+    },
+    {
+      "round": 3,
+      "pick": 5,
+      "overall": 25,
+      "team": "Them New Asians",
+      "player": "Zach Ertz"
+    },
+    {
+      "round": 3,
+      "pick": 6,
+      "overall": 26,
+      "team": "Its Just  A Buzz",
+      "player": "Stefon Diggs"
+    },
+    {
+      "round": 3,
+      "pick": 7,
+      "overall": 27,
+      "team": "Sizzling SeX GOD",
+      "player": "Dalvin Cook"
+    },
+    {
+      "round": 3,
+      "pick": 8,
+      "overall": 28,
+      "team": "Big Balls",
+      "player": "Le'Veon Bell"
+    },
+    {
+      "round": 3,
+      "pick": 9,
+      "overall": 29,
+      "team": "Tannehill 2.0",
+      "player": "Kerryon Johnson"
+    },
+    {
+      "round": 3,
+      "pick": 10,
+      "overall": 30,
+      "team": "Evil Snead",
+      "player": "Mike Evans"
+    },
+    {
+      "round": 4,
+      "pick": 1,
+      "overall": 31,
+      "team": "Evil Snead",
+      "player": "Chris Carson"
+    },
+    {
+      "round": 4,
+      "pick": 2,
+      "overall": 32,
+      "team": "Tannehill 2.0",
+      "player": "Julian Edelman"
+    },
+    {
+      "round": 4,
+      "pick": 3,
+      "overall": 33,
+      "team": "Big Balls",
+      "player": "Antonio Brown"
+    },
+    {
+      "round": 4,
+      "pick": 4,
+      "overall": 34,
+      "team": "Sizzling SeX GOD",
+      "player": "George Kittle"
+    },
+    {
+      "round": 4,
+      "pick": 5,
+      "overall": 35,
+      "team": "Its Just  A Buzz",
+      "player": "Leonard Fournette"
+    },
+    {
+      "round": 4,
+      "pick": 6,
+      "overall": 36,
+      "team": "Them New Asians",
+      "player": "Deshaun Watson"
+    },
+    {
+      "round": 4,
+      "pick": 7,
+      "overall": 37,
+      "team": "Bad  Juju",
+      "player": "Brandin Cooks"
+    },
+    {
+      "round": 4,
+      "pick": 8,
+      "overall": 38,
+      "team": "Mr. Big Chest",
+      "player": "Allen Robinson II"
+    },
+    {
+      "round": 4,
+      "pick": 9,
+      "overall": 39,
+      "team": "77 Degreez",
+      "player": "Chris Godwin"
+    },
+    {
+      "round": 4,
+      "pick": 10,
+      "overall": 40,
+      "team": "MAGA   2020",
+      "player": "Amari Cooper"
+    },
+    {
+      "round": 5,
+      "pick": 1,
+      "overall": 41,
+      "team": "MAGA   2020",
+      "player": "Josh Jacobs"
+    },
+    {
+      "round": 5,
+      "pick": 2,
+      "overall": 42,
+      "team": "77 Degreez",
+      "player": "Hunter Henry"
+    },
+    {
+      "round": 5,
+      "pick": 3,
+      "overall": 43,
+      "team": "Mr. Big Chest",
+      "player": "Jared Cook"
+    },
+    {
+      "round": 5,
+      "pick": 4,
+      "overall": 44,
+      "team": "Bad  Juju",
+      "player": "Marlon Mack"
+    },
+    {
+      "round": 5,
+      "pick": 5,
+      "overall": 45,
+      "team": "Them New Asians",
+      "player": "Derrick Henry"
+    },
+    {
+      "round": 5,
+      "pick": 6,
+      "overall": 46,
+      "team": "Its Just  A Buzz",
+      "player": "Tyler Boyd"
+    },
+    {
+      "round": 5,
+      "pick": 7,
+      "overall": 47,
+      "team": "Sizzling SeX GOD",
+      "player": "David Montgomery"
+    },
+    {
+      "round": 5,
+      "pick": 8,
+      "overall": 48,
+      "team": "Big Balls",
+      "player": "Cooper Kupp"
+    },
+    {
+      "round": 5,
+      "pick": 9,
+      "overall": 49,
+      "team": "Tannehill 2.0",
+      "player": "Mark Ingram II"
+    },
+    {
+      "round": 5,
+      "pick": 10,
+      "overall": 50,
+      "team": "Evil Snead",
+      "player": "Damien Williams"
+    },
+    {
+      "round": 6,
+      "pick": 1,
+      "overall": 51,
+      "team": "Evil Snead",
+      "player": "A.J. Green"
+    },
+    {
+      "round": 6,
+      "pick": 2,
+      "overall": 52,
+      "team": "Tannehill 2.0",
+      "player": "Vance McDonald"
+    },
+    {
+      "round": 6,
+      "pick": 3,
+      "overall": 53,
+      "team": "Big Balls",
+      "player": "O.J. Howard"
+    },
+    {
+      "round": 6,
+      "pick": 4,
+      "overall": 54,
+      "team": "Sizzling SeX GOD",
+      "player": "Kenny Golladay"
+    },
+    {
+      "round": 6,
+      "pick": 5,
+      "overall": 55,
+      "team": "Its Just  A Buzz",
+      "player": "Evan Engram"
+    },
+    {
+      "round": 6,
+      "pick": 6,
+      "overall": 56,
+      "team": "Them New Asians",
+      "player": "Josh Gordon"
+    },
+    {
+      "round": 6,
+      "pick": 7,
+      "overall": 57,
+      "team": "Bad  Juju",
+      "player": "Aaron Rodgers"
+    },
+    {
+      "round": 6,
+      "pick": 8,
+      "overall": 58,
+      "team": "Mr. Big Chest",
+      "player": "Phillip Lindsay"
+    },
+    {
+      "round": 6,
+      "pick": 9,
+      "overall": 59,
+      "team": "77 Degreez",
+      "player": "Tevin Coleman"
+    },
+    {
+      "round": 6,
+      "pick": 10,
+      "overall": 60,
+      "team": "MAGA   2020",
+      "player": "Melvin Gordon"
+    },
+    {
+      "round": 7,
+      "pick": 1,
+      "overall": 61,
+      "team": "MAGA   2020",
+      "player": "Sony Michel"
+    },
+    {
+      "round": 7,
+      "pick": 2,
+      "overall": 62,
+      "team": "77 Degreez",
+      "player": "Matt Ryan"
+    },
+    {
+      "round": 7,
+      "pick": 3,
+      "overall": 63,
+      "team": "Mr. Big Chest",
+      "player": "Drew Brees"
+    },
+    {
+      "round": 7,
+      "pick": 4,
+      "overall": 64,
+      "team": "Bad  Juju",
+      "player": "David Njoku"
+    },
+    {
+      "round": 7,
+      "pick": 5,
+      "overall": 65,
+      "team": "Them New Asians",
+      "player": "Calvin Ridley"
+    },
+    {
+      "round": 7,
+      "pick": 6,
+      "overall": 66,
+      "team": "Its Just  A Buzz",
+      "player": "Duke Johnson"
+    },
+    {
+      "round": 7,
+      "pick": 7,
+      "overall": 67,
+      "team": "Sizzling SeX GOD",
+      "player": "Jared Goff"
+    },
+    {
+      "round": 7,
+      "pick": 8,
+      "overall": 68,
+      "team": "Big Balls",
+      "player": "Baker Mayfield"
+    },
+    {
+      "round": 7,
+      "pick": 9,
+      "overall": 69,
+      "team": "Tannehill 2.0",
+      "player": "Robby Anderson"
+    },
+    {
+      "round": 7,
+      "pick": 10,
+      "overall": 70,
+      "team": "Evil Snead",
+      "player": "James White"
+    },
+    {
+      "round": 8,
+      "pick": 1,
+      "overall": 71,
+      "team": "Evil Snead",
+      "player": "DJ Moore"
+    },
+    {
+      "round": 8,
+      "pick": 2,
+      "overall": 72,
+      "team": "Tannehill 2.0",
+      "player": "Marquez Valdes-Scantling"
+    },
+    {
+      "round": 8,
+      "pick": 3,
+      "overall": 73,
+      "team": "Big Balls",
+      "player": "Mike Williams"
+    },
+    {
+      "round": 8,
+      "pick": 4,
+      "overall": 74,
+      "team": "Sizzling SeX GOD",
+      "player": "Miles Sanders"
+    },
+    {
+      "round": 8,
+      "pick": 5,
+      "overall": 75,
+      "team": "Its Just  A Buzz",
+      "player": "Dede Westbrook"
+    },
+    {
+      "round": 8,
+      "pick": 6,
+      "overall": 76,
+      "team": "Them New Asians",
+      "player": "Austin Ekeler"
+    },
+    {
+      "round": 8,
+      "pick": 7,
+      "overall": 77,
+      "team": "Bad  Juju",
+      "player": "Jarvis Landry"
+    },
+    {
+      "round": 8,
+      "pick": 8,
+      "overall": 78,
+      "team": "Mr. Big Chest",
+      "player": "Tarik Cohen"
+    },
+    {
+      "round": 8,
+      "pick": 9,
+      "overall": 79,
+      "team": "77 Degreez",
+      "player": "Larry Fitzgerald"
+    },
+    {
+      "round": 8,
+      "pick": 10,
+      "overall": 80,
+      "team": "MAGA   2020",
+      "player": "Alshon Jeffery"
+    },
+    {
+      "round": 9,
+      "pick": 1,
+      "overall": 81,
+      "team": "MAGA   2020",
+      "player": "Carson Wentz"
+    },
+    {
+      "round": 9,
+      "pick": 2,
+      "overall": 82,
+      "team": "77 Degreez",
+      "player": "LeSean McCoy"
+    },
+    {
+      "round": 9,
+      "pick": 3,
+      "overall": 83,
+      "team": "Mr. Big Chest",
+      "player": "Emmanuel Sanders"
+    },
+    {
+      "round": 9,
+      "pick": 4,
+      "overall": 84,
+      "team": "Bad  Juju",
+      "player": "Will Fuller V"
+    },
+    {
+      "round": 9,
+      "pick": 5,
+      "overall": 85,
+      "team": "Them New Asians",
+      "player": "Kenyan Drake"
+    },
+    {
+      "round": 9,
+      "pick": 6,
+      "overall": 86,
+      "team": "Its Just  A Buzz",
+      "player": "Curtis Samuel"
+    },
+    {
+      "round": 9,
+      "pick": 7,
+      "overall": 87,
+      "team": "Sizzling SeX GOD",
+      "player": "Darrell Henderson Jr."
+    },
+    {
+      "round": 9,
+      "pick": 8,
+      "overall": 88,
+      "team": "Big Balls",
+      "player": "Carlos Hyde"
+    },
+    {
+      "round": 9,
+      "pick": 9,
+      "overall": 89,
+      "team": "Tannehill 2.0",
+      "player": "Rashaad Penny"
+    },
+    {
+      "round": 9,
+      "pick": 10,
+      "overall": 90,
+      "team": "Evil Snead",
+      "player": "Cam Newton"
+    },
+    {
+      "round": 10,
+      "pick": 1,
+      "overall": 91,
+      "team": "Evil Snead",
+      "player": "Bears D/ST"
+    },
+    {
+      "round": 10,
+      "pick": 2,
+      "overall": 92,
+      "team": "Tannehill 2.0",
+      "player": "Patriots D/ST"
+    },
+    {
+      "round": 10,
+      "pick": 3,
+      "overall": 93,
+      "team": "Big Balls",
+      "player": "Marvin Jones Jr."
+    },
+    {
+      "round": 10,
+      "pick": 4,
+      "overall": 94,
+      "team": "Sizzling SeX GOD",
+      "player": "Dante Pettis"
+    },
+    {
+      "round": 10,
+      "pick": 5,
+      "overall": 95,
+      "team": "Its Just  A Buzz",
+      "player": "Derrius Guice"
+    },
+    {
+      "round": 10,
+      "pick": 6,
+      "overall": 96,
+      "team": "Them New Asians",
+      "player": "Corey Davis"
+    },
+    {
+      "round": 10,
+      "pick": 7,
+      "overall": 97,
+      "team": "Bad  Juju",
+      "player": "Rams D/ST"
+    },
+    {
+      "round": 10,
+      "pick": 8,
+      "overall": 98,
+      "team": "Mr. Big Chest",
+      "player": "Delanie Walker"
+    },
+    {
+      "round": 10,
+      "pick": 9,
+      "overall": 99,
+      "team": "77 Degreez",
+      "player": "Sterling Shepard"
+    },
+    {
+      "round": 10,
+      "pick": 10,
+      "overall": 100,
+      "team": "MAGA   2020",
+      "player": "Latavius Murray"
+    },
+    {
+      "round": 11,
+      "pick": 1,
+      "overall": 101,
+      "team": "MAGA   2020",
+      "player": "Jaguars D/ST"
+    },
+    {
+      "round": 11,
+      "pick": 2,
+      "overall": 102,
+      "team": "77 Degreez",
+      "player": "Saints D/ST"
+    },
+    {
+      "round": 11,
+      "pick": 3,
+      "overall": 103,
+      "team": "Mr. Big Chest",
+      "player": "Vikings D/ST"
+    },
+    {
+      "round": 11,
+      "pick": 4,
+      "overall": 104,
+      "team": "Bad  Juju",
+      "player": "Sammy Watkins"
+    },
+    {
+      "round": 11,
+      "pick": 5,
+      "overall": 105,
+      "team": "Them New Asians",
+      "player": "Peyton Barber"
+    },
+    {
+      "round": 11,
+      "pick": 6,
+      "overall": 106,
+      "team": "Its Just  A Buzz",
+      "player": "Courtland Sutton"
+    },
+    {
+      "round": 11,
+      "pick": 7,
+      "overall": 107,
+      "team": "Sizzling SeX GOD",
+      "player": "Devin Singletary"
+    },
+    {
+      "round": 11,
+      "pick": 8,
+      "overall": 108,
+      "team": "Big Balls",
+      "player": "Jordan Howard"
+    },
+    {
+      "round": 11,
+      "pick": 9,
+      "overall": 109,
+      "team": "Tannehill 2.0",
+      "player": "Damien Harris"
+    },
+    {
+      "round": 11,
+      "pick": 10,
+      "overall": 110,
+      "team": "Evil Snead",
+      "player": "Christian Kirk"
+    },
+    {
+      "round": 12,
+      "pick": 1,
+      "overall": 111,
+      "team": "Evil Snead",
+      "player": "Ronald Jones II"
+    },
+    {
+      "round": 12,
+      "pick": 2,
+      "overall": 112,
+      "team": "Tannehill 2.0",
+      "player": "T.J. Hockenson"
+    },
+    {
+      "round": 12,
+      "pick": 3,
+      "overall": 113,
+      "team": "Big Balls",
+      "player": "Ravens D/ST"
+    },
+    {
+      "round": 12,
+      "pick": 4,
+      "overall": 114,
+      "team": "Sizzling SeX GOD",
+      "player": "Matt Breida"
+    },
+    {
+      "round": 12,
+      "pick": 5,
+      "overall": 115,
+      "team": "Its Just  A Buzz",
+      "player": "Darwin Thompson"
+    },
+    {
+      "round": 12,
+      "pick": 6,
+      "overall": 116,
+      "team": "Them New Asians",
+      "player": "Tyrell Williams"
+    },
+    {
+      "round": 12,
+      "pick": 7,
+      "overall": 117,
+      "team": "Bad  Juju",
+      "player": "Austin Hooper"
+    },
+    {
+      "round": 12,
+      "pick": 8,
+      "overall": 118,
+      "team": "Mr. Big Chest",
+      "player": "Eric Ebron"
+    },
+    {
+      "round": 12,
+      "pick": 9,
+      "overall": 119,
+      "team": "77 Degreez",
+      "player": "Donte Moncrief"
+    },
+    {
+      "round": 12,
+      "pick": 10,
+      "overall": 120,
+      "team": "MAGA   2020",
+      "player": "Jamison Crowder"
+    },
+    {
+      "round": 13,
+      "pick": 1,
+      "overall": 121,
+      "team": "MAGA   2020",
+      "player": "Justice Hill"
+    },
+    {
+      "round": 13,
+      "pick": 2,
+      "overall": 122,
+      "team": "77 Degreez",
+      "player": "Lamar Miller"
+    },
+    {
+      "round": 13,
+      "pick": 3,
+      "overall": 123,
+      "team": "Mr. Big Chest",
+      "player": "Stephen Gostkowski"
+    },
+    {
+      "round": 13,
+      "pick": 4,
+      "overall": 124,
+      "team": "Bad  Juju",
+      "player": "Greg Zuerlein"
+    },
+    {
+      "round": 13,
+      "pick": 5,
+      "overall": 125,
+      "team": "Them New Asians",
+      "player": "Golden Tate"
+    },
+    {
+      "round": 13,
+      "pick": 6,
+      "overall": 126,
+      "team": "Its Just  A Buzz",
+      "player": "Harrison Butker"
+    },
+    {
+      "round": 13,
+      "pick": 7,
+      "overall": 127,
+      "team": "Sizzling SeX GOD",
+      "player": "Geronimo Allison"
+    },
+    {
+      "round": 13,
+      "pick": 8,
+      "overall": 128,
+      "team": "Big Balls",
+      "player": "Jack Doyle"
+    },
+    {
+      "round": 13,
+      "pick": 9,
+      "overall": 129,
+      "team": "Tannehill 2.0",
+      "player": "Patrick Mahomes"
+    },
+    {
+      "round": 13,
+      "pick": 10,
+      "overall": 130,
+      "team": "Evil Snead",
+      "player": "Jordan Reed"
+    },
+    {
+      "round": 14,
+      "pick": 1,
+      "overall": 131,
+      "team": "Evil Snead",
+      "player": "Justin Tucker"
+    },
+    {
+      "round": 14,
+      "pick": 2,
+      "overall": 132,
+      "team": "Tannehill 2.0",
+      "player": "N'Keal Harry"
+    },
+    {
+      "round": 14,
+      "pick": 3,
+      "overall": 133,
+      "team": "Big Balls",
+      "player": "DeSean Jackson"
+    },
+    {
+      "round": 14,
+      "pick": 4,
+      "overall": 134,
+      "team": "Sizzling SeX GOD",
+      "player": "Chargers D/ST"
+    },
+    {
+      "round": 14,
+      "pick": 5,
+      "overall": 135,
+      "team": "Its Just  A Buzz",
+      "player": "Jameis Winston"
+    },
+    {
+      "round": 14,
+      "pick": 6,
+      "overall": 136,
+      "team": "Them New Asians",
+      "player": "Wil Lutz"
+    },
+    {
+      "round": 14,
+      "pick": 7,
+      "overall": 137,
+      "team": "Bad  Juju",
+      "player": "Tony Pollard"
+    },
+    {
+      "round": 14,
+      "pick": 8,
+      "overall": 138,
+      "team": "Mr. Big Chest",
+      "player": "Adrian Peterson"
+    },
+    {
+      "round": 14,
+      "pick": 9,
+      "overall": 139,
+      "team": "77 Degreez",
+      "player": "Mason Crosby"
+    },
+    {
+      "round": 14,
+      "pick": 10,
+      "overall": 140,
+      "team": "MAGA   2020",
+      "player": "Matt Bryant"
+    },
+    {
+      "round": 15,
+      "pick": 1,
+      "overall": 141,
+      "team": "MAGA   2020",
+      "player": "Kareem Hunt"
+    },
+    {
+      "round": 15,
+      "pick": 2,
+      "overall": 142,
+      "team": "77 Degreez",
+      "player": "Tom Brady"
+    },
+    {
+      "round": 15,
+      "pick": 3,
+      "overall": 143,
+      "team": "Mr. Big Chest",
+      "player": "Marquise Goodwin"
+    },
+    {
+      "round": 15,
+      "pick": 4,
+      "overall": 144,
+      "team": "Bad  Juju",
+      "player": "James Washington"
+    },
+    {
+      "round": 15,
+      "pick": 5,
+      "overall": 145,
+      "team": "Them New Asians",
+      "player": "Seahawks D/ST"
+    },
+    {
+      "round": 15,
+      "pick": 6,
+      "overall": 146,
+      "team": "Its Just  A Buzz",
+      "player": "Browns D/ST"
+    },
+    {
+      "round": 15,
+      "pick": 7,
+      "overall": 147,
+      "team": "Sizzling SeX GOD",
+      "player": "Robbie Gould"
+    },
+    {
+      "round": 15,
+      "pick": 8,
+      "overall": 148,
+      "team": "Big Balls",
+      "player": "Jake Elliott"
+    },
+    {
+      "round": 15,
+      "pick": 9,
+      "overall": 149,
+      "team": "Tannehill 2.0",
+      "player": "Ka'imi Fairbairn"
+    },
+    {
+      "round": 15,
+      "pick": 10,
+      "overall": 150,
+      "team": "Evil Snead",
+      "player": "Trey Burton"
+    }
+  ],
+  "trades": []
+}

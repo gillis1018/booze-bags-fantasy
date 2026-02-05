@@ -1,0 +1,1253 @@
+{
+  "year": 2018,
+  "league_name": "Booze Bags Fantasy League",
+  "teams": [
+    {
+      "team_id": 4,
+      "team_name": "Evil Snead",
+      "owner": "Steve  Gilmore",
+      "wins": 9,
+      "losses": 4,
+      "ties": 0,
+      "points_for": 1768.5,
+      "points_against": 1706.9,
+      "final_standing": 1,
+      "playoff_seed": null
+    },
+    {
+      "team_id": 3,
+      "team_name": "Tannehill 2.0",
+      "owner": "Ryan Fleming",
+      "wins": 10,
+      "losses": 3,
+      "ties": 0,
+      "points_for": 2071.95,
+      "points_against": 1666.3,
+      "final_standing": 2,
+      "playoff_seed": null
+    },
+    {
+      "team_id": 9,
+      "team_name": "Catch Deez  Hands",
+      "owner": "Ben Lenhart",
+      "wins": 6,
+      "losses": 7,
+      "ties": 0,
+      "points_for": 1805.3,
+      "points_against": 1819.65,
+      "final_standing": 3,
+      "playoff_seed": null
+    },
+    {
+      "team_id": 8,
+      "team_name": "Sizzling SeX GOD",
+      "owner": "george gillis",
+      "wins": 6,
+      "losses": 7,
+      "ties": 0,
+      "points_for": 1689.7,
+      "points_against": 1766.2,
+      "final_standing": 4,
+      "playoff_seed": null
+    },
+    {
+      "team_id": 1,
+      "team_name": "Its Just  A Buzz",
+      "owner": "Patrick Gonsalves",
+      "wins": 8,
+      "losses": 5,
+      "ties": 0,
+      "points_for": 1776.45,
+      "points_against": 1716.95,
+      "final_standing": 5,
+      "playoff_seed": null
+    },
+    {
+      "team_id": 2,
+      "team_name": "Them New Asians",
+      "owner": "joshua deangelis",
+      "wins": 7,
+      "losses": 6,
+      "ties": 0,
+      "points_for": 1830.0,
+      "points_against": 1801.3,
+      "final_standing": 6,
+      "playoff_seed": null
+    },
+    {
+      "team_id": 11,
+      "team_name": "Zeke-a- Leak",
+      "owner": "Christian Kelly",
+      "wins": 6,
+      "losses": 7,
+      "ties": 0,
+      "points_for": 1630.15,
+      "points_against": 1661.8,
+      "final_standing": 7,
+      "playoff_seed": null
+    },
+    {
+      "team_id": 5,
+      "team_name": "Weird Flex But OK",
+      "owner": "Brandon Baglio",
+      "wins": 5,
+      "losses": 8,
+      "ties": 0,
+      "points_for": 1658.75,
+      "points_against": 1739.85,
+      "final_standing": 8,
+      "playoff_seed": null
+    },
+    {
+      "team_id": 10,
+      "team_name": "77 Degreez",
+      "owner": "Jacob Bergeron",
+      "wins": 2,
+      "losses": 11,
+      "ties": 0,
+      "points_for": 1434.2,
+      "points_against": 1692.55,
+      "final_standing": 9,
+      "playoff_seed": null
+    },
+    {
+      "team_id": 6,
+      "team_name": "Cuck Baggers",
+      "owner": "Henry Krueger",
+      "wins": 6,
+      "losses": 7,
+      "ties": 0,
+      "points_for": 1559.05,
+      "points_against": 1652.55,
+      "final_standing": 10,
+      "playoff_seed": null
+    }
+  ],
+  "standings": [
+    {
+      "rank": 1,
+      "team_name": "Evil Snead",
+      "owner": "Steve  Gilmore",
+      "record": "9-4",
+      "points_for": 1768.5
+    },
+    {
+      "rank": 2,
+      "team_name": "Tannehill 2.0",
+      "owner": "Ryan Fleming",
+      "record": "10-3",
+      "points_for": 2071.95
+    },
+    {
+      "rank": 3,
+      "team_name": "Catch Deez  Hands",
+      "owner": "Ben Lenhart",
+      "record": "6-7",
+      "points_for": 1805.3
+    },
+    {
+      "rank": 4,
+      "team_name": "Sizzling SeX GOD",
+      "owner": "george gillis",
+      "record": "6-7",
+      "points_for": 1689.7
+    },
+    {
+      "rank": 5,
+      "team_name": "Its Just  A Buzz",
+      "owner": "Patrick Gonsalves",
+      "record": "8-5",
+      "points_for": 1776.45
+    },
+    {
+      "rank": 6,
+      "team_name": "Them New Asians",
+      "owner": "joshua deangelis",
+      "record": "7-6",
+      "points_for": 1830.0
+    },
+    {
+      "rank": 7,
+      "team_name": "Zeke-a- Leak",
+      "owner": "Christian Kelly",
+      "record": "6-7",
+      "points_for": 1630.15
+    },
+    {
+      "rank": 8,
+      "team_name": "Weird Flex But OK",
+      "owner": "Brandon Baglio",
+      "record": "5-8",
+      "points_for": 1658.75
+    },
+    {
+      "rank": 9,
+      "team_name": "77 Degreez",
+      "owner": "Jacob Bergeron",
+      "record": "2-11",
+      "points_for": 1434.2
+    },
+    {
+      "rank": 10,
+      "team_name": "Cuck Baggers",
+      "owner": "Henry Krueger",
+      "record": "6-7",
+      "points_for": 1559.05
+    }
+  ],
+  "matchups": [],
+  "playoffs": [],
+  "draft": [
+    {
+      "round": 1,
+      "pick": 1,
+      "overall": 1,
+      "team": "Zeke-a- Leak",
+      "player": "Ezekiel Elliott"
+    },
+    {
+      "round": 1,
+      "pick": 2,
+      "overall": 2,
+      "team": "Cuck Baggers",
+      "player": "Le'Veon Bell"
+    },
+    {
+      "round": 1,
+      "pick": 3,
+      "overall": 3,
+      "team": "Catch Deez  Hands",
+      "player": "Joe Mixon"
+    },
+    {
+      "round": 1,
+      "pick": 4,
+      "overall": 4,
+      "team": "Tannehill 2.0",
+      "player": "James White"
+    },
+    {
+      "round": 1,
+      "pick": 5,
+      "overall": 5,
+      "team": "Weird Flex But OK",
+      "player": "Russell Wilson"
+    },
+    {
+      "round": 1,
+      "pick": 6,
+      "overall": 6,
+      "team": "77 Degreez",
+      "player": "Rob Gronkowski"
+    },
+    {
+      "round": 1,
+      "pick": 7,
+      "overall": 7,
+      "team": "Evil Snead",
+      "player": "Melvin Gordon"
+    },
+    {
+      "round": 1,
+      "pick": 8,
+      "overall": 8,
+      "team": "Them New Asians",
+      "player": "Todd Gurley II"
+    },
+    {
+      "round": 1,
+      "pick": 9,
+      "overall": 9,
+      "team": "Its Just  A Buzz",
+      "player": "DeAndre Hopkins"
+    },
+    {
+      "round": 1,
+      "pick": 10,
+      "overall": 10,
+      "team": "Sizzling SeX GOD",
+      "player": "Kareem Hunt"
+    },
+    {
+      "round": 2,
+      "pick": 1,
+      "overall": 11,
+      "team": "Zeke-a- Leak",
+      "player": "Devonta Freeman"
+    },
+    {
+      "round": 2,
+      "pick": 2,
+      "overall": 12,
+      "team": "Cuck Baggers",
+      "player": "A.J. Green"
+    },
+    {
+      "round": 2,
+      "pick": 3,
+      "overall": 13,
+      "team": "Catch Deez  Hands",
+      "player": "Odell Beckham Jr."
+    },
+    {
+      "round": 2,
+      "pick": 4,
+      "overall": 14,
+      "team": "Tannehill 2.0",
+      "player": "Saquon Barkley"
+    },
+    {
+      "round": 2,
+      "pick": 5,
+      "overall": 15,
+      "team": "Weird Flex But OK",
+      "player": "David Johnson"
+    },
+    {
+      "round": 2,
+      "pick": 6,
+      "overall": 16,
+      "team": "77 Degreez",
+      "player": "Christian McCaffrey"
+    },
+    {
+      "round": 2,
+      "pick": 7,
+      "overall": 17,
+      "team": "Evil Snead",
+      "player": "Dalvin Cook"
+    },
+    {
+      "round": 2,
+      "pick": 8,
+      "overall": 18,
+      "team": "Them New Asians",
+      "player": "Alvin Kamara"
+    },
+    {
+      "round": 2,
+      "pick": 9,
+      "overall": 19,
+      "team": "Its Just  A Buzz",
+      "player": "Antonio Brown"
+    },
+    {
+      "round": 2,
+      "pick": 10,
+      "overall": 20,
+      "team": "Sizzling SeX GOD",
+      "player": "Julio Jones"
+    },
+    {
+      "round": 3,
+      "pick": 1,
+      "overall": 21,
+      "team": "Sizzling SeX GOD",
+      "player": "Larry Fitzgerald"
+    },
+    {
+      "round": 3,
+      "pick": 2,
+      "overall": 22,
+      "team": "Its Just  A Buzz",
+      "player": "Leonard Fournette"
+    },
+    {
+      "round": 3,
+      "pick": 3,
+      "overall": 23,
+      "team": "Them New Asians",
+      "player": "Tyreek Hill"
+    },
+    {
+      "round": 3,
+      "pick": 4,
+      "overall": 24,
+      "team": "Evil Snead",
+      "player": "Zach Ertz"
+    },
+    {
+      "round": 3,
+      "pick": 5,
+      "overall": 25,
+      "team": "77 Degreez",
+      "player": "Demaryius Thomas"
+    },
+    {
+      "round": 3,
+      "pick": 6,
+      "overall": 26,
+      "team": "Weird Flex But OK",
+      "player": "Keenan Allen"
+    },
+    {
+      "round": 3,
+      "pick": 7,
+      "overall": 27,
+      "team": "Tannehill 2.0",
+      "player": "Davante Adams"
+    },
+    {
+      "round": 3,
+      "pick": 8,
+      "overall": 28,
+      "team": "Catch Deez  Hands",
+      "player": "Michael Thomas"
+    },
+    {
+      "round": 3,
+      "pick": 9,
+      "overall": 29,
+      "team": "Cuck Baggers",
+      "player": "Jordan Howard"
+    },
+    {
+      "round": 3,
+      "pick": 10,
+      "overall": 30,
+      "team": "Zeke-a- Leak",
+      "player": "Stefon Diggs"
+    },
+    {
+      "round": 4,
+      "pick": 1,
+      "overall": 31,
+      "team": "Zeke-a- Leak",
+      "player": "JuJu Smith-Schuster"
+    },
+    {
+      "round": 4,
+      "pick": 2,
+      "overall": 32,
+      "team": "Cuck Baggers",
+      "player": "Brandin Cooks"
+    },
+    {
+      "round": 4,
+      "pick": 3,
+      "overall": 33,
+      "team": "Catch Deez  Hands",
+      "player": "LeSean McCoy"
+    },
+    {
+      "round": 4,
+      "pick": 4,
+      "overall": 34,
+      "team": "Tannehill 2.0",
+      "player": "Kenyan Drake"
+    },
+    {
+      "round": 4,
+      "pick": 5,
+      "overall": 35,
+      "team": "Weird Flex But OK",
+      "player": "Mike Evans"
+    },
+    {
+      "round": 4,
+      "pick": 6,
+      "overall": 36,
+      "team": "77 Degreez",
+      "player": "Aaron Rodgers"
+    },
+    {
+      "round": 4,
+      "pick": 7,
+      "overall": 37,
+      "team": "Evil Snead",
+      "player": "Jarvis Landry"
+    },
+    {
+      "round": 4,
+      "pick": 8,
+      "overall": 38,
+      "team": "Them New Asians",
+      "player": "Doug Baldwin"
+    },
+    {
+      "round": 4,
+      "pick": 9,
+      "overall": 39,
+      "team": "Its Just  A Buzz",
+      "player": "Amari Cooper"
+    },
+    {
+      "round": 4,
+      "pick": 10,
+      "overall": 40,
+      "team": "Sizzling SeX GOD",
+      "player": "Royce Freeman"
+    },
+    {
+      "round": 5,
+      "pick": 1,
+      "overall": 41,
+      "team": "Sizzling SeX GOD",
+      "player": "Chris Hogan"
+    },
+    {
+      "round": 5,
+      "pick": 2,
+      "overall": 42,
+      "team": "Its Just  A Buzz",
+      "player": "Lamar Miller"
+    },
+    {
+      "round": 5,
+      "pick": 3,
+      "overall": 43,
+      "team": "Them New Asians",
+      "player": "Tom Brady"
+    },
+    {
+      "round": 5,
+      "pick": 4,
+      "overall": 44,
+      "team": "Evil Snead",
+      "player": "Golden Tate"
+    },
+    {
+      "round": 5,
+      "pick": 5,
+      "overall": 45,
+      "team": "77 Degreez",
+      "player": "Jay Ajayi"
+    },
+    {
+      "round": 5,
+      "pick": 6,
+      "overall": 46,
+      "team": "Weird Flex But OK",
+      "player": "Delanie Walker"
+    },
+    {
+      "round": 5,
+      "pick": 7,
+      "overall": 47,
+      "team": "Tannehill 2.0",
+      "player": "Travis Kelce"
+    },
+    {
+      "round": 5,
+      "pick": 8,
+      "overall": 48,
+      "team": "Catch Deez  Hands",
+      "player": "T.Y. Hilton"
+    },
+    {
+      "round": 5,
+      "pick": 9,
+      "overall": 49,
+      "team": "Cuck Baggers",
+      "player": "Greg Olsen"
+    },
+    {
+      "round": 5,
+      "pick": 10,
+      "overall": 50,
+      "team": "Zeke-a- Leak",
+      "player": "Allen Robinson"
+    },
+    {
+      "round": 6,
+      "pick": 1,
+      "overall": 51,
+      "team": "Zeke-a- Leak",
+      "player": "Devin Funchess"
+    },
+    {
+      "round": 6,
+      "pick": 2,
+      "overall": 52,
+      "team": "Cuck Baggers",
+      "player": "Julian Edelman"
+    },
+    {
+      "round": 6,
+      "pick": 3,
+      "overall": 53,
+      "team": "Catch Deez  Hands",
+      "player": "Cam Newton"
+    },
+    {
+      "round": 6,
+      "pick": 4,
+      "overall": 54,
+      "team": "Tannehill 2.0",
+      "player": "Alex Collins"
+    },
+    {
+      "round": 6,
+      "pick": 5,
+      "overall": 55,
+      "team": "Weird Flex But OK",
+      "player": "Derrick Henry"
+    },
+    {
+      "round": 6,
+      "pick": 6,
+      "overall": 56,
+      "team": "77 Degreez",
+      "player": "Michael Crabtree"
+    },
+    {
+      "round": 6,
+      "pick": 7,
+      "overall": 57,
+      "team": "Evil Snead",
+      "player": "Deshaun Watson"
+    },
+    {
+      "round": 6,
+      "pick": 8,
+      "overall": 58,
+      "team": "Them New Asians",
+      "player": "Marquise Goodwin"
+    },
+    {
+      "round": 6,
+      "pick": 9,
+      "overall": 59,
+      "team": "Its Just  A Buzz",
+      "player": "Josh Gordon"
+    },
+    {
+      "round": 6,
+      "pick": 10,
+      "overall": 60,
+      "team": "Sizzling SeX GOD",
+      "player": "Mark Ingram II"
+    },
+    {
+      "round": 7,
+      "pick": 1,
+      "overall": 61,
+      "team": "Sizzling SeX GOD",
+      "player": "Robert Woods"
+    },
+    {
+      "round": 7,
+      "pick": 2,
+      "overall": 62,
+      "team": "Its Just  A Buzz",
+      "player": "Rex Burkhead"
+    },
+    {
+      "round": 7,
+      "pick": 3,
+      "overall": 63,
+      "team": "Them New Asians",
+      "player": "Matt Breida"
+    },
+    {
+      "round": 7,
+      "pick": 4,
+      "overall": 64,
+      "team": "Evil Snead",
+      "player": "Alshon Jeffery"
+    },
+    {
+      "round": 7,
+      "pick": 5,
+      "overall": 65,
+      "team": "77 Degreez",
+      "player": "Carlos Hyde"
+    },
+    {
+      "round": 7,
+      "pick": 6,
+      "overall": 66,
+      "team": "Weird Flex But OK",
+      "player": "Jimmy Graham"
+    },
+    {
+      "round": 7,
+      "pick": 7,
+      "overall": 67,
+      "team": "Tannehill 2.0",
+      "player": "Marvin Jones Jr."
+    },
+    {
+      "round": 7,
+      "pick": 8,
+      "overall": 68,
+      "team": "Catch Deez  Hands",
+      "player": "Dion Lewis"
+    },
+    {
+      "round": 7,
+      "pick": 9,
+      "overall": 69,
+      "team": "Cuck Baggers",
+      "player": "Drew Brees"
+    },
+    {
+      "round": 7,
+      "pick": 10,
+      "overall": 70,
+      "team": "Zeke-a- Leak",
+      "player": "Evan Engram"
+    },
+    {
+      "round": 8,
+      "pick": 1,
+      "overall": 71,
+      "team": "Zeke-a- Leak",
+      "player": "Carson Wentz"
+    },
+    {
+      "round": 8,
+      "pick": 2,
+      "overall": 72,
+      "team": "Cuck Baggers",
+      "player": "Corey Davis"
+    },
+    {
+      "round": 8,
+      "pick": 3,
+      "overall": 73,
+      "team": "Catch Deez  Hands",
+      "player": "Emmanuel Sanders"
+    },
+    {
+      "round": 8,
+      "pick": 4,
+      "overall": 74,
+      "team": "Tannehill 2.0",
+      "player": "Cooper Kupp"
+    },
+    {
+      "round": 8,
+      "pick": 5,
+      "overall": 75,
+      "team": "Weird Flex But OK",
+      "player": "Robby Anderson"
+    },
+    {
+      "round": 8,
+      "pick": 6,
+      "overall": 76,
+      "team": "77 Degreez",
+      "player": "Kelvin Benjamin"
+    },
+    {
+      "round": 8,
+      "pick": 7,
+      "overall": 77,
+      "team": "Evil Snead",
+      "player": "Rashaad Penny"
+    },
+    {
+      "round": 8,
+      "pick": 8,
+      "overall": 78,
+      "team": "Them New Asians",
+      "player": "Marshawn Lynch"
+    },
+    {
+      "round": 8,
+      "pick": 9,
+      "overall": 79,
+      "team": "Its Just  A Buzz",
+      "player": "Kyle Rudolph"
+    },
+    {
+      "round": 8,
+      "pick": 10,
+      "overall": 80,
+      "team": "Sizzling SeX GOD",
+      "player": "Tevin Coleman"
+    },
+    {
+      "round": 9,
+      "pick": 1,
+      "overall": 81,
+      "team": "Sizzling SeX GOD",
+      "player": "Trey Burton"
+    },
+    {
+      "round": 9,
+      "pick": 2,
+      "overall": 82,
+      "team": "Its Just  A Buzz",
+      "player": "Sterling Shepard"
+    },
+    {
+      "round": 9,
+      "pick": 3,
+      "overall": 83,
+      "team": "Them New Asians",
+      "player": "Will Fuller V"
+    },
+    {
+      "round": 9,
+      "pick": 4,
+      "overall": 84,
+      "team": "Evil Snead",
+      "player": "Jaguars D/ST"
+    },
+    {
+      "round": 9,
+      "pick": 5,
+      "overall": 85,
+      "team": "77 Degreez",
+      "player": "Philip Rivers"
+    },
+    {
+      "round": 9,
+      "pick": 6,
+      "overall": 86,
+      "team": "Weird Flex But OK",
+      "player": "Peyton Barber"
+    },
+    {
+      "round": 9,
+      "pick": 7,
+      "overall": 87,
+      "team": "Tannehill 2.0",
+      "player": "Kenny Stills"
+    },
+    {
+      "round": 9,
+      "pick": 8,
+      "overall": 88,
+      "team": "Catch Deez  Hands",
+      "player": "Jack Doyle"
+    },
+    {
+      "round": 9,
+      "pick": 9,
+      "overall": 89,
+      "team": "Cuck Baggers",
+      "player": "Jamaal Williams"
+    },
+    {
+      "round": 9,
+      "pick": 10,
+      "overall": 90,
+      "team": "Zeke-a- Leak",
+      "player": "Sammy Watkins"
+    },
+    {
+      "round": 10,
+      "pick": 1,
+      "overall": 91,
+      "team": "Zeke-a- Leak",
+      "player": "Alfred Morris"
+    },
+    {
+      "round": 10,
+      "pick": 2,
+      "overall": 92,
+      "team": "Cuck Baggers",
+      "player": "Rams D/ST"
+    },
+    {
+      "round": 10,
+      "pick": 3,
+      "overall": 93,
+      "team": "Catch Deez  Hands",
+      "player": "Jamison Crowder"
+    },
+    {
+      "round": 10,
+      "pick": 4,
+      "overall": 94,
+      "team": "Tannehill 2.0",
+      "player": "Kerryon Johnson"
+    },
+    {
+      "round": 10,
+      "pick": 5,
+      "overall": 95,
+      "team": "Weird Flex But OK",
+      "player": "Nelson Agholor"
+    },
+    {
+      "round": 10,
+      "pick": 6,
+      "overall": 96,
+      "team": "77 Degreez",
+      "player": "Stephen Gostkowski"
+    },
+    {
+      "round": 10,
+      "pick": 7,
+      "overall": 97,
+      "team": "Evil Snead",
+      "player": "Chris Thompson"
+    },
+    {
+      "round": 10,
+      "pick": 8,
+      "overall": 98,
+      "team": "Them New Asians",
+      "player": "Duke Johnson Jr."
+    },
+    {
+      "round": 10,
+      "pick": 9,
+      "overall": 99,
+      "team": "Its Just  A Buzz",
+      "player": "Andrew Luck"
+    },
+    {
+      "round": 10,
+      "pick": 10,
+      "overall": 100,
+      "team": "Sizzling SeX GOD",
+      "player": "Kirk Cousins"
+    },
+    {
+      "round": 11,
+      "pick": 1,
+      "overall": 101,
+      "team": "Sizzling SeX GOD",
+      "player": "Ravens D/ST"
+    },
+    {
+      "round": 11,
+      "pick": 2,
+      "overall": 102,
+      "team": "Its Just  A Buzz",
+      "player": "Keelan Cole"
+    },
+    {
+      "round": 11,
+      "pick": 3,
+      "overall": 103,
+      "team": "Them New Asians",
+      "player": "Texans D/ST"
+    },
+    {
+      "round": 11,
+      "pick": 4,
+      "overall": 104,
+      "team": "Evil Snead",
+      "player": "Allen Hurns"
+    },
+    {
+      "round": 11,
+      "pick": 5,
+      "overall": 105,
+      "team": "77 Degreez",
+      "player": "Jordy Nelson"
+    },
+    {
+      "round": 11,
+      "pick": 6,
+      "overall": 106,
+      "team": "Weird Flex But OK",
+      "player": "Eagles D/ST"
+    },
+    {
+      "round": 11,
+      "pick": 7,
+      "overall": 107,
+      "team": "Tannehill 2.0",
+      "player": "Vikings D/ST"
+    },
+    {
+      "round": 11,
+      "pick": 8,
+      "overall": 108,
+      "team": "Catch Deez  Hands",
+      "player": "Chargers D/ST"
+    },
+    {
+      "round": 11,
+      "pick": 9,
+      "overall": 109,
+      "team": "Cuck Baggers",
+      "player": "Jordan Reed"
+    },
+    {
+      "round": 11,
+      "pick": 10,
+      "overall": 110,
+      "team": "Zeke-a- Leak",
+      "player": "Isaiah Crowell"
+    },
+    {
+      "round": 12,
+      "pick": 1,
+      "overall": 111,
+      "team": "Zeke-a- Leak",
+      "player": "Broncos D/ST"
+    },
+    {
+      "round": 12,
+      "pick": 2,
+      "overall": 112,
+      "team": "Cuck Baggers",
+      "player": "Chris Carson"
+    },
+    {
+      "round": 12,
+      "pick": 3,
+      "overall": 113,
+      "team": "Catch Deez  Hands",
+      "player": "Sony Michel"
+    },
+    {
+      "round": 12,
+      "pick": 4,
+      "overall": 114,
+      "team": "Tannehill 2.0",
+      "player": "Jordan Wilkins"
+    },
+    {
+      "round": 12,
+      "pick": 5,
+      "overall": 115,
+      "team": "Weird Flex But OK",
+      "player": "Pierre Garcon"
+    },
+    {
+      "round": 12,
+      "pick": 6,
+      "overall": 116,
+      "team": "77 Degreez",
+      "player": "Patriots D/ST"
+    },
+    {
+      "round": 12,
+      "pick": 7,
+      "overall": 117,
+      "team": "Evil Snead",
+      "player": "Adam Thielen"
+    },
+    {
+      "round": 12,
+      "pick": 8,
+      "overall": 118,
+      "team": "Them New Asians",
+      "player": "Tyler Eifert"
+    },
+    {
+      "round": 12,
+      "pick": 9,
+      "overall": 119,
+      "team": "Its Just  A Buzz",
+      "player": "Kenny Golladay"
+    },
+    {
+      "round": 12,
+      "pick": 10,
+      "overall": 120,
+      "team": "Sizzling SeX GOD",
+      "player": "Adrian Peterson"
+    },
+    {
+      "round": 13,
+      "pick": 1,
+      "overall": 121,
+      "team": "Sizzling SeX GOD",
+      "player": "Mike Williams"
+    },
+    {
+      "round": 13,
+      "pick": 2,
+      "overall": 122,
+      "team": "Its Just  A Buzz",
+      "player": "Bilal Powell"
+    },
+    {
+      "round": 13,
+      "pick": 3,
+      "overall": 123,
+      "team": "Them New Asians",
+      "player": "Jimmy Garoppolo"
+    },
+    {
+      "round": 13,
+      "pick": 4,
+      "overall": 124,
+      "team": "Evil Snead",
+      "player": "Dez Bryant"
+    },
+    {
+      "round": 13,
+      "pick": 5,
+      "overall": 125,
+      "team": "77 Degreez",
+      "player": "Doug Martin"
+    },
+    {
+      "round": 13,
+      "pick": 6,
+      "overall": 126,
+      "team": "Weird Flex But OK",
+      "player": "Greg Zuerlein"
+    },
+    {
+      "round": 13,
+      "pick": 7,
+      "overall": 127,
+      "team": "Tannehill 2.0",
+      "player": "Matthew Stafford"
+    },
+    {
+      "round": 13,
+      "pick": 8,
+      "overall": 128,
+      "team": "Catch Deez  Hands",
+      "player": "Marlon Mack"
+    },
+    {
+      "round": 13,
+      "pick": 9,
+      "overall": 129,
+      "team": "Cuck Baggers",
+      "player": "Tyler Lockett"
+    },
+    {
+      "round": 13,
+      "pick": 10,
+      "overall": 130,
+      "team": "Zeke-a- Leak",
+      "player": "Randall Cobb"
+    },
+    {
+      "round": 14,
+      "pick": 1,
+      "overall": 131,
+      "team": "Zeke-a- Leak",
+      "player": "Matt Bryant"
+    },
+    {
+      "round": 14,
+      "pick": 2,
+      "overall": 132,
+      "team": "Cuck Baggers",
+      "player": "Matt Ryan"
+    },
+    {
+      "round": 14,
+      "pick": 3,
+      "overall": 133,
+      "team": "Catch Deez  Hands",
+      "player": "Justin Tucker"
+    },
+    {
+      "round": 14,
+      "pick": 4,
+      "overall": 134,
+      "team": "Tannehill 2.0",
+      "player": "Patrick Mahomes"
+    },
+    {
+      "round": 14,
+      "pick": 5,
+      "overall": 135,
+      "team": "Weird Flex But OK",
+      "player": "Jared Goff"
+    },
+    {
+      "round": 14,
+      "pick": 6,
+      "overall": 136,
+      "team": "77 Degreez",
+      "player": "Ben Roethlisberger"
+    },
+    {
+      "round": 14,
+      "pick": 7,
+      "overall": 137,
+      "team": "Evil Snead",
+      "player": "Matt Prater"
+    },
+    {
+      "round": 14,
+      "pick": 8,
+      "overall": 138,
+      "team": "Them New Asians",
+      "player": "David Njoku"
+    },
+    {
+      "round": 14,
+      "pick": 9,
+      "overall": 139,
+      "team": "Its Just  A Buzz",
+      "player": "DeVante Parker"
+    },
+    {
+      "round": 14,
+      "pick": 10,
+      "overall": 140,
+      "team": "Sizzling SeX GOD",
+      "player": "Spencer Ware"
+    },
+    {
+      "round": 15,
+      "pick": 1,
+      "overall": 141,
+      "team": "Sizzling SeX GOD",
+      "player": "Ryan Succop"
+    },
+    {
+      "round": 15,
+      "pick": 2,
+      "overall": 142,
+      "team": "Its Just  A Buzz",
+      "player": "Jake Elliott"
+    },
+    {
+      "round": 15,
+      "pick": 3,
+      "overall": 143,
+      "team": "Them New Asians",
+      "player": "Robbie Gould"
+    },
+    {
+      "round": 15,
+      "pick": 4,
+      "overall": 144,
+      "team": "Evil Snead",
+      "player": "Tarik Cohen"
+    },
+    {
+      "round": 15,
+      "pick": 5,
+      "overall": 145,
+      "team": "77 Degreez",
+      "player": "C.J. Anderson"
+    },
+    {
+      "round": 15,
+      "pick": 6,
+      "overall": 146,
+      "team": "Weird Flex But OK",
+      "player": "Giovani Bernard"
+    },
+    {
+      "round": 15,
+      "pick": 7,
+      "overall": 147,
+      "team": "Tannehill 2.0",
+      "player": "Harrison Butker"
+    },
+    {
+      "round": 15,
+      "pick": 8,
+      "overall": 148,
+      "team": "Catch Deez  Hands",
+      "player": "Marcus Mariota"
+    },
+    {
+      "round": 15,
+      "pick": 9,
+      "overall": 149,
+      "team": "Cuck Baggers",
+      "player": "Chris Boswell"
+    },
+    {
+      "round": 15,
+      "pick": 10,
+      "overall": 150,
+      "team": "Zeke-a- Leak",
+      "player": "Alex Smith"
+    }
+  ],
+  "trades": []
+}

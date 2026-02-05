@@ -1,0 +1,2226 @@
+{
+  "year": 2024,
+  "league_name": "Booze Bags Fantasy League",
+  "teams": [
+    {
+      "team_id": 2,
+      "team_name": "Them New Asians ",
+      "owner": "joshua deangelis",
+      "wins": 10,
+      "losses": 4,
+      "ties": 0,
+      "points_for": 1728.9,
+      "points_against": 1644.85,
+      "final_standing": 1,
+      "playoff_seed": null
+    },
+    {
+      "team_id": 1,
+      "team_name": "Its Just  A Buzz",
+      "owner": "Patrick Gonsalves",
+      "wins": 9,
+      "losses": 5,
+      "ties": 0,
+      "points_for": 1848.25,
+      "points_against": 1750.45,
+      "final_standing": 2,
+      "playoff_seed": null
+    },
+    {
+      "team_id": 5,
+      "team_name": "Ya Sistas ASSS",
+      "owner": "Brandon Baglio",
+      "wins": 8,
+      "losses": 6,
+      "ties": 0,
+      "points_for": 1916.2,
+      "points_against": 1684.2,
+      "final_standing": 3,
+      "playoff_seed": null
+    },
+    {
+      "team_id": 13,
+      "team_name": "Benny Beers",
+      "owner": "Benjamin Chaves",
+      "wins": 7,
+      "losses": 7,
+      "ties": 0,
+      "points_for": 1741.35,
+      "points_against": 1705.6,
+      "final_standing": 4,
+      "playoff_seed": null
+    },
+    {
+      "team_id": 9,
+      "team_name": "Nonstop ass r*pe",
+      "owner": "Ben Lenhart",
+      "wins": 7,
+      "losses": 7,
+      "ties": 0,
+      "points_for": 1541.95,
+      "points_against": 1673.35,
+      "final_standing": 5,
+      "playoff_seed": null
+    },
+    {
+      "team_id": 11,
+      "team_name": "Grave Diggser",
+      "owner": "Christian Kelly",
+      "wins": 8,
+      "losses": 6,
+      "ties": 0,
+      "points_for": 1719.1,
+      "points_against": 1597.75,
+      "final_standing": 6,
+      "playoff_seed": null
+    },
+    {
+      "team_id": 12,
+      "team_name": "Gimli\u2019s Arse",
+      "owner": "Jacob Bergeron",
+      "wins": 4,
+      "losses": 10,
+      "ties": 0,
+      "points_for": 1683.4,
+      "points_against": 1739.25,
+      "final_standing": 7,
+      "playoff_seed": null
+    },
+    {
+      "team_id": 3,
+      "team_name": "Dumpster FIRE",
+      "owner": "Ryan Fleming",
+      "wins": 7,
+      "losses": 7,
+      "ties": 0,
+      "points_for": 1654.1,
+      "points_against": 1630.9,
+      "final_standing": 8,
+      "playoff_seed": null
+    },
+    {
+      "team_id": 6,
+      "team_name": "HOCK and BALLS",
+      "owner": "Henry Krueger",
+      "wins": 7,
+      "losses": 7,
+      "ties": 0,
+      "points_for": 1673.25,
+      "points_against": 1708.8,
+      "final_standing": 9,
+      "playoff_seed": null
+    },
+    {
+      "team_id": 10,
+      "team_name": "Try That in a Small Town",
+      "owner": "Matt Driscoll",
+      "wins": 6,
+      "losses": 8,
+      "ties": 0,
+      "points_for": 1560.5,
+      "points_against": 1694.7,
+      "final_standing": 10,
+      "playoff_seed": null
+    },
+    {
+      "team_id": 8,
+      "team_name": "Sizzling SeX GOD",
+      "owner": "george gillis",
+      "wins": 4,
+      "losses": 10,
+      "ties": 0,
+      "points_for": 1730.0,
+      "points_against": 1876.3,
+      "final_standing": 11,
+      "playoff_seed": null
+    },
+    {
+      "team_id": 4,
+      "team_name": "Louisiana State Mud Dogs",
+      "owner": "Steve  Gilmore",
+      "wins": 7,
+      "losses": 7,
+      "ties": 0,
+      "points_for": 1644.4,
+      "points_against": 1735.25,
+      "final_standing": 12,
+      "playoff_seed": null
+    }
+  ],
+  "standings": [
+    {
+      "rank": 1,
+      "team_name": "Them New Asians ",
+      "owner": "joshua deangelis",
+      "record": "10-4",
+      "points_for": 1728.9
+    },
+    {
+      "rank": 2,
+      "team_name": "Its Just  A Buzz",
+      "owner": "Patrick Gonsalves",
+      "record": "9-5",
+      "points_for": 1848.25
+    },
+    {
+      "rank": 3,
+      "team_name": "Ya Sistas ASSS",
+      "owner": "Brandon Baglio",
+      "record": "8-6",
+      "points_for": 1916.2
+    },
+    {
+      "rank": 4,
+      "team_name": "Benny Beers",
+      "owner": "Benjamin Chaves",
+      "record": "7-7",
+      "points_for": 1741.35
+    },
+    {
+      "rank": 5,
+      "team_name": "Nonstop ass r*pe",
+      "owner": "Ben Lenhart",
+      "record": "7-7",
+      "points_for": 1541.95
+    },
+    {
+      "rank": 6,
+      "team_name": "Grave Diggser",
+      "owner": "Christian Kelly",
+      "record": "8-6",
+      "points_for": 1719.1
+    },
+    {
+      "rank": 7,
+      "team_name": "Gimli\u2019s Arse",
+      "owner": "Jacob Bergeron",
+      "record": "4-10",
+      "points_for": 1683.4
+    },
+    {
+      "rank": 8,
+      "team_name": "Dumpster FIRE",
+      "owner": "Ryan Fleming",
+      "record": "7-7",
+      "points_for": 1654.1
+    },
+    {
+      "rank": 9,
+      "team_name": "HOCK and BALLS",
+      "owner": "Henry Krueger",
+      "record": "7-7",
+      "points_for": 1673.25
+    },
+    {
+      "rank": 10,
+      "team_name": "Try That in a Small Town",
+      "owner": "Matt Driscoll",
+      "record": "6-8",
+      "points_for": 1560.5
+    },
+    {
+      "rank": 11,
+      "team_name": "Sizzling SeX GOD",
+      "owner": "george gillis",
+      "record": "4-10",
+      "points_for": 1730.0
+    },
+    {
+      "rank": 12,
+      "team_name": "Louisiana State Mud Dogs",
+      "owner": "Steve  Gilmore",
+      "record": "7-7",
+      "points_for": 1644.4
+    }
+  ],
+  "matchups": [
+    {
+      "week": 1,
+      "home_team": "Them New Asians ",
+      "home_score": 132.1,
+      "away_team": "Try That in a Small Town",
+      "away_score": 106.25,
+      "is_playoff": false
+    },
+    {
+      "week": 1,
+      "home_team": "Its Just  A Buzz",
+      "home_score": 160.1,
+      "away_team": "HOCK and BALLS",
+      "away_score": 132.0,
+      "is_playoff": false
+    },
+    {
+      "week": 1,
+      "home_team": "Nonstop ass r*pe",
+      "home_score": 91.3,
+      "away_team": "Benny Beers",
+      "away_score": 85.65,
+      "is_playoff": false
+    },
+    {
+      "week": 1,
+      "home_team": "Ya Sistas ASSS",
+      "home_score": 127.0,
+      "away_team": "Sizzling SeX GOD",
+      "away_score": 153.55,
+      "is_playoff": false
+    },
+    {
+      "week": 1,
+      "home_team": "Grave Diggser",
+      "home_score": 124.9,
+      "away_team": "Dumpster FIRE",
+      "away_score": 105.95,
+      "is_playoff": false
+    },
+    {
+      "week": 1,
+      "home_team": "Louisiana State Mud Dogs",
+      "home_score": 97.7,
+      "away_team": "Gimli\u2019s Arse",
+      "away_score": 95.2,
+      "is_playoff": false
+    },
+    {
+      "week": 2,
+      "home_team": "Gimli\u2019s Arse",
+      "home_score": 126.9,
+      "away_team": "Benny Beers",
+      "away_score": 134.85,
+      "is_playoff": false
+    },
+    {
+      "week": 2,
+      "home_team": "Them New Asians ",
+      "home_score": 111.9,
+      "away_team": "Grave Diggser",
+      "away_score": 111.8,
+      "is_playoff": false
+    },
+    {
+      "week": 2,
+      "home_team": "Ya Sistas ASSS",
+      "home_score": 132.55,
+      "away_team": "HOCK and BALLS",
+      "away_score": 143.15,
+      "is_playoff": false
+    },
+    {
+      "week": 2,
+      "home_team": "Dumpster FIRE",
+      "home_score": 134.65,
+      "away_team": "Try That in a Small Town",
+      "away_score": 84.85,
+      "is_playoff": false
+    },
+    {
+      "week": 2,
+      "home_team": "Sizzling SeX GOD",
+      "home_score": 87.45,
+      "away_team": "Its Just  A Buzz",
+      "away_score": 164.3,
+      "is_playoff": false
+    },
+    {
+      "week": 2,
+      "home_team": "Louisiana State Mud Dogs",
+      "home_score": 101.45,
+      "away_team": "Nonstop ass r*pe",
+      "away_score": 123.5,
+      "is_playoff": false
+    },
+    {
+      "week": 3,
+      "home_team": "Louisiana State Mud Dogs",
+      "home_score": 155.25,
+      "away_team": "Benny Beers",
+      "away_score": 129.55,
+      "is_playoff": false
+    },
+    {
+      "week": 3,
+      "home_team": "Gimli\u2019s Arse",
+      "home_score": 127.7,
+      "away_team": "Nonstop ass r*pe",
+      "away_score": 79.15,
+      "is_playoff": false
+    },
+    {
+      "week": 3,
+      "home_team": "Try That in a Small Town",
+      "home_score": 82.0,
+      "away_team": "Grave Diggser",
+      "away_score": 134.85,
+      "is_playoff": false
+    },
+    {
+      "week": 3,
+      "home_team": "Its Just  A Buzz",
+      "home_score": 111.3,
+      "away_team": "Ya Sistas ASSS",
+      "away_score": 143.35,
+      "is_playoff": false
+    },
+    {
+      "week": 3,
+      "home_team": "Sizzling SeX GOD",
+      "home_score": 116.4,
+      "away_team": "HOCK and BALLS",
+      "away_score": 148.2,
+      "is_playoff": false
+    },
+    {
+      "week": 3,
+      "home_team": "Dumpster FIRE",
+      "home_score": 90.65,
+      "away_team": "Them New Asians ",
+      "away_score": 76.75,
+      "is_playoff": false
+    },
+    {
+      "week": 4,
+      "home_team": "Grave Diggser",
+      "home_score": 108.8,
+      "away_team": "Benny Beers",
+      "away_score": 130.4,
+      "is_playoff": false
+    },
+    {
+      "week": 4,
+      "home_team": "Nonstop ass r*pe",
+      "home_score": 87.35,
+      "away_team": "HOCK and BALLS",
+      "away_score": 165.25,
+      "is_playoff": false
+    },
+    {
+      "week": 4,
+      "home_team": "Dumpster FIRE",
+      "home_score": 138.35,
+      "away_team": "Gimli\u2019s Arse",
+      "away_score": 126.8,
+      "is_playoff": false
+    },
+    {
+      "week": 4,
+      "home_team": "Ya Sistas ASSS",
+      "home_score": 134.0,
+      "away_team": "Louisiana State Mud Dogs",
+      "away_score": 101.95,
+      "is_playoff": false
+    },
+    {
+      "week": 4,
+      "home_team": "Try That in a Small Town",
+      "home_score": 110.15,
+      "away_team": "Its Just  A Buzz",
+      "away_score": 131.35,
+      "is_playoff": false
+    },
+    {
+      "week": 4,
+      "home_team": "Them New Asians ",
+      "home_score": 103.6,
+      "away_team": "Sizzling SeX GOD",
+      "away_score": 102.1,
+      "is_playoff": false
+    },
+    {
+      "week": 5,
+      "home_team": "Nonstop ass r*pe",
+      "home_score": 112.85,
+      "away_team": "Ya Sistas ASSS",
+      "away_score": 154.6,
+      "is_playoff": false
+    },
+    {
+      "week": 5,
+      "home_team": "Louisiana State Mud Dogs",
+      "home_score": 132.55,
+      "away_team": "Try That in a Small Town",
+      "away_score": 86.05,
+      "is_playoff": false
+    },
+    {
+      "week": 5,
+      "home_team": "HOCK and BALLS",
+      "home_score": 95.0,
+      "away_team": "Gimli\u2019s Arse",
+      "away_score": 147.0,
+      "is_playoff": false
+    },
+    {
+      "week": 5,
+      "home_team": "Dumpster FIRE",
+      "home_score": 116.3,
+      "away_team": "Benny Beers",
+      "away_score": 111.65,
+      "is_playoff": false
+    },
+    {
+      "week": 5,
+      "home_team": "Them New Asians ",
+      "home_score": 113.6,
+      "away_team": "Its Just  A Buzz",
+      "away_score": 160.1,
+      "is_playoff": false
+    },
+    {
+      "week": 5,
+      "home_team": "Grave Diggser",
+      "home_score": 137.25,
+      "away_team": "Sizzling SeX GOD",
+      "away_score": 117.7,
+      "is_playoff": false
+    },
+    {
+      "week": 6,
+      "home_team": "Grave Diggser",
+      "home_score": 123.1,
+      "away_team": "Nonstop ass r*pe",
+      "away_score": 106.2,
+      "is_playoff": false
+    },
+    {
+      "week": 6,
+      "home_team": "Try That in a Small Town",
+      "home_score": 94.5,
+      "away_team": "Ya Sistas ASSS",
+      "away_score": 147.0,
+      "is_playoff": false
+    },
+    {
+      "week": 6,
+      "home_team": "Dumpster FIRE",
+      "home_score": 109.25,
+      "away_team": "Its Just  A Buzz",
+      "away_score": 149.35,
+      "is_playoff": false
+    },
+    {
+      "week": 6,
+      "home_team": "Them New Asians ",
+      "home_score": 139.15,
+      "away_team": "Benny Beers",
+      "away_score": 127.25,
+      "is_playoff": false
+    },
+    {
+      "week": 6,
+      "home_team": "HOCK and BALLS",
+      "home_score": 130.1,
+      "away_team": "Louisiana State Mud Dogs",
+      "away_score": 95.05,
+      "is_playoff": false
+    },
+    {
+      "week": 6,
+      "home_team": "Sizzling SeX GOD",
+      "home_score": 107.75,
+      "away_team": "Gimli\u2019s Arse",
+      "away_score": 152.3,
+      "is_playoff": false
+    },
+    {
+      "week": 7,
+      "home_team": "Gimli\u2019s Arse",
+      "home_score": 81.65,
+      "away_team": "Ya Sistas ASSS",
+      "away_score": 141.8,
+      "is_playoff": false
+    },
+    {
+      "week": 7,
+      "home_team": "Dumpster FIRE",
+      "home_score": 103.2,
+      "away_team": "HOCK and BALLS",
+      "away_score": 118.3,
+      "is_playoff": false
+    },
+    {
+      "week": 7,
+      "home_team": "Louisiana State Mud Dogs",
+      "home_score": 151.05,
+      "away_team": "Sizzling SeX GOD",
+      "away_score": 112.95,
+      "is_playoff": false
+    },
+    {
+      "week": 7,
+      "home_team": "Try That in a Small Town",
+      "home_score": 124.35,
+      "away_team": "Benny Beers",
+      "away_score": 139.8,
+      "is_playoff": false
+    },
+    {
+      "week": 7,
+      "home_team": "Grave Diggser",
+      "home_score": 134.55,
+      "away_team": "Its Just  A Buzz",
+      "away_score": 92.2,
+      "is_playoff": false
+    },
+    {
+      "week": 7,
+      "home_team": "Nonstop ass r*pe",
+      "home_score": 88.7,
+      "away_team": "Them New Asians ",
+      "away_score": 114.9,
+      "is_playoff": false
+    },
+    {
+      "week": 8,
+      "home_team": "Gimli\u2019s Arse",
+      "home_score": 119.5,
+      "away_team": "Them New Asians ",
+      "away_score": 156.6,
+      "is_playoff": false
+    },
+    {
+      "week": 8,
+      "home_team": "Benny Beers",
+      "home_score": 108.65,
+      "away_team": "Ya Sistas ASSS",
+      "away_score": 143.2,
+      "is_playoff": false
+    },
+    {
+      "week": 8,
+      "home_team": "Try That in a Small Town",
+      "home_score": 128.8,
+      "away_team": "Sizzling SeX GOD",
+      "away_score": 117.4,
+      "is_playoff": false
+    },
+    {
+      "week": 8,
+      "home_team": "Its Just  A Buzz",
+      "home_score": 165.0,
+      "away_team": "Louisiana State Mud Dogs",
+      "away_score": 110.85,
+      "is_playoff": false
+    },
+    {
+      "week": 8,
+      "home_team": "Nonstop ass r*pe",
+      "home_score": 83.95,
+      "away_team": "Dumpster FIRE",
+      "away_score": 151.8,
+      "is_playoff": false
+    },
+    {
+      "week": 8,
+      "home_team": "Grave Diggser",
+      "home_score": 144.85,
+      "away_team": "HOCK and BALLS",
+      "away_score": 101.7,
+      "is_playoff": false
+    },
+    {
+      "week": 9,
+      "home_team": "Its Just  A Buzz",
+      "home_score": 125.65,
+      "away_team": "Gimli\u2019s Arse",
+      "away_score": 121.65,
+      "is_playoff": false
+    },
+    {
+      "week": 9,
+      "home_team": "Dumpster FIRE",
+      "home_score": 127.7,
+      "away_team": "Ya Sistas ASSS",
+      "away_score": 151.0,
+      "is_playoff": false
+    },
+    {
+      "week": 9,
+      "home_team": "Them New Asians ",
+      "home_score": 161.35,
+      "away_team": "HOCK and BALLS",
+      "away_score": 122.65,
+      "is_playoff": false
+    },
+    {
+      "week": 9,
+      "home_team": "Nonstop ass r*pe",
+      "home_score": 124.35,
+      "away_team": "Try That in a Small Town",
+      "away_score": 104.1,
+      "is_playoff": false
+    },
+    {
+      "week": 9,
+      "home_team": "Louisiana State Mud Dogs",
+      "home_score": 104.15,
+      "away_team": "Grave Diggser",
+      "away_score": 92.3,
+      "is_playoff": false
+    },
+    {
+      "week": 9,
+      "home_team": "Sizzling SeX GOD",
+      "home_score": 100.9,
+      "away_team": "Benny Beers",
+      "away_score": 120.3,
+      "is_playoff": false
+    },
+    {
+      "week": 10,
+      "home_team": "Its Just  A Buzz",
+      "home_score": 96.2,
+      "away_team": "Nonstop ass r*pe",
+      "away_score": 111.7,
+      "is_playoff": false
+    },
+    {
+      "week": 10,
+      "home_team": "Grave Diggser",
+      "home_score": 167.9,
+      "away_team": "Ya Sistas ASSS",
+      "away_score": 131.7,
+      "is_playoff": false
+    },
+    {
+      "week": 10,
+      "home_team": "Louisiana State Mud Dogs",
+      "home_score": 92.7,
+      "away_team": "Them New Asians ",
+      "away_score": 131.15,
+      "is_playoff": false
+    },
+    {
+      "week": 10,
+      "home_team": "Dumpster FIRE",
+      "home_score": 54.1,
+      "away_team": "Sizzling SeX GOD",
+      "away_score": 130.6,
+      "is_playoff": false
+    },
+    {
+      "week": 10,
+      "home_team": "HOCK and BALLS",
+      "home_score": 107.15,
+      "away_team": "Benny Beers",
+      "away_score": 100.1,
+      "is_playoff": false
+    },
+    {
+      "week": 10,
+      "home_team": "Try That in a Small Town",
+      "home_score": 136.85,
+      "away_team": "Gimli\u2019s Arse",
+      "away_score": 129.7,
+      "is_playoff": false
+    },
+    {
+      "week": 11,
+      "home_team": "Its Just  A Buzz",
+      "home_score": 121.55,
+      "away_team": "Benny Beers",
+      "away_score": 151.3,
+      "is_playoff": false
+    },
+    {
+      "week": 11,
+      "home_team": "HOCK and BALLS",
+      "home_score": 85.35,
+      "away_team": "Try That in a Small Town",
+      "away_score": 109.2,
+      "is_playoff": false
+    },
+    {
+      "week": 11,
+      "home_team": "Dumpster FIRE",
+      "home_score": 121.15,
+      "away_team": "Louisiana State Mud Dogs",
+      "away_score": 143.3,
+      "is_playoff": false
+    },
+    {
+      "week": 11,
+      "home_team": "Sizzling SeX GOD",
+      "home_score": 144.15,
+      "away_team": "Nonstop ass r*pe",
+      "away_score": 174.35,
+      "is_playoff": false
+    },
+    {
+      "week": 11,
+      "home_team": "Ya Sistas ASSS",
+      "home_score": 79.35,
+      "away_team": "Them New Asians ",
+      "away_score": 107.05,
+      "is_playoff": false
+    },
+    {
+      "week": 11,
+      "home_team": "Gimli\u2019s Arse",
+      "home_score": 110.9,
+      "away_team": "Grave Diggser",
+      "away_score": 152.15,
+      "is_playoff": false
+    },
+    {
+      "week": 12,
+      "home_team": "Benny Beers",
+      "home_score": 169.95,
+      "away_team": "Louisiana State Mud Dogs",
+      "away_score": 88.0,
+      "is_playoff": false
+    },
+    {
+      "week": 12,
+      "home_team": "Ya Sistas ASSS",
+      "home_score": 175.45,
+      "away_team": "Its Just  A Buzz",
+      "away_score": 110.85,
+      "is_playoff": false
+    },
+    {
+      "week": 12,
+      "home_team": "HOCK and BALLS",
+      "home_score": 115.15,
+      "away_team": "Sizzling SeX GOD",
+      "away_score": 136.05,
+      "is_playoff": false
+    },
+    {
+      "week": 12,
+      "home_team": "Dumpster FIRE",
+      "home_score": 168.4,
+      "away_team": "Them New Asians ",
+      "away_score": 115.95,
+      "is_playoff": false
+    },
+    {
+      "week": 12,
+      "home_team": "Try That in a Small Town",
+      "home_score": 119.2,
+      "away_team": "Grave Diggser",
+      "away_score": 71.95,
+      "is_playoff": false
+    },
+    {
+      "week": 12,
+      "home_team": "Nonstop ass r*pe",
+      "home_score": 84.75,
+      "away_team": "Gimli\u2019s Arse",
+      "away_score": 90.8,
+      "is_playoff": false
+    },
+    {
+      "week": 13,
+      "home_team": "Benny Beers",
+      "home_score": 150.75,
+      "away_team": "Gimli\u2019s Arse",
+      "away_score": 147.45,
+      "is_playoff": false
+    },
+    {
+      "week": 13,
+      "home_team": "Grave Diggser",
+      "home_score": 101.45,
+      "away_team": "Them New Asians ",
+      "away_score": 146.0,
+      "is_playoff": false
+    },
+    {
+      "week": 13,
+      "home_team": "Its Just  A Buzz",
+      "home_score": 151.5,
+      "away_team": "Sizzling SeX GOD",
+      "away_score": 147.95,
+      "is_playoff": false
+    },
+    {
+      "week": 13,
+      "home_team": "Nonstop ass r*pe",
+      "home_score": 138.5,
+      "away_team": "Louisiana State Mud Dogs",
+      "away_score": 132.5,
+      "is_playoff": false
+    },
+    {
+      "week": 13,
+      "home_team": "HOCK and BALLS",
+      "home_score": 108.05,
+      "away_team": "Ya Sistas ASSS",
+      "away_score": 106.8,
+      "is_playoff": false
+    },
+    {
+      "week": 13,
+      "home_team": "Try That in a Small Town",
+      "home_score": 100.25,
+      "away_team": "Dumpster FIRE",
+      "away_score": 94.85,
+      "is_playoff": false
+    },
+    {
+      "week": 14,
+      "home_team": "Nonstop ass r*pe",
+      "home_score": 135.3,
+      "away_team": "Benny Beers",
+      "away_score": 81.15,
+      "is_playoff": false
+    },
+    {
+      "week": 14,
+      "home_team": "Sizzling SeX GOD",
+      "home_score": 155.05,
+      "away_team": "Ya Sistas ASSS",
+      "away_score": 148.4,
+      "is_playoff": false
+    },
+    {
+      "week": 14,
+      "home_team": "Dumpster FIRE",
+      "home_score": 137.75,
+      "away_team": "Grave Diggser",
+      "away_score": 113.25,
+      "is_playoff": false
+    },
+    {
+      "week": 14,
+      "home_team": "HOCK and BALLS",
+      "home_score": 101.2,
+      "away_team": "Its Just  A Buzz",
+      "away_score": 108.8,
+      "is_playoff": false
+    },
+    {
+      "week": 14,
+      "home_team": "Them New Asians ",
+      "home_score": 118.8,
+      "away_team": "Try That in a Small Town",
+      "away_score": 173.95,
+      "is_playoff": false
+    },
+    {
+      "week": 14,
+      "home_team": "Louisiana State Mud Dogs",
+      "home_score": 137.9,
+      "away_team": "Gimli\u2019s Arse",
+      "away_score": 105.85,
+      "is_playoff": false
+    },
+    {
+      "week": 15,
+      "home_team": "Grave Diggser",
+      "home_score": 79.8,
+      "away_team": "Ya Sistas ASSS",
+      "away_score": 144.3,
+      "is_playoff": true
+    },
+    {
+      "week": 15,
+      "home_team": "Nonstop ass r*pe",
+      "home_score": 137.0,
+      "away_team": "Benny Beers",
+      "away_score": 163.7,
+      "is_playoff": true
+    },
+    {
+      "week": 15,
+      "home_team": "HOCK and BALLS",
+      "home_score": 130.75,
+      "away_team": "Louisiana State Mud Dogs",
+      "away_score": 123.8,
+      "is_playoff": true
+    },
+    {
+      "week": 15,
+      "home_team": "Dumpster FIRE",
+      "home_score": 163.2,
+      "away_team": "Try That in a Small Town",
+      "away_score": 106.25,
+      "is_playoff": true
+    },
+    {
+      "week": 15,
+      "home_team": "Gimli\u2019s Arse",
+      "home_score": 125.45,
+      "away_team": "Sizzling SeX GOD",
+      "away_score": 64.1,
+      "is_playoff": true
+    },
+    {
+      "week": 16,
+      "home_team": "Them New Asians ",
+      "home_score": 137.8,
+      "away_team": "Ya Sistas ASSS",
+      "away_score": 117.25,
+      "is_playoff": true
+    },
+    {
+      "week": 16,
+      "home_team": "Its Just  A Buzz",
+      "home_score": 181.5,
+      "away_team": "Benny Beers",
+      "away_score": 152.55,
+      "is_playoff": true
+    },
+    {
+      "week": 16,
+      "home_team": "Nonstop ass r*pe",
+      "home_score": 107.85,
+      "away_team": "Grave Diggser",
+      "away_score": 103.7,
+      "is_playoff": true
+    },
+    {
+      "week": 16,
+      "home_team": "HOCK and BALLS",
+      "home_score": 122.7,
+      "away_team": "Dumpster FIRE",
+      "away_score": 150.05,
+      "is_playoff": true
+    },
+    {
+      "week": 16,
+      "home_team": "Louisiana State Mud Dogs",
+      "home_score": 106.3,
+      "away_team": "Gimli\u2019s Arse",
+      "away_score": 149.0,
+      "is_playoff": true
+    },
+    {
+      "week": 16,
+      "home_team": "Try That in a Small Town",
+      "home_score": 137.4,
+      "away_team": "Sizzling SeX GOD",
+      "away_score": 70.45,
+      "is_playoff": true
+    },
+    {
+      "week": 17,
+      "home_team": "Them New Asians ",
+      "home_score": 166.25,
+      "away_team": "Its Just  A Buzz",
+      "away_score": 142.55,
+      "is_playoff": true
+    },
+    {
+      "week": 17,
+      "home_team": "Ya Sistas ASSS",
+      "home_score": 119.6,
+      "away_team": "Benny Beers",
+      "away_score": 94.2,
+      "is_playoff": true
+    },
+    {
+      "week": 17,
+      "home_team": "Nonstop ass r*pe",
+      "home_score": 129.55,
+      "away_team": "Grave Diggser",
+      "away_score": 109.35,
+      "is_playoff": true
+    },
+    {
+      "week": 17,
+      "home_team": "Dumpster FIRE",
+      "home_score": 101.25,
+      "away_team": "Gimli\u2019s Arse",
+      "away_score": 168.8,
+      "is_playoff": true
+    },
+    {
+      "week": 17,
+      "home_team": "HOCK and BALLS",
+      "home_score": 146.25,
+      "away_team": "Try That in a Small Town",
+      "away_score": 90.65,
+      "is_playoff": true
+    },
+    {
+      "week": 17,
+      "home_team": "Louisiana State Mud Dogs",
+      "home_score": 87.8,
+      "away_team": "Sizzling SeX GOD",
+      "away_score": 88.65,
+      "is_playoff": true
+    }
+  ],
+  "playoffs": [],
+  "draft": [
+    {
+      "round": 1,
+      "pick": 1,
+      "overall": 1,
+      "team": "Dumpster FIRE",
+      "player": "Nico Collins"
+    },
+    {
+      "round": 1,
+      "pick": 2,
+      "overall": 2,
+      "team": "Grave Diggser",
+      "player": "Ja'Marr Chase"
+    },
+    {
+      "round": 1,
+      "pick": 3,
+      "overall": 3,
+      "team": "Them New Asians ",
+      "player": "Anthony Richardson"
+    },
+    {
+      "round": 1,
+      "pick": 4,
+      "overall": 4,
+      "team": "HOCK and BALLS",
+      "player": "Travis Etienne Jr."
+    },
+    {
+      "round": 1,
+      "pick": 5,
+      "overall": 5,
+      "team": "Try That in a Small Town",
+      "player": "Saquon Barkley"
+    },
+    {
+      "round": 1,
+      "pick": 6,
+      "overall": 6,
+      "team": "Its Just  A Buzz",
+      "player": "Justin Jefferson"
+    },
+    {
+      "round": 1,
+      "pick": 7,
+      "overall": 7,
+      "team": "Gimli\u2019s Arse",
+      "player": "Mike Evans"
+    },
+    {
+      "round": 1,
+      "pick": 8,
+      "overall": 8,
+      "team": "Nonstop ass r*pe",
+      "player": "Isiah Pacheco"
+    },
+    {
+      "round": 1,
+      "pick": 9,
+      "overall": 9,
+      "team": "Benny Beers",
+      "player": "Breece Hall"
+    },
+    {
+      "round": 1,
+      "pick": 10,
+      "overall": 10,
+      "team": "Sizzling SeX GOD",
+      "player": "David Montgomery"
+    },
+    {
+      "round": 1,
+      "pick": 11,
+      "overall": 11,
+      "team": "Ya Sistas ASSS",
+      "player": "Drake London"
+    },
+    {
+      "round": 1,
+      "pick": 12,
+      "overall": 12,
+      "team": "Louisiana State Mud Dogs",
+      "player": "Amon-Ra St. Brown"
+    },
+    {
+      "round": 2,
+      "pick": 1,
+      "overall": 13,
+      "team": "Dumpster FIRE",
+      "player": "CeeDee Lamb"
+    },
+    {
+      "round": 2,
+      "pick": 2,
+      "overall": 14,
+      "team": "Grave Diggser",
+      "player": "Deebo Samuel Sr."
+    },
+    {
+      "round": 2,
+      "pick": 3,
+      "overall": 15,
+      "team": "Them New Asians ",
+      "player": "Bijan Robinson"
+    },
+    {
+      "round": 2,
+      "pick": 4,
+      "overall": 16,
+      "team": "HOCK and BALLS",
+      "player": "Derrick Henry"
+    },
+    {
+      "round": 2,
+      "pick": 5,
+      "overall": 17,
+      "team": "Try That in a Small Town",
+      "player": "Puka Nacua"
+    },
+    {
+      "round": 2,
+      "pick": 6,
+      "overall": 18,
+      "team": "Its Just  A Buzz",
+      "player": "Sam LaPorta"
+    },
+    {
+      "round": 2,
+      "pick": 7,
+      "overall": 19,
+      "team": "Gimli\u2019s Arse",
+      "player": "Jonathan Taylor"
+    },
+    {
+      "round": 2,
+      "pick": 8,
+      "overall": 20,
+      "team": "Nonstop ass r*pe",
+      "player": "Christian McCaffrey"
+    },
+    {
+      "round": 2,
+      "pick": 9,
+      "overall": 21,
+      "team": "Benny Beers",
+      "player": "A.J. Brown"
+    },
+    {
+      "round": 2,
+      "pick": 10,
+      "overall": 22,
+      "team": "Sizzling SeX GOD",
+      "player": "Tyreek Hill"
+    },
+    {
+      "round": 2,
+      "pick": 11,
+      "overall": 23,
+      "team": "Ya Sistas ASSS",
+      "player": "Garrett Wilson"
+    },
+    {
+      "round": 2,
+      "pick": 12,
+      "overall": 24,
+      "team": "Louisiana State Mud Dogs",
+      "player": "Kyren Williams"
+    },
+    {
+      "round": 3,
+      "pick": 1,
+      "overall": 25,
+      "team": "Louisiana State Mud Dogs",
+      "player": "Brandon Aiyuk"
+    },
+    {
+      "round": 3,
+      "pick": 2,
+      "overall": 26,
+      "team": "Ya Sistas ASSS",
+      "player": "Jahmyr Gibbs"
+    },
+    {
+      "round": 3,
+      "pick": 3,
+      "overall": 27,
+      "team": "Sizzling SeX GOD",
+      "player": "Chris Olave"
+    },
+    {
+      "round": 3,
+      "pick": 4,
+      "overall": 28,
+      "team": "Benny Beers",
+      "player": "Marvin Harrison Jr."
+    },
+    {
+      "round": 3,
+      "pick": 5,
+      "overall": 29,
+      "team": "Nonstop ass r*pe",
+      "player": "Davante Adams"
+    },
+    {
+      "round": 3,
+      "pick": 6,
+      "overall": 30,
+      "team": "Gimli\u2019s Arse",
+      "player": "Travis Kelce"
+    },
+    {
+      "round": 3,
+      "pick": 7,
+      "overall": 31,
+      "team": "Its Just  A Buzz",
+      "player": "Alvin Kamara"
+    },
+    {
+      "round": 3,
+      "pick": 8,
+      "overall": 32,
+      "team": "Try That in a Small Town",
+      "player": "Michael Pittman Jr."
+    },
+    {
+      "round": 3,
+      "pick": 9,
+      "overall": 33,
+      "team": "HOCK and BALLS",
+      "player": "Malik Nabers"
+    },
+    {
+      "round": 3,
+      "pick": 10,
+      "overall": 34,
+      "team": "Them New Asians ",
+      "player": "Trey McBride"
+    },
+    {
+      "round": 3,
+      "pick": 11,
+      "overall": 35,
+      "team": "Grave Diggser",
+      "player": "Kenneth Walker III"
+    },
+    {
+      "round": 3,
+      "pick": 12,
+      "overall": 36,
+      "team": "Dumpster FIRE",
+      "player": "De'Von Achane"
+    },
+    {
+      "round": 4,
+      "pick": 1,
+      "overall": 37,
+      "team": "Dumpster FIRE",
+      "player": "Josh Jacobs"
+    },
+    {
+      "round": 4,
+      "pick": 2,
+      "overall": 38,
+      "team": "Grave Diggser",
+      "player": "Joe Mixon"
+    },
+    {
+      "round": 4,
+      "pick": 3,
+      "overall": 39,
+      "team": "Them New Asians ",
+      "player": "DeVonta Smith"
+    },
+    {
+      "round": 4,
+      "pick": 4,
+      "overall": 40,
+      "team": "HOCK and BALLS",
+      "player": "Stefon Diggs"
+    },
+    {
+      "round": 4,
+      "pick": 5,
+      "overall": 41,
+      "team": "Try That in a Small Town",
+      "player": "Rachaad White"
+    },
+    {
+      "round": 4,
+      "pick": 6,
+      "overall": 42,
+      "team": "Its Just  A Buzz",
+      "player": "Zay Flowers"
+    },
+    {
+      "round": 4,
+      "pick": 7,
+      "overall": 43,
+      "team": "Gimli\u2019s Arse",
+      "player": "DK Metcalf"
+    },
+    {
+      "round": 4,
+      "pick": 8,
+      "overall": 44,
+      "team": "Nonstop ass r*pe",
+      "player": "Jaylen Waddle"
+    },
+    {
+      "round": 4,
+      "pick": 9,
+      "overall": 45,
+      "team": "Benny Beers",
+      "player": "James Cook"
+    },
+    {
+      "round": 4,
+      "pick": 10,
+      "overall": 46,
+      "team": "Sizzling SeX GOD",
+      "player": "Cooper Kupp"
+    },
+    {
+      "round": 4,
+      "pick": 11,
+      "overall": 47,
+      "team": "Ya Sistas ASSS",
+      "player": "DJ Moore"
+    },
+    {
+      "round": 4,
+      "pick": 12,
+      "overall": 48,
+      "team": "Louisiana State Mud Dogs",
+      "player": "Josh Allen"
+    },
+    {
+      "round": 5,
+      "pick": 1,
+      "overall": 49,
+      "team": "Louisiana State Mud Dogs",
+      "player": "Rashee Rice"
+    },
+    {
+      "round": 5,
+      "pick": 2,
+      "overall": 50,
+      "team": "Ya Sistas ASSS",
+      "player": "Jalen Hurts"
+    },
+    {
+      "round": 5,
+      "pick": 3,
+      "overall": 51,
+      "team": "Sizzling SeX GOD",
+      "player": "Lamar Jackson"
+    },
+    {
+      "round": 5,
+      "pick": 4,
+      "overall": 52,
+      "team": "Benny Beers",
+      "player": "Terry McLaurin"
+    },
+    {
+      "round": 5,
+      "pick": 5,
+      "overall": 53,
+      "team": "Nonstop ass r*pe",
+      "player": "Amari Cooper"
+    },
+    {
+      "round": 5,
+      "pick": 6,
+      "overall": 54,
+      "team": "Gimli\u2019s Arse",
+      "player": "D'Andre Swift"
+    },
+    {
+      "round": 5,
+      "pick": 7,
+      "overall": 55,
+      "team": "Its Just  A Buzz",
+      "player": "Rhamondre Stevenson"
+    },
+    {
+      "round": 5,
+      "pick": 8,
+      "overall": 56,
+      "team": "Try That in a Small Town",
+      "player": "Calvin Ridley"
+    },
+    {
+      "round": 5,
+      "pick": 9,
+      "overall": 57,
+      "team": "HOCK and BALLS",
+      "player": "Dalton Kincaid"
+    },
+    {
+      "round": 5,
+      "pick": 10,
+      "overall": 58,
+      "team": "Them New Asians ",
+      "player": "Tee Higgins"
+    },
+    {
+      "round": 5,
+      "pick": 11,
+      "overall": 59,
+      "team": "Grave Diggser",
+      "player": "Kyler Murray"
+    },
+    {
+      "round": 5,
+      "pick": 12,
+      "overall": 60,
+      "team": "Dumpster FIRE",
+      "player": "George Pickens"
+    },
+    {
+      "round": 6,
+      "pick": 1,
+      "overall": 61,
+      "team": "Dumpster FIRE",
+      "player": "Patrick Mahomes"
+    },
+    {
+      "round": 6,
+      "pick": 2,
+      "overall": 62,
+      "team": "Grave Diggser",
+      "player": "Kyle Pitts"
+    },
+    {
+      "round": 6,
+      "pick": 3,
+      "overall": 63,
+      "team": "Them New Asians ",
+      "player": "James Conner"
+    },
+    {
+      "round": 6,
+      "pick": 4,
+      "overall": 64,
+      "team": "HOCK and BALLS",
+      "player": "Zamir White"
+    },
+    {
+      "round": 6,
+      "pick": 5,
+      "overall": 65,
+      "team": "Try That in a Small Town",
+      "player": "Jaylen Warren"
+    },
+    {
+      "round": 6,
+      "pick": 6,
+      "overall": 66,
+      "team": "Its Just  A Buzz",
+      "player": "Christian Kirk"
+    },
+    {
+      "round": 6,
+      "pick": 7,
+      "overall": 67,
+      "team": "Gimli\u2019s Arse",
+      "player": "Chris Godwin"
+    },
+    {
+      "round": 6,
+      "pick": 8,
+      "overall": 68,
+      "team": "Nonstop ass r*pe",
+      "player": "C.J. Stroud"
+    },
+    {
+      "round": 6,
+      "pick": 9,
+      "overall": 69,
+      "team": "Benny Beers",
+      "player": "Evan Engram"
+    },
+    {
+      "round": 6,
+      "pick": 10,
+      "overall": 70,
+      "team": "Sizzling SeX GOD",
+      "player": "Mark Andrews"
+    },
+    {
+      "round": 6,
+      "pick": 11,
+      "overall": 71,
+      "team": "Ya Sistas ASSS",
+      "player": "Aaron Jones"
+    },
+    {
+      "round": 6,
+      "pick": 12,
+      "overall": 72,
+      "team": "Louisiana State Mud Dogs",
+      "player": "Raheem Mostert"
+    },
+    {
+      "round": 7,
+      "pick": 1,
+      "overall": 73,
+      "team": "Louisiana State Mud Dogs",
+      "player": "Keenan Allen"
+    },
+    {
+      "round": 7,
+      "pick": 2,
+      "overall": 74,
+      "team": "Ya Sistas ASSS",
+      "player": "George Kittle"
+    },
+    {
+      "round": 7,
+      "pick": 3,
+      "overall": 75,
+      "team": "Sizzling SeX GOD",
+      "player": "Najee Harris"
+    },
+    {
+      "round": 7,
+      "pick": 4,
+      "overall": 76,
+      "team": "Benny Beers",
+      "player": "Jayden Reed"
+    },
+    {
+      "round": 7,
+      "pick": 5,
+      "overall": 77,
+      "team": "Nonstop ass r*pe",
+      "player": "Javonte Williams"
+    },
+    {
+      "round": 7,
+      "pick": 6,
+      "overall": 78,
+      "team": "Gimli\u2019s Arse",
+      "player": "Joe Burrow"
+    },
+    {
+      "round": 7,
+      "pick": 7,
+      "overall": 79,
+      "team": "Its Just  A Buzz",
+      "player": "Diontae Johnson"
+    },
+    {
+      "round": 7,
+      "pick": 8,
+      "overall": 80,
+      "team": "Try That in a Small Town",
+      "player": "Jaxon Smith-Njigba"
+    },
+    {
+      "round": 7,
+      "pick": 9,
+      "overall": 81,
+      "team": "HOCK and BALLS",
+      "player": "Jordan Love"
+    },
+    {
+      "round": 7,
+      "pick": 10,
+      "overall": 82,
+      "team": "Them New Asians ",
+      "player": "Tank Dell"
+    },
+    {
+      "round": 7,
+      "pick": 11,
+      "overall": 83,
+      "team": "Grave Diggser",
+      "player": "Brian Robinson Jr."
+    },
+    {
+      "round": 7,
+      "pick": 12,
+      "overall": 84,
+      "team": "Dumpster FIRE",
+      "player": "Tony Pollard"
+    },
+    {
+      "round": 8,
+      "pick": 1,
+      "overall": 85,
+      "team": "Dumpster FIRE",
+      "player": "Xavier Worthy"
+    },
+    {
+      "round": 8,
+      "pick": 2,
+      "overall": 86,
+      "team": "Grave Diggser",
+      "player": "Caleb Williams"
+    },
+    {
+      "round": 8,
+      "pick": 3,
+      "overall": 87,
+      "team": "Them New Asians ",
+      "player": "Tyjae Spears"
+    },
+    {
+      "round": 8,
+      "pick": 4,
+      "overall": 88,
+      "team": "HOCK and BALLS",
+      "player": "Christian Watson"
+    },
+    {
+      "round": 8,
+      "pick": 5,
+      "overall": 89,
+      "team": "Try That in a Small Town",
+      "player": "Jake Ferguson"
+    },
+    {
+      "round": 8,
+      "pick": 6,
+      "overall": 90,
+      "team": "Its Just  A Buzz",
+      "player": "Jayden Daniels"
+    },
+    {
+      "round": 8,
+      "pick": 7,
+      "overall": 91,
+      "team": "Gimli\u2019s Arse",
+      "player": "Devin Singletary"
+    },
+    {
+      "round": 8,
+      "pick": 8,
+      "overall": 92,
+      "team": "Nonstop ass r*pe",
+      "player": "Austin Ekeler"
+    },
+    {
+      "round": 8,
+      "pick": 9,
+      "overall": 93,
+      "team": "Benny Beers",
+      "player": "Jonathon Brooks"
+    },
+    {
+      "round": 8,
+      "pick": 10,
+      "overall": 94,
+      "team": "Sizzling SeX GOD",
+      "player": "Chase Brown"
+    },
+    {
+      "round": 8,
+      "pick": 11,
+      "overall": 95,
+      "team": "Ya Sistas ASSS",
+      "player": "Nick Chubb"
+    },
+    {
+      "round": 8,
+      "pick": 12,
+      "overall": 96,
+      "team": "Louisiana State Mud Dogs",
+      "player": "David Njoku"
+    },
+    {
+      "round": 9,
+      "pick": 1,
+      "overall": 97,
+      "team": "Louisiana State Mud Dogs",
+      "player": "Gus Edwards"
+    },
+    {
+      "round": 9,
+      "pick": 2,
+      "overall": 98,
+      "team": "Ya Sistas ASSS",
+      "player": "Jordan Addison"
+    },
+    {
+      "round": 9,
+      "pick": 3,
+      "overall": 99,
+      "team": "Sizzling SeX GOD",
+      "player": "DeAndre Hopkins"
+    },
+    {
+      "round": 9,
+      "pick": 4,
+      "overall": 100,
+      "team": "Benny Beers",
+      "player": "Ladd McConkey"
+    },
+    {
+      "round": 9,
+      "pick": 5,
+      "overall": 101,
+      "team": "Nonstop ass r*pe",
+      "player": "Brock Bowers"
+    },
+    {
+      "round": 9,
+      "pick": 6,
+      "overall": 102,
+      "team": "Gimli\u2019s Arse",
+      "player": "Dak Prescott"
+    },
+    {
+      "round": 9,
+      "pick": 7,
+      "overall": 103,
+      "team": "Its Just  A Buzz",
+      "player": "Brian Thomas Jr."
+    },
+    {
+      "round": 9,
+      "pick": 8,
+      "overall": 104,
+      "team": "Try That in a Small Town",
+      "player": "Courtland Sutton"
+    },
+    {
+      "round": 9,
+      "pick": 9,
+      "overall": 105,
+      "team": "HOCK and BALLS",
+      "player": "Jerome Ford"
+    },
+    {
+      "round": 9,
+      "pick": 10,
+      "overall": 106,
+      "team": "Them New Asians ",
+      "player": "Zack Moss"
+    },
+    {
+      "round": 9,
+      "pick": 11,
+      "overall": 107,
+      "team": "Grave Diggser",
+      "player": "Hollywood Brown"
+    },
+    {
+      "round": 9,
+      "pick": 12,
+      "overall": 108,
+      "team": "Dumpster FIRE",
+      "player": "Pat Freiermuth"
+    },
+    {
+      "round": 10,
+      "pick": 1,
+      "overall": 109,
+      "team": "Dumpster FIRE",
+      "player": "Blake Corum"
+    },
+    {
+      "round": 10,
+      "pick": 2,
+      "overall": 110,
+      "team": "Grave Diggser",
+      "player": "Keon Coleman"
+    },
+    {
+      "round": 10,
+      "pick": 3,
+      "overall": 111,
+      "team": "Them New Asians ",
+      "player": "Rome Odunze"
+    },
+    {
+      "round": 10,
+      "pick": 4,
+      "overall": 112,
+      "team": "HOCK and BALLS",
+      "player": "T.J. Hockenson"
+    },
+    {
+      "round": 10,
+      "pick": 5,
+      "overall": 113,
+      "team": "Try That in a Small Town",
+      "player": "Brock Purdy"
+    },
+    {
+      "round": 10,
+      "pick": 6,
+      "overall": 114,
+      "team": "Its Just  A Buzz",
+      "player": "Jameson Williams"
+    },
+    {
+      "round": 10,
+      "pick": 7,
+      "overall": 115,
+      "team": "Gimli\u2019s Arse",
+      "player": "Adam Thielen"
+    },
+    {
+      "round": 10,
+      "pick": 8,
+      "overall": 116,
+      "team": "Nonstop ass r*pe",
+      "player": "Jerry Jeudy"
+    },
+    {
+      "round": 10,
+      "pick": 9,
+      "overall": 117,
+      "team": "Benny Beers",
+      "player": "Chuba Hubbard"
+    },
+    {
+      "round": 10,
+      "pick": 10,
+      "overall": 118,
+      "team": "Sizzling SeX GOD",
+      "player": "Rico Dowdle"
+    },
+    {
+      "round": 10,
+      "pick": 11,
+      "overall": 119,
+      "team": "Ya Sistas ASSS",
+      "player": "Khalil Herbert"
+    },
+    {
+      "round": 10,
+      "pick": 12,
+      "overall": 120,
+      "team": "Louisiana State Mud Dogs",
+      "player": "Ezekiel Elliott"
+    },
+    {
+      "round": 11,
+      "pick": 1,
+      "overall": 121,
+      "team": "Louisiana State Mud Dogs",
+      "player": "49ers D/ST"
+    },
+    {
+      "round": 11,
+      "pick": 2,
+      "overall": 122,
+      "team": "Ya Sistas ASSS",
+      "player": "Cowboys D/ST"
+    },
+    {
+      "round": 11,
+      "pick": 3,
+      "overall": 123,
+      "team": "Sizzling SeX GOD",
+      "player": "Jakobi Meyers"
+    },
+    {
+      "round": 11,
+      "pick": 4,
+      "overall": 124,
+      "team": "Benny Beers",
+      "player": "Jared Goff"
+    },
+    {
+      "round": 11,
+      "pick": 5,
+      "overall": 125,
+      "team": "Nonstop ass r*pe",
+      "player": "J.K. Dobbins"
+    },
+    {
+      "round": 11,
+      "pick": 6,
+      "overall": 126,
+      "team": "Gimli\u2019s Arse",
+      "player": "Ravens D/ST"
+    },
+    {
+      "round": 11,
+      "pick": 7,
+      "overall": 127,
+      "team": "Its Just  A Buzz",
+      "player": "Zach Charbonnet"
+    },
+    {
+      "round": 11,
+      "pick": 8,
+      "overall": 128,
+      "team": "Try That in a Small Town",
+      "player": "Mike Williams"
+    },
+    {
+      "round": 11,
+      "pick": 9,
+      "overall": 129,
+      "team": "HOCK and BALLS",
+      "player": "Jordan Mason"
+    },
+    {
+      "round": 11,
+      "pick": 10,
+      "overall": 130,
+      "team": "Them New Asians ",
+      "player": "Khalil Shakir"
+    },
+    {
+      "round": 11,
+      "pick": 11,
+      "overall": 131,
+      "team": "Grave Diggser",
+      "player": "Tyler Lockett"
+    },
+    {
+      "round": 11,
+      "pick": 12,
+      "overall": 132,
+      "team": "Dumpster FIRE",
+      "player": "Jets D/ST"
+    },
+    {
+      "round": 12,
+      "pick": 1,
+      "overall": 133,
+      "team": "Dumpster FIRE",
+      "player": "Luke Musgrave"
+    },
+    {
+      "round": 12,
+      "pick": 2,
+      "overall": 134,
+      "team": "Grave Diggser",
+      "player": "Chiefs D/ST"
+    },
+    {
+      "round": 12,
+      "pick": 3,
+      "overall": 135,
+      "team": "Them New Asians ",
+      "player": "Romeo Doubs"
+    },
+    {
+      "round": 12,
+      "pick": 4,
+      "overall": 136,
+      "team": "HOCK and BALLS",
+      "player": "Brandon Aubrey"
+    },
+    {
+      "round": 12,
+      "pick": 5,
+      "overall": 137,
+      "team": "Try That in a Small Town",
+      "player": "Browns D/ST"
+    },
+    {
+      "round": 12,
+      "pick": 6,
+      "overall": 138,
+      "team": "Its Just  A Buzz",
+      "player": "Trey Benson"
+    },
+    {
+      "round": 12,
+      "pick": 7,
+      "overall": 139,
+      "team": "Gimli\u2019s Arse",
+      "player": "Harrison Butker"
+    },
+    {
+      "round": 12,
+      "pick": 8,
+      "overall": 140,
+      "team": "Nonstop ass r*pe",
+      "player": "Curtis Samuel"
+    },
+    {
+      "round": 12,
+      "pick": 9,
+      "overall": 141,
+      "team": "Benny Beers",
+      "player": "Trevor Lawrence"
+    },
+    {
+      "round": 12,
+      "pick": 10,
+      "overall": 142,
+      "team": "Sizzling SeX GOD",
+      "player": "Jason Sanders"
+    },
+    {
+      "round": 12,
+      "pick": 11,
+      "overall": 143,
+      "team": "Ya Sistas ASSS",
+      "player": "Brandin Cooks"
+    },
+    {
+      "round": 12,
+      "pick": 12,
+      "overall": 144,
+      "team": "Louisiana State Mud Dogs",
+      "player": "Justin Tucker"
+    },
+    {
+      "round": 13,
+      "pick": 1,
+      "overall": 145,
+      "team": "Louisiana State Mud Dogs",
+      "player": "Jaleel McLaughlin"
+    },
+    {
+      "round": 13,
+      "pick": 2,
+      "overall": 146,
+      "team": "Ya Sistas ASSS",
+      "player": "Cole Kmet"
+    },
+    {
+      "round": 13,
+      "pick": 3,
+      "overall": 147,
+      "team": "Sizzling SeX GOD",
+      "player": "Dalton Schultz"
+    },
+    {
+      "round": 13,
+      "pick": 4,
+      "overall": 148,
+      "team": "Benny Beers",
+      "player": "Evan McPherson"
+    },
+    {
+      "round": 13,
+      "pick": 5,
+      "overall": 149,
+      "team": "Nonstop ass r*pe",
+      "player": "Jason Myers"
+    },
+    {
+      "round": 13,
+      "pick": 6,
+      "overall": 150,
+      "team": "Gimli\u2019s Arse",
+      "player": "Bucky Irving"
+    },
+    {
+      "round": 13,
+      "pick": 7,
+      "overall": 151,
+      "team": "Its Just  A Buzz",
+      "player": "Joshua Palmer"
+    },
+    {
+      "round": 13,
+      "pick": 8,
+      "overall": 152,
+      "team": "Try That in a Small Town",
+      "player": "Tyler Conklin"
+    },
+    {
+      "round": 13,
+      "pick": 9,
+      "overall": 153,
+      "team": "HOCK and BALLS",
+      "player": "Steelers D/ST"
+    },
+    {
+      "round": 13,
+      "pick": 10,
+      "overall": 154,
+      "team": "Them New Asians ",
+      "player": "Jake Elliott"
+    },
+    {
+      "round": 13,
+      "pick": 11,
+      "overall": 155,
+      "team": "Grave Diggser",
+      "player": "Younghoe Koo"
+    },
+    {
+      "round": 13,
+      "pick": 12,
+      "overall": 156,
+      "team": "Dumpster FIRE",
+      "player": "Jahan Dotson"
+    },
+    {
+      "round": 14,
+      "pick": 1,
+      "overall": 157,
+      "team": "Dumpster FIRE",
+      "player": "Greg Zuerlein"
+    },
+    {
+      "round": 14,
+      "pick": 2,
+      "overall": 158,
+      "team": "Grave Diggser",
+      "player": "DeMario Douglas"
+    },
+    {
+      "round": 14,
+      "pick": 3,
+      "overall": 159,
+      "team": "Them New Asians ",
+      "player": "Seahawks D/ST"
+    },
+    {
+      "round": 14,
+      "pick": 4,
+      "overall": 160,
+      "team": "HOCK and BALLS",
+      "player": "Darnell Mooney"
+    },
+    {
+      "round": 14,
+      "pick": 5,
+      "overall": 161,
+      "team": "Try That in a Small Town",
+      "player": "Tua Tagovailoa"
+    },
+    {
+      "round": 14,
+      "pick": 6,
+      "overall": 162,
+      "team": "Its Just  A Buzz",
+      "player": "Jake Moody"
+    },
+    {
+      "round": 14,
+      "pick": 7,
+      "overall": 163,
+      "team": "Gimli\u2019s Arse",
+      "player": "Hunter Henry"
+    },
+    {
+      "round": 14,
+      "pick": 8,
+      "overall": 164,
+      "team": "Nonstop ass r*pe",
+      "player": "Eagles D/ST"
+    },
+    {
+      "round": 14,
+      "pick": 9,
+      "overall": 165,
+      "team": "Benny Beers",
+      "player": "Bengals D/ST"
+    },
+    {
+      "round": 14,
+      "pick": 10,
+      "overall": 166,
+      "team": "Sizzling SeX GOD",
+      "player": "Texans D/ST"
+    },
+    {
+      "round": 14,
+      "pick": 11,
+      "overall": 167,
+      "team": "Ya Sistas ASSS",
+      "player": "Ka'imi Fairbairn"
+    },
+    {
+      "round": 14,
+      "pick": 12,
+      "overall": 168,
+      "team": "Louisiana State Mud Dogs",
+      "player": "Ja'Lynn Polk"
+    }
+  ],
+  "trades": []
+}

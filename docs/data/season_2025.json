@@ -1,0 +1,2226 @@
+{
+  "year": 2025,
+  "league_name": "Booze Bags Fantasy League",
+  "teams": [
+    {
+      "team_id": 13,
+      "team_name": "Here for the money",
+      "owner": "Benjamin Chaves",
+      "wins": 7,
+      "losses": 7,
+      "ties": 0,
+      "points_for": 1609.9,
+      "points_against": 1603.65,
+      "final_standing": 1,
+      "playoff_seed": null
+    },
+    {
+      "team_id": 9,
+      "team_name": "Top Gooners",
+      "owner": "Ben Lenhart",
+      "wins": 10,
+      "losses": 4,
+      "ties": 0,
+      "points_for": 1695.0,
+      "points_against": 1553.5,
+      "final_standing": 2,
+      "playoff_seed": null
+    },
+    {
+      "team_id": 3,
+      "team_name": "Dumpster FIRE",
+      "owner": "Ryan Fleming",
+      "wins": 8,
+      "losses": 6,
+      "ties": 0,
+      "points_for": 1788.9,
+      "points_against": 1714.4,
+      "final_standing": 3,
+      "playoff_seed": null
+    },
+    {
+      "team_id": 11,
+      "team_name": "Kraft Mac and Cheese",
+      "owner": "Christian Kelly",
+      "wins": 9,
+      "losses": 5,
+      "ties": 0,
+      "points_for": 1750.5,
+      "points_against": 1705.0,
+      "final_standing": 4,
+      "playoff_seed": null
+    },
+    {
+      "team_id": 4,
+      "team_name": "Louisiana State Mud Dogs",
+      "owner": "Steve  Gilmore",
+      "wins": 6,
+      "losses": 8,
+      "ties": 0,
+      "points_for": 1704.05,
+      "points_against": 1660.55,
+      "final_standing": 5,
+      "playoff_seed": null
+    },
+    {
+      "team_id": 5,
+      "team_name": "Ya Sistas ASSS",
+      "owner": "Brandon Baglio",
+      "wins": 8,
+      "losses": 6,
+      "ties": 0,
+      "points_for": 1759.85,
+      "points_against": 1613.25,
+      "final_standing": 6,
+      "playoff_seed": null
+    },
+    {
+      "team_id": 2,
+      "team_name": "Turd Ferguson",
+      "owner": "joshua deangelis",
+      "wins": 9,
+      "losses": 5,
+      "ties": 0,
+      "points_for": 1802.85,
+      "points_against": 1674.85,
+      "final_standing": 7,
+      "playoff_seed": null
+    },
+    {
+      "team_id": 10,
+      "team_name": "4 Doors More Haors",
+      "owner": "Matt Driscoll",
+      "wins": 8,
+      "losses": 6,
+      "ties": 0,
+      "points_for": 1724.7,
+      "points_against": 1568.05,
+      "final_standing": 8,
+      "playoff_seed": null
+    },
+    {
+      "team_id": 12,
+      "team_name": "Gimli\u2019s Arse",
+      "owner": "Jacob Bergeron",
+      "wins": 4,
+      "losses": 10,
+      "ties": 0,
+      "points_for": 1504.65,
+      "points_against": 1605.35,
+      "final_standing": 9,
+      "playoff_seed": null
+    },
+    {
+      "team_id": 1,
+      "team_name": "Its Just  A Buzz",
+      "owner": "Patrick Gonsalves",
+      "wins": 6,
+      "losses": 8,
+      "ties": 0,
+      "points_for": 1607.7,
+      "points_against": 1712.65,
+      "final_standing": 10,
+      "playoff_seed": null
+    },
+    {
+      "team_id": 6,
+      "team_name": "Racist Nabers \ud83c\udfc6",
+      "owner": "Henry Krueger",
+      "wins": 4,
+      "losses": 10,
+      "ties": 0,
+      "points_for": 1652.35,
+      "points_against": 1918.95,
+      "final_standing": 11,
+      "playoff_seed": null
+    },
+    {
+      "team_id": 8,
+      "team_name": "Sizzling SeX GOD",
+      "owner": "george gillis",
+      "wins": 5,
+      "losses": 9,
+      "ties": 0,
+      "points_for": 1488.55,
+      "points_against": 1758.8,
+      "final_standing": 12,
+      "playoff_seed": null
+    }
+  ],
+  "standings": [
+    {
+      "rank": 1,
+      "team_name": "Here for the money",
+      "owner": "Benjamin Chaves",
+      "record": "7-7",
+      "points_for": 1609.9
+    },
+    {
+      "rank": 2,
+      "team_name": "Top Gooners",
+      "owner": "Ben Lenhart",
+      "record": "10-4",
+      "points_for": 1695.0
+    },
+    {
+      "rank": 3,
+      "team_name": "Dumpster FIRE",
+      "owner": "Ryan Fleming",
+      "record": "8-6",
+      "points_for": 1788.9
+    },
+    {
+      "rank": 4,
+      "team_name": "Kraft Mac and Cheese",
+      "owner": "Christian Kelly",
+      "record": "9-5",
+      "points_for": 1750.5
+    },
+    {
+      "rank": 5,
+      "team_name": "Louisiana State Mud Dogs",
+      "owner": "Steve  Gilmore",
+      "record": "6-8",
+      "points_for": 1704.05
+    },
+    {
+      "rank": 6,
+      "team_name": "Ya Sistas ASSS",
+      "owner": "Brandon Baglio",
+      "record": "8-6",
+      "points_for": 1759.85
+    },
+    {
+      "rank": 7,
+      "team_name": "Turd Ferguson",
+      "owner": "joshua deangelis",
+      "record": "9-5",
+      "points_for": 1802.85
+    },
+    {
+      "rank": 8,
+      "team_name": "4 Doors More Haors",
+      "owner": "Matt Driscoll",
+      "record": "8-6",
+      "points_for": 1724.7
+    },
+    {
+      "rank": 9,
+      "team_name": "Gimli\u2019s Arse",
+      "owner": "Jacob Bergeron",
+      "record": "4-10",
+      "points_for": 1504.65
+    },
+    {
+      "rank": 10,
+      "team_name": "Its Just  A Buzz",
+      "owner": "Patrick Gonsalves",
+      "record": "6-8",
+      "points_for": 1607.7
+    },
+    {
+      "rank": 11,
+      "team_name": "Racist Nabers \ud83c\udfc6",
+      "owner": "Henry Krueger",
+      "record": "4-10",
+      "points_for": 1652.35
+    },
+    {
+      "rank": 12,
+      "team_name": "Sizzling SeX GOD",
+      "owner": "george gillis",
+      "record": "5-9",
+      "points_for": 1488.55
+    }
+  ],
+  "matchups": [
+    {
+      "week": 1,
+      "home_team": "Its Just  A Buzz",
+      "home_score": 95.05,
+      "away_team": "Ya Sistas ASSS",
+      "away_score": 91.9,
+      "is_playoff": false
+    },
+    {
+      "week": 1,
+      "home_team": "Dumpster FIRE",
+      "home_score": 124.55,
+      "away_team": "Sizzling SeX GOD",
+      "away_score": 110.25,
+      "is_playoff": false
+    },
+    {
+      "week": 1,
+      "home_team": "4 Doors More Haors",
+      "home_score": 124.65,
+      "away_team": "Turd Ferguson",
+      "away_score": 105.15,
+      "is_playoff": false
+    },
+    {
+      "week": 1,
+      "home_team": "Kraft Mac and Cheese",
+      "home_score": 105.7,
+      "away_team": "Top Gooners",
+      "away_score": 110.6,
+      "is_playoff": false
+    },
+    {
+      "week": 1,
+      "home_team": "Racist Nabers \ud83c\udfc6",
+      "home_score": 118.2,
+      "away_team": "Here for the money",
+      "away_score": 121.4,
+      "is_playoff": false
+    },
+    {
+      "week": 1,
+      "home_team": "Louisiana State Mud Dogs",
+      "home_score": 133.45,
+      "away_team": "Gimli\u2019s Arse",
+      "away_score": 105.45,
+      "is_playoff": false
+    },
+    {
+      "week": 2,
+      "home_team": "Dumpster FIRE",
+      "home_score": 130.35,
+      "away_team": "Ya Sistas ASSS",
+      "away_score": 124.65,
+      "is_playoff": false
+    },
+    {
+      "week": 2,
+      "home_team": "Sizzling SeX GOD",
+      "home_score": 134.55,
+      "away_team": "Its Just  A Buzz",
+      "away_score": 112.1,
+      "is_playoff": false
+    },
+    {
+      "week": 2,
+      "home_team": "Top Gooners",
+      "home_score": 116.9,
+      "away_team": "4 Doors More Haors",
+      "away_score": 134.7,
+      "is_playoff": false
+    },
+    {
+      "week": 2,
+      "home_team": "Kraft Mac and Cheese",
+      "home_score": 132.55,
+      "away_team": "Turd Ferguson",
+      "away_score": 118.2,
+      "is_playoff": false
+    },
+    {
+      "week": 2,
+      "home_team": "Here for the money",
+      "home_score": 90.0,
+      "away_team": "Gimli\u2019s Arse",
+      "away_score": 89.5,
+      "is_playoff": false
+    },
+    {
+      "week": 2,
+      "home_team": "Louisiana State Mud Dogs",
+      "home_score": 125.7,
+      "away_team": "Racist Nabers \ud83c\udfc6",
+      "away_score": 135.65,
+      "is_playoff": false
+    },
+    {
+      "week": 3,
+      "home_team": "Ya Sistas ASSS",
+      "home_score": 97.65,
+      "away_team": "Sizzling SeX GOD",
+      "away_score": 118.6,
+      "is_playoff": false
+    },
+    {
+      "week": 3,
+      "home_team": "Dumpster FIRE",
+      "home_score": 129.45,
+      "away_team": "Its Just  A Buzz",
+      "away_score": 126.0,
+      "is_playoff": false
+    },
+    {
+      "week": 3,
+      "home_team": "Top Gooners",
+      "home_score": 104.8,
+      "away_team": "Turd Ferguson",
+      "away_score": 143.6,
+      "is_playoff": false
+    },
+    {
+      "week": 3,
+      "home_team": "4 Doors More Haors",
+      "home_score": 130.05,
+      "away_team": "Kraft Mac and Cheese",
+      "away_score": 143.6,
+      "is_playoff": false
+    },
+    {
+      "week": 3,
+      "home_team": "Louisiana State Mud Dogs",
+      "home_score": 119.3,
+      "away_team": "Here for the money",
+      "away_score": 110.75,
+      "is_playoff": false
+    },
+    {
+      "week": 3,
+      "home_team": "Gimli\u2019s Arse",
+      "home_score": 104.7,
+      "away_team": "Racist Nabers \ud83c\udfc6",
+      "away_score": 113.8,
+      "is_playoff": false
+    },
+    {
+      "week": 4,
+      "home_team": "4 Doors More Haors",
+      "home_score": 139.3,
+      "away_team": "Its Just  A Buzz",
+      "away_score": 99.7,
+      "is_playoff": false
+    },
+    {
+      "week": 4,
+      "home_team": "Racist Nabers \ud83c\udfc6",
+      "home_score": 121.0,
+      "away_team": "Ya Sistas ASSS",
+      "away_score": 161.45,
+      "is_playoff": false
+    },
+    {
+      "week": 4,
+      "home_team": "Sizzling SeX GOD",
+      "home_score": 113.05,
+      "away_team": "Turd Ferguson",
+      "away_score": 137.95,
+      "is_playoff": false
+    },
+    {
+      "week": 4,
+      "home_team": "Gimli\u2019s Arse",
+      "home_score": 116.65,
+      "away_team": "Top Gooners",
+      "away_score": 122.45,
+      "is_playoff": false
+    },
+    {
+      "week": 4,
+      "home_team": "Louisiana State Mud Dogs",
+      "home_score": 132.0,
+      "away_team": "Dumpster FIRE",
+      "away_score": 144.45,
+      "is_playoff": false
+    },
+    {
+      "week": 4,
+      "home_team": "Here for the money",
+      "home_score": 141.45,
+      "away_team": "Kraft Mac and Cheese",
+      "away_score": 145.6,
+      "is_playoff": false
+    },
+    {
+      "week": 5,
+      "home_team": "Sizzling SeX GOD",
+      "home_score": 112.5,
+      "away_team": "Kraft Mac and Cheese",
+      "away_score": 124.7,
+      "is_playoff": false
+    },
+    {
+      "week": 5,
+      "home_team": "Its Just  A Buzz",
+      "home_score": 111.6,
+      "away_team": "Turd Ferguson",
+      "away_score": 147.2,
+      "is_playoff": false
+    },
+    {
+      "week": 5,
+      "home_team": "Top Gooners",
+      "home_score": 85.6,
+      "away_team": "Here for the money",
+      "away_score": 97.65,
+      "is_playoff": false
+    },
+    {
+      "week": 5,
+      "home_team": "Dumpster FIRE",
+      "home_score": 173.55,
+      "away_team": "Racist Nabers \ud83c\udfc6",
+      "away_score": 125.6,
+      "is_playoff": false
+    },
+    {
+      "week": 5,
+      "home_team": "4 Doors More Haors",
+      "home_score": 132.55,
+      "away_team": "Louisiana State Mud Dogs",
+      "away_score": 153.3,
+      "is_playoff": false
+    },
+    {
+      "week": 5,
+      "home_team": "Ya Sistas ASSS",
+      "home_score": 119.65,
+      "away_team": "Gimli\u2019s Arse",
+      "away_score": 87.45,
+      "is_playoff": false
+    },
+    {
+      "week": 6,
+      "home_team": "Louisiana State Mud Dogs",
+      "home_score": 112.9,
+      "away_team": "Ya Sistas ASSS",
+      "away_score": 158.65,
+      "is_playoff": false
+    },
+    {
+      "week": 6,
+      "home_team": "Its Just  A Buzz",
+      "home_score": 119.25,
+      "away_team": "Top Gooners",
+      "away_score": 93.9,
+      "is_playoff": false
+    },
+    {
+      "week": 6,
+      "home_team": "Here for the money",
+      "home_score": 85.3,
+      "away_team": "Turd Ferguson",
+      "away_score": 125.1,
+      "is_playoff": false
+    },
+    {
+      "week": 6,
+      "home_team": "Racist Nabers \ud83c\udfc6",
+      "home_score": 110.85,
+      "away_team": "Kraft Mac and Cheese",
+      "away_score": 165.85,
+      "is_playoff": false
+    },
+    {
+      "week": 6,
+      "home_team": "Dumpster FIRE",
+      "home_score": 92.8,
+      "away_team": "4 Doors More Haors",
+      "away_score": 98.85,
+      "is_playoff": false
+    },
+    {
+      "week": 6,
+      "home_team": "Gimli\u2019s Arse",
+      "home_score": 119.45,
+      "away_team": "Sizzling SeX GOD",
+      "away_score": 142.35,
+      "is_playoff": false
+    },
+    {
+      "week": 7,
+      "home_team": "Its Just  A Buzz",
+      "home_score": 112.8,
+      "away_team": "Kraft Mac and Cheese",
+      "away_score": 135.1,
+      "is_playoff": false
+    },
+    {
+      "week": 7,
+      "home_team": "Ya Sistas ASSS",
+      "home_score": 88.7,
+      "away_team": "Top Gooners",
+      "away_score": 134.1,
+      "is_playoff": false
+    },
+    {
+      "week": 7,
+      "home_team": "Dumpster FIRE",
+      "home_score": 127.1,
+      "away_team": "Gimli\u2019s Arse",
+      "away_score": 109.2,
+      "is_playoff": false
+    },
+    {
+      "week": 7,
+      "home_team": "Turd Ferguson",
+      "home_score": 139.8,
+      "away_team": "Racist Nabers \ud83c\udfc6",
+      "away_score": 131.8,
+      "is_playoff": false
+    },
+    {
+      "week": 7,
+      "home_team": "Sizzling SeX GOD",
+      "home_score": 129.45,
+      "away_team": "Louisiana State Mud Dogs",
+      "away_score": 117.75,
+      "is_playoff": false
+    },
+    {
+      "week": 7,
+      "home_team": "4 Doors More Haors",
+      "home_score": 112.1,
+      "away_team": "Here for the money",
+      "away_score": 129.75,
+      "is_playoff": false
+    },
+    {
+      "week": 8,
+      "home_team": "Turd Ferguson",
+      "home_score": 107.9,
+      "away_team": "Gimli\u2019s Arse",
+      "away_score": 90.6,
+      "is_playoff": false
+    },
+    {
+      "week": 8,
+      "home_team": "4 Doors More Haors",
+      "home_score": 121.25,
+      "away_team": "Sizzling SeX GOD",
+      "away_score": 82.85,
+      "is_playoff": false
+    },
+    {
+      "week": 8,
+      "home_team": "Here for the money",
+      "home_score": 106.75,
+      "away_team": "Dumpster FIRE",
+      "away_score": 91.3,
+      "is_playoff": false
+    },
+    {
+      "week": 8,
+      "home_team": "Louisiana State Mud Dogs",
+      "home_score": 116.25,
+      "away_team": "Its Just  A Buzz",
+      "away_score": 89.6,
+      "is_playoff": false
+    },
+    {
+      "week": 8,
+      "home_team": "Top Gooners",
+      "home_score": 165.95,
+      "away_team": "Racist Nabers \ud83c\udfc6",
+      "away_score": 124.95,
+      "is_playoff": false
+    },
+    {
+      "week": 8,
+      "home_team": "Kraft Mac and Cheese",
+      "home_score": 169.05,
+      "away_team": "Ya Sistas ASSS",
+      "away_score": 153.3,
+      "is_playoff": false
+    },
+    {
+      "week": 9,
+      "home_team": "Ya Sistas ASSS",
+      "home_score": 117.8,
+      "away_team": "Turd Ferguson",
+      "away_score": 114.7,
+      "is_playoff": false
+    },
+    {
+      "week": 9,
+      "home_team": "Louisiana State Mud Dogs",
+      "home_score": 136.6,
+      "away_team": "Kraft Mac and Cheese",
+      "away_score": 91.9,
+      "is_playoff": false
+    },
+    {
+      "week": 9,
+      "home_team": "Its Just  A Buzz",
+      "home_score": 130.35,
+      "away_team": "Gimli\u2019s Arse",
+      "away_score": 115.05,
+      "is_playoff": false
+    },
+    {
+      "week": 9,
+      "home_team": "Sizzling SeX GOD",
+      "home_score": 120.9,
+      "away_team": "Here for the money",
+      "away_score": 105.45,
+      "is_playoff": false
+    },
+    {
+      "week": 9,
+      "home_team": "4 Doors More Haors",
+      "home_score": 146.45,
+      "away_team": "Racist Nabers \ud83c\udfc6",
+      "away_score": 102.15,
+      "is_playoff": false
+    },
+    {
+      "week": 9,
+      "home_team": "Dumpster FIRE",
+      "home_score": 120.5,
+      "away_team": "Top Gooners",
+      "away_score": 173.6,
+      "is_playoff": false
+    },
+    {
+      "week": 10,
+      "home_team": "Turd Ferguson",
+      "home_score": 147.95,
+      "away_team": "Louisiana State Mud Dogs",
+      "away_score": 126.2,
+      "is_playoff": false
+    },
+    {
+      "week": 10,
+      "home_team": "Top Gooners",
+      "home_score": 111.3,
+      "away_team": "Sizzling SeX GOD",
+      "away_score": 69.6,
+      "is_playoff": false
+    },
+    {
+      "week": 10,
+      "home_team": "Gimli\u2019s Arse",
+      "home_score": 105.2,
+      "away_team": "4 Doors More Haors",
+      "away_score": 145.9,
+      "is_playoff": false
+    },
+    {
+      "week": 10,
+      "home_team": "Here for the money",
+      "home_score": 89.3,
+      "away_team": "Ya Sistas ASSS",
+      "away_score": 135.8,
+      "is_playoff": false
+    },
+    {
+      "week": 10,
+      "home_team": "Kraft Mac and Cheese",
+      "home_score": 163.8,
+      "away_team": "Dumpster FIRE",
+      "away_score": 134.1,
+      "is_playoff": false
+    },
+    {
+      "week": 10,
+      "home_team": "Racist Nabers \ud83c\udfc6",
+      "home_score": 109.35,
+      "away_team": "Its Just  A Buzz",
+      "away_score": 122.9,
+      "is_playoff": false
+    },
+    {
+      "week": 11,
+      "home_team": "Top Gooners",
+      "home_score": 90.65,
+      "away_team": "Louisiana State Mud Dogs",
+      "away_score": 88.15,
+      "is_playoff": false
+    },
+    {
+      "week": 11,
+      "home_team": "Kraft Mac and Cheese",
+      "home_score": 77.5,
+      "away_team": "Gimli\u2019s Arse",
+      "away_score": 103.85,
+      "is_playoff": false
+    },
+    {
+      "week": 11,
+      "home_team": "Ya Sistas ASSS",
+      "home_score": 137.4,
+      "away_team": "4 Doors More Haors",
+      "away_score": 96.75,
+      "is_playoff": false
+    },
+    {
+      "week": 11,
+      "home_team": "Dumpster FIRE",
+      "home_score": 111.25,
+      "away_team": "Turd Ferguson",
+      "away_score": 128.5,
+      "is_playoff": false
+    },
+    {
+      "week": 11,
+      "home_team": "Its Just  A Buzz",
+      "home_score": 120.1,
+      "away_team": "Here for the money",
+      "away_score": 164.05,
+      "is_playoff": false
+    },
+    {
+      "week": 11,
+      "home_team": "Sizzling SeX GOD",
+      "home_score": 71.55,
+      "away_team": "Racist Nabers \ud83c\udfc6",
+      "away_score": 148.85,
+      "is_playoff": false
+    },
+    {
+      "week": 12,
+      "home_team": "Gimli\u2019s Arse",
+      "home_score": 145.1,
+      "away_team": "Racist Nabers \ud83c\udfc6",
+      "away_score": 117.75,
+      "is_playoff": false
+    },
+    {
+      "week": 12,
+      "home_team": "Here for the money",
+      "home_score": 100.15,
+      "away_team": "Louisiana State Mud Dogs",
+      "away_score": 158.65,
+      "is_playoff": false
+    },
+    {
+      "week": 12,
+      "home_team": "Turd Ferguson",
+      "home_score": 124.55,
+      "away_team": "Top Gooners",
+      "away_score": 153.6,
+      "is_playoff": false
+    },
+    {
+      "week": 12,
+      "home_team": "Dumpster FIRE",
+      "home_score": 151.35,
+      "away_team": "Its Just  A Buzz",
+      "away_score": 102.75,
+      "is_playoff": false
+    },
+    {
+      "week": 12,
+      "home_team": "Ya Sistas ASSS",
+      "home_score": 157.7,
+      "away_team": "Sizzling SeX GOD",
+      "away_score": 100.45,
+      "is_playoff": false
+    },
+    {
+      "week": 12,
+      "home_team": "Kraft Mac and Cheese",
+      "home_score": 48.9,
+      "away_team": "4 Doors More Haors",
+      "away_score": 97.25,
+      "is_playoff": false
+    },
+    {
+      "week": 13,
+      "home_team": "Gimli\u2019s Arse",
+      "home_score": 102.1,
+      "away_team": "Here for the money",
+      "away_score": 89.35,
+      "is_playoff": false
+    },
+    {
+      "week": 13,
+      "home_team": "Racist Nabers \ud83c\udfc6",
+      "home_score": 113.0,
+      "away_team": "Louisiana State Mud Dogs",
+      "away_score": 96.0,
+      "is_playoff": false
+    },
+    {
+      "week": 13,
+      "home_team": "Its Just  A Buzz",
+      "home_score": 137.5,
+      "away_team": "Sizzling SeX GOD",
+      "away_score": 88.0,
+      "is_playoff": false
+    },
+    {
+      "week": 13,
+      "home_team": "Turd Ferguson",
+      "home_score": 133.45,
+      "away_team": "Kraft Mac and Cheese",
+      "away_score": 143.25,
+      "is_playoff": false
+    },
+    {
+      "week": 13,
+      "home_team": "Top Gooners",
+      "home_score": 121.55,
+      "away_team": "4 Doors More Haors",
+      "away_score": 116.5,
+      "is_playoff": false
+    },
+    {
+      "week": 13,
+      "home_team": "Dumpster FIRE",
+      "home_score": 115.55,
+      "away_team": "Ya Sistas ASSS",
+      "away_score": 118.0,
+      "is_playoff": false
+    },
+    {
+      "week": 14,
+      "home_team": "Racist Nabers \ud83c\udfc6",
+      "home_score": 79.4,
+      "away_team": "Here for the money",
+      "away_score": 178.55,
+      "is_playoff": false
+    },
+    {
+      "week": 14,
+      "home_team": "Louisiana State Mud Dogs",
+      "home_score": 87.8,
+      "away_team": "Gimli\u2019s Arse",
+      "away_score": 110.35,
+      "is_playoff": false
+    },
+    {
+      "week": 14,
+      "home_team": "Dumpster FIRE",
+      "home_score": 142.6,
+      "away_team": "Sizzling SeX GOD",
+      "away_score": 94.45,
+      "is_playoff": false
+    },
+    {
+      "week": 14,
+      "home_team": "Top Gooners",
+      "home_score": 110.0,
+      "away_team": "Kraft Mac and Cheese",
+      "away_score": 103.0,
+      "is_playoff": false
+    },
+    {
+      "week": 14,
+      "home_team": "4 Doors More Haors",
+      "home_score": 128.4,
+      "away_team": "Turd Ferguson",
+      "away_score": 128.8,
+      "is_playoff": false
+    },
+    {
+      "week": 14,
+      "home_team": "Ya Sistas ASSS",
+      "home_score": 97.2,
+      "away_team": "Its Just  A Buzz",
+      "away_score": 128.0,
+      "is_playoff": false
+    },
+    {
+      "week": 15,
+      "home_team": "Kraft Mac and Cheese",
+      "home_score": 140.8,
+      "away_team": "Ya Sistas ASSS",
+      "away_score": 120.6,
+      "is_playoff": true
+    },
+    {
+      "week": 15,
+      "home_team": "Here for the money",
+      "home_score": 140.95,
+      "away_team": "Louisiana State Mud Dogs",
+      "away_score": 130.05,
+      "is_playoff": true
+    },
+    {
+      "week": 15,
+      "home_team": "Turd Ferguson",
+      "home_score": 89.55,
+      "away_team": "4 Doors More Haors",
+      "away_score": 112.5,
+      "is_playoff": true
+    },
+    {
+      "week": 15,
+      "home_team": "Its Just  A Buzz",
+      "home_score": 137.75,
+      "away_team": "Sizzling SeX GOD",
+      "away_score": 85.7,
+      "is_playoff": true
+    },
+    {
+      "week": 15,
+      "home_team": "Racist Nabers \ud83c\udfc6",
+      "home_score": 139.05,
+      "away_team": "Gimli\u2019s Arse",
+      "away_score": 94.45,
+      "is_playoff": true
+    },
+    {
+      "week": 16,
+      "home_team": "Top Gooners",
+      "home_score": 137.0,
+      "away_team": "Kraft Mac and Cheese",
+      "away_score": 110.85,
+      "is_playoff": true
+    },
+    {
+      "week": 16,
+      "home_team": "Dumpster FIRE",
+      "home_score": 127.45,
+      "away_team": "Here for the money",
+      "away_score": 130.1,
+      "is_playoff": true
+    },
+    {
+      "week": 16,
+      "home_team": "Ya Sistas ASSS",
+      "home_score": 129.4,
+      "away_team": "Louisiana State Mud Dogs",
+      "away_score": 142.1,
+      "is_playoff": true
+    },
+    {
+      "week": 16,
+      "home_team": "4 Doors More Haors",
+      "home_score": 139.35,
+      "away_team": "Its Just  A Buzz",
+      "away_score": 126.65,
+      "is_playoff": true
+    },
+    {
+      "week": 16,
+      "home_team": "Turd Ferguson",
+      "home_score": 139.35,
+      "away_team": "Racist Nabers \ud83c\udfc6",
+      "away_score": 123.35,
+      "is_playoff": true
+    },
+    {
+      "week": 16,
+      "home_team": "Sizzling SeX GOD",
+      "home_score": 96.85,
+      "away_team": "Gimli\u2019s Arse",
+      "away_score": 109.8,
+      "is_playoff": true
+    },
+    {
+      "week": 17,
+      "home_team": "Top Gooners",
+      "home_score": 108.4,
+      "away_team": "Here for the money",
+      "away_score": 118.25,
+      "is_playoff": true
+    },
+    {
+      "week": 17,
+      "home_team": "Dumpster FIRE",
+      "home_score": 95.2,
+      "away_team": "Kraft Mac and Cheese",
+      "away_score": 63.45,
+      "is_playoff": true
+    },
+    {
+      "week": 17,
+      "home_team": "Ya Sistas ASSS",
+      "home_score": 77.75,
+      "away_team": "Louisiana State Mud Dogs",
+      "away_score": 104.4,
+      "is_playoff": true
+    },
+    {
+      "week": 17,
+      "home_team": "Turd Ferguson",
+      "home_score": 106.75,
+      "away_team": "4 Doors More Haors",
+      "away_score": 92.4,
+      "is_playoff": true
+    },
+    {
+      "week": 17,
+      "home_team": "Its Just  A Buzz",
+      "home_score": 133.15,
+      "away_team": "Gimli\u2019s Arse",
+      "away_score": 170.2,
+      "is_playoff": true
+    },
+    {
+      "week": 17,
+      "home_team": "Sizzling SeX GOD",
+      "home_score": 81.1,
+      "away_team": "Racist Nabers \ud83c\udfc6",
+      "away_score": 122.4,
+      "is_playoff": true
+    }
+  ],
+  "playoffs": [],
+  "draft": [
+    {
+      "round": 1,
+      "pick": 1,
+      "overall": 1,
+      "team": "Sizzling SeX GOD",
+      "player": "Chase Brown"
+    },
+    {
+      "round": 1,
+      "pick": 2,
+      "overall": 2,
+      "team": "Gimli\u2019s Arse",
+      "player": "Mike Evans"
+    },
+    {
+      "round": 1,
+      "pick": 3,
+      "overall": 3,
+      "team": "4 Doors More Haors",
+      "player": "Puka Nacua"
+    },
+    {
+      "round": 1,
+      "pick": 4,
+      "overall": 4,
+      "team": "Dumpster FIRE",
+      "player": "Nico Collins"
+    },
+    {
+      "round": 1,
+      "pick": 5,
+      "overall": 5,
+      "team": "Louisiana State Mud Dogs",
+      "player": "Amon-Ra St. Brown"
+    },
+    {
+      "round": 1,
+      "pick": 6,
+      "overall": 6,
+      "team": "Racist Nabers \ud83c\udfc6",
+      "player": "Malik Nabers"
+    },
+    {
+      "round": 1,
+      "pick": 7,
+      "overall": 7,
+      "team": "Kraft Mac and Cheese",
+      "player": "Jonathan Taylor"
+    },
+    {
+      "round": 1,
+      "pick": 8,
+      "overall": 8,
+      "team": "Top Gooners",
+      "player": "Brock Bowers"
+    },
+    {
+      "round": 1,
+      "pick": 9,
+      "overall": 9,
+      "team": "Here for the money",
+      "player": "CeeDee Lamb"
+    },
+    {
+      "round": 1,
+      "pick": 10,
+      "overall": 10,
+      "team": "Ya Sistas ASSS",
+      "player": "Drake London"
+    },
+    {
+      "round": 1,
+      "pick": 11,
+      "overall": 11,
+      "team": "Its Just  A Buzz",
+      "player": "Brian Thomas Jr."
+    },
+    {
+      "round": 1,
+      "pick": 12,
+      "overall": 12,
+      "team": "Turd Ferguson",
+      "player": "Christian McCaffrey"
+    },
+    {
+      "round": 2,
+      "pick": 1,
+      "overall": 13,
+      "team": "Sizzling SeX GOD",
+      "player": "Ja'Marr Chase"
+    },
+    {
+      "round": 2,
+      "pick": 2,
+      "overall": 14,
+      "team": "Gimli\u2019s Arse",
+      "player": "Derrick Henry"
+    },
+    {
+      "round": 2,
+      "pick": 3,
+      "overall": 15,
+      "team": "4 Doors More Haors",
+      "player": "De'Von Achane"
+    },
+    {
+      "round": 2,
+      "pick": 4,
+      "overall": 16,
+      "team": "Dumpster FIRE",
+      "player": "Jahmyr Gibbs"
+    },
+    {
+      "round": 2,
+      "pick": 5,
+      "overall": 17,
+      "team": "Louisiana State Mud Dogs",
+      "player": "Ashton Jeanty"
+    },
+    {
+      "round": 2,
+      "pick": 6,
+      "overall": 18,
+      "team": "Racist Nabers \ud83c\udfc6",
+      "player": "Bijan Robinson"
+    },
+    {
+      "round": 2,
+      "pick": 7,
+      "overall": 19,
+      "team": "Kraft Mac and Cheese",
+      "player": "Josh Jacobs"
+    },
+    {
+      "round": 2,
+      "pick": 8,
+      "overall": 20,
+      "team": "Top Gooners",
+      "player": "Justin Jefferson"
+    },
+    {
+      "round": 2,
+      "pick": 9,
+      "overall": 21,
+      "team": "Here for the money",
+      "player": "Josh Allen"
+    },
+    {
+      "round": 2,
+      "pick": 10,
+      "overall": 22,
+      "team": "Ya Sistas ASSS",
+      "player": "Saquon Barkley"
+    },
+    {
+      "round": 2,
+      "pick": 11,
+      "overall": 23,
+      "team": "Its Just  A Buzz",
+      "player": "A.J. Brown"
+    },
+    {
+      "round": 2,
+      "pick": 12,
+      "overall": 24,
+      "team": "Turd Ferguson",
+      "player": "Kyren Williams"
+    },
+    {
+      "round": 3,
+      "pick": 1,
+      "overall": 25,
+      "team": "Turd Ferguson",
+      "player": "Joe Burrow"
+    },
+    {
+      "round": 3,
+      "pick": 2,
+      "overall": 26,
+      "team": "Its Just  A Buzz",
+      "player": "Bucky Irving"
+    },
+    {
+      "round": 3,
+      "pick": 3,
+      "overall": 27,
+      "team": "Ya Sistas ASSS",
+      "player": "Ladd McConkey"
+    },
+    {
+      "round": 3,
+      "pick": 4,
+      "overall": 28,
+      "team": "Here for the money",
+      "player": "Omarion Hampton"
+    },
+    {
+      "round": 3,
+      "pick": 5,
+      "overall": 29,
+      "team": "Top Gooners",
+      "player": "James Cook III"
+    },
+    {
+      "round": 3,
+      "pick": 6,
+      "overall": 30,
+      "team": "Kraft Mac and Cheese",
+      "player": "Terry McLaurin"
+    },
+    {
+      "round": 3,
+      "pick": 7,
+      "overall": 31,
+      "team": "Racist Nabers \ud83c\udfc6",
+      "player": "TreVeyon Henderson"
+    },
+    {
+      "round": 3,
+      "pick": 8,
+      "overall": 32,
+      "team": "Louisiana State Mud Dogs",
+      "player": "Alvin Kamara"
+    },
+    {
+      "round": 3,
+      "pick": 9,
+      "overall": 33,
+      "team": "Dumpster FIRE",
+      "player": "Jaxon Smith-Njigba"
+    },
+    {
+      "round": 3,
+      "pick": 10,
+      "overall": 34,
+      "team": "4 Doors More Haors",
+      "player": "Garrett Wilson"
+    },
+    {
+      "round": 3,
+      "pick": 11,
+      "overall": 35,
+      "team": "Gimli\u2019s Arse",
+      "player": "Trey McBride"
+    },
+    {
+      "round": 3,
+      "pick": 12,
+      "overall": 36,
+      "team": "Sizzling SeX GOD",
+      "player": "Tyreek Hill"
+    },
+    {
+      "round": 4,
+      "pick": 1,
+      "overall": 37,
+      "team": "Sizzling SeX GOD",
+      "player": "Lamar Jackson"
+    },
+    {
+      "round": 4,
+      "pick": 2,
+      "overall": 38,
+      "team": "Gimli\u2019s Arse",
+      "player": "Xavier Worthy"
+    },
+    {
+      "round": 4,
+      "pick": 3,
+      "overall": 39,
+      "team": "4 Doors More Haors",
+      "player": "D'Andre Swift"
+    },
+    {
+      "round": 4,
+      "pick": 4,
+      "overall": 40,
+      "team": "Dumpster FIRE",
+      "player": "Kenneth Walker III"
+    },
+    {
+      "round": 4,
+      "pick": 5,
+      "overall": 41,
+      "team": "Louisiana State Mud Dogs",
+      "player": "Chuba Hubbard"
+    },
+    {
+      "round": 4,
+      "pick": 6,
+      "overall": 42,
+      "team": "Racist Nabers \ud83c\udfc6",
+      "player": "Jalen Hurts"
+    },
+    {
+      "round": 4,
+      "pick": 7,
+      "overall": 43,
+      "team": "Kraft Mac and Cheese",
+      "player": "Marvin Harrison Jr."
+    },
+    {
+      "round": 4,
+      "pick": 8,
+      "overall": 44,
+      "team": "Top Gooners",
+      "player": "Davante Adams"
+    },
+    {
+      "round": 4,
+      "pick": 9,
+      "overall": 45,
+      "team": "Here for the money",
+      "player": "DJ Moore"
+    },
+    {
+      "round": 4,
+      "pick": 10,
+      "overall": 46,
+      "team": "Ya Sistas ASSS",
+      "player": "George Kittle"
+    },
+    {
+      "round": 4,
+      "pick": 11,
+      "overall": 47,
+      "team": "Its Just  A Buzz",
+      "player": "Tee Higgins"
+    },
+    {
+      "round": 4,
+      "pick": 12,
+      "overall": 48,
+      "team": "Turd Ferguson",
+      "player": "Tetairoa McMillan"
+    },
+    {
+      "round": 5,
+      "pick": 1,
+      "overall": 49,
+      "team": "Turd Ferguson",
+      "player": "Stefon Diggs"
+    },
+    {
+      "round": 5,
+      "pick": 2,
+      "overall": 50,
+      "team": "Its Just  A Buzz",
+      "player": "Jayden Daniels"
+    },
+    {
+      "round": 5,
+      "pick": 3,
+      "overall": 51,
+      "team": "Ya Sistas ASSS",
+      "player": "James Conner"
+    },
+    {
+      "round": 5,
+      "pick": 4,
+      "overall": 52,
+      "team": "Here for the money",
+      "player": "Calvin Ridley"
+    },
+    {
+      "round": 5,
+      "pick": 5,
+      "overall": 53,
+      "team": "Top Gooners",
+      "player": "Breece Hall"
+    },
+    {
+      "round": 5,
+      "pick": 6,
+      "overall": 54,
+      "team": "Kraft Mac and Cheese",
+      "player": "Jameson Williams"
+    },
+    {
+      "round": 5,
+      "pick": 7,
+      "overall": 55,
+      "team": "Racist Nabers \ud83c\udfc6",
+      "player": "Courtland Sutton"
+    },
+    {
+      "round": 5,
+      "pick": 8,
+      "overall": 56,
+      "team": "Louisiana State Mud Dogs",
+      "player": "Rashee Rice"
+    },
+    {
+      "round": 5,
+      "pick": 9,
+      "overall": 57,
+      "team": "Dumpster FIRE",
+      "player": "Jaylen Waddle"
+    },
+    {
+      "round": 5,
+      "pick": 10,
+      "overall": 58,
+      "team": "4 Doors More Haors",
+      "player": "Jerry Jeudy"
+    },
+    {
+      "round": 5,
+      "pick": 11,
+      "overall": 59,
+      "team": "Gimli\u2019s Arse",
+      "player": "Isiah Pacheco"
+    },
+    {
+      "round": 5,
+      "pick": 12,
+      "overall": 60,
+      "team": "Sizzling SeX GOD",
+      "player": "DK Metcalf"
+    },
+    {
+      "round": 6,
+      "pick": 1,
+      "overall": 61,
+      "team": "Sizzling SeX GOD",
+      "player": "Tony Pollard"
+    },
+    {
+      "round": 6,
+      "pick": 2,
+      "overall": 62,
+      "team": "Gimli\u2019s Arse",
+      "player": "Aaron Jones Sr."
+    },
+    {
+      "round": 6,
+      "pick": 3,
+      "overall": 63,
+      "team": "4 Doors More Haors",
+      "player": "Michael Pittman Jr."
+    },
+    {
+      "round": 6,
+      "pick": 4,
+      "overall": 64,
+      "team": "Dumpster FIRE",
+      "player": "Baker Mayfield"
+    },
+    {
+      "round": 6,
+      "pick": 5,
+      "overall": 65,
+      "team": "Louisiana State Mud Dogs",
+      "player": "Sam LaPorta"
+    },
+    {
+      "round": 6,
+      "pick": 6,
+      "overall": 66,
+      "team": "Racist Nabers \ud83c\udfc6",
+      "player": "Matthew Golden"
+    },
+    {
+      "round": 6,
+      "pick": 7,
+      "overall": 67,
+      "team": "Kraft Mac and Cheese",
+      "player": "Patrick Mahomes"
+    },
+    {
+      "round": 6,
+      "pick": 8,
+      "overall": 68,
+      "team": "Top Gooners",
+      "player": "Zay Flowers"
+    },
+    {
+      "round": 6,
+      "pick": 9,
+      "overall": 69,
+      "team": "Here for the money",
+      "player": "T.J. Hockenson"
+    },
+    {
+      "round": 6,
+      "pick": 10,
+      "overall": 70,
+      "team": "Ya Sistas ASSS",
+      "player": "George Pickens"
+    },
+    {
+      "round": 6,
+      "pick": 11,
+      "overall": 71,
+      "team": "Its Just  A Buzz",
+      "player": "David Montgomery"
+    },
+    {
+      "round": 6,
+      "pick": 12,
+      "overall": 72,
+      "team": "Turd Ferguson",
+      "player": "Travis Kelce"
+    },
+    {
+      "round": 7,
+      "pick": 1,
+      "overall": 73,
+      "team": "Turd Ferguson",
+      "player": "Rome Odunze"
+    },
+    {
+      "round": 7,
+      "pick": 2,
+      "overall": 74,
+      "team": "Its Just  A Buzz",
+      "player": "RJ Harvey"
+    },
+    {
+      "round": 7,
+      "pick": 3,
+      "overall": 75,
+      "team": "Ya Sistas ASSS",
+      "player": "Dak Prescott"
+    },
+    {
+      "round": 7,
+      "pick": 4,
+      "overall": 76,
+      "team": "Here for the money",
+      "player": "Kaleb Johnson"
+    },
+    {
+      "round": 7,
+      "pick": 5,
+      "overall": 77,
+      "team": "Top Gooners",
+      "player": "Travis Hunter"
+    },
+    {
+      "round": 7,
+      "pick": 6,
+      "overall": 78,
+      "team": "Kraft Mac and Cheese",
+      "player": "Tyrone Tracy Jr."
+    },
+    {
+      "round": 7,
+      "pick": 7,
+      "overall": 79,
+      "team": "Racist Nabers \ud83c\udfc6",
+      "player": "Evan Engram"
+    },
+    {
+      "round": 7,
+      "pick": 8,
+      "overall": 80,
+      "team": "Louisiana State Mud Dogs",
+      "player": "Ricky Pearsall"
+    },
+    {
+      "round": 7,
+      "pick": 9,
+      "overall": 81,
+      "team": "Dumpster FIRE",
+      "player": "Emeka Egbuka"
+    },
+    {
+      "round": 7,
+      "pick": 10,
+      "overall": 82,
+      "team": "4 Doors More Haors",
+      "player": "Mark Andrews"
+    },
+    {
+      "round": 7,
+      "pick": 11,
+      "overall": 83,
+      "team": "Gimli\u2019s Arse",
+      "player": "Brock Purdy"
+    },
+    {
+      "round": 7,
+      "pick": 12,
+      "overall": 84,
+      "team": "Sizzling SeX GOD",
+      "player": "Tyler Warren"
+    },
+    {
+      "round": 8,
+      "pick": 1,
+      "overall": 85,
+      "team": "Sizzling SeX GOD",
+      "player": "Jordan Mason"
+    },
+    {
+      "round": 8,
+      "pick": 2,
+      "overall": 86,
+      "team": "Gimli\u2019s Arse",
+      "player": "Cooper Kupp"
+    },
+    {
+      "round": 8,
+      "pick": 3,
+      "overall": 87,
+      "team": "4 Doors More Haors",
+      "player": "Kyler Murray"
+    },
+    {
+      "round": 8,
+      "pick": 4,
+      "overall": 88,
+      "team": "Dumpster FIRE",
+      "player": "Jacory Croskey-Merritt"
+    },
+    {
+      "round": 8,
+      "pick": 5,
+      "overall": 89,
+      "team": "Louisiana State Mud Dogs",
+      "player": "Deebo Samuel"
+    },
+    {
+      "round": 8,
+      "pick": 6,
+      "overall": 90,
+      "team": "Racist Nabers \ud83c\udfc6",
+      "player": "Javonte Williams"
+    },
+    {
+      "round": 8,
+      "pick": 7,
+      "overall": 91,
+      "team": "Kraft Mac and Cheese",
+      "player": "Tucker Kraft"
+    },
+    {
+      "round": 8,
+      "pick": 8,
+      "overall": 92,
+      "team": "Top Gooners",
+      "player": "Bo Nix"
+    },
+    {
+      "round": 8,
+      "pick": 9,
+      "overall": 93,
+      "team": "Here for the money",
+      "player": "J.K. Dobbins"
+    },
+    {
+      "round": 8,
+      "pick": 10,
+      "overall": 94,
+      "team": "Ya Sistas ASSS",
+      "player": "Christian Kirk"
+    },
+    {
+      "round": 8,
+      "pick": 11,
+      "overall": 95,
+      "team": "Its Just  A Buzz",
+      "player": "David Njoku"
+    },
+    {
+      "round": 8,
+      "pick": 12,
+      "overall": 96,
+      "team": "Turd Ferguson",
+      "player": "Jaylen Warren"
+    },
+    {
+      "round": 9,
+      "pick": 1,
+      "overall": 97,
+      "team": "Turd Ferguson",
+      "player": "Jordan Addison"
+    },
+    {
+      "round": 9,
+      "pick": 2,
+      "overall": 98,
+      "team": "Its Just  A Buzz",
+      "player": "Josh Downs"
+    },
+    {
+      "round": 9,
+      "pick": 3,
+      "overall": 99,
+      "team": "Ya Sistas ASSS",
+      "player": "Khalil Shakir"
+    },
+    {
+      "round": 9,
+      "pick": 4,
+      "overall": 100,
+      "team": "Here for the money",
+      "player": "Chris Olave"
+    },
+    {
+      "round": 9,
+      "pick": 5,
+      "overall": 101,
+      "team": "Top Gooners",
+      "player": "Travis Etienne Jr."
+    },
+    {
+      "round": 9,
+      "pick": 6,
+      "overall": 102,
+      "team": "Kraft Mac and Cheese",
+      "player": "Tank Bigsby"
+    },
+    {
+      "round": 9,
+      "pick": 7,
+      "overall": 103,
+      "team": "Racist Nabers \ud83c\udfc6",
+      "player": "Jakobi Meyers"
+    },
+    {
+      "round": 9,
+      "pick": 8,
+      "overall": 104,
+      "team": "Louisiana State Mud Dogs",
+      "player": "Jauan Jennings"
+    },
+    {
+      "round": 9,
+      "pick": 9,
+      "overall": 105,
+      "team": "Dumpster FIRE",
+      "player": "Rhamondre Stevenson"
+    },
+    {
+      "round": 9,
+      "pick": 10,
+      "overall": 106,
+      "team": "4 Doors More Haors",
+      "player": "Justin Fields"
+    },
+    {
+      "round": 9,
+      "pick": 11,
+      "overall": 107,
+      "team": "Gimli\u2019s Arse",
+      "player": "Steelers D/ST"
+    },
+    {
+      "round": 9,
+      "pick": 12,
+      "overall": 108,
+      "team": "Sizzling SeX GOD",
+      "player": "Austin Ekeler"
+    },
+    {
+      "round": 10,
+      "pick": 1,
+      "overall": 109,
+      "team": "Sizzling SeX GOD",
+      "player": "Darnell Mooney"
+    },
+    {
+      "round": 10,
+      "pick": 2,
+      "overall": 110,
+      "team": "Gimli\u2019s Arse",
+      "player": "Joe Mixon"
+    },
+    {
+      "round": 10,
+      "pick": 3,
+      "overall": 111,
+      "team": "4 Doors More Haors",
+      "player": "Woody Marks"
+    },
+    {
+      "round": 10,
+      "pick": 4,
+      "overall": 112,
+      "team": "Dumpster FIRE",
+      "player": "Colston Loveland"
+    },
+    {
+      "round": 10,
+      "pick": 5,
+      "overall": 113,
+      "team": "Louisiana State Mud Dogs",
+      "player": "Nick Chubb"
+    },
+    {
+      "round": 10,
+      "pick": 6,
+      "overall": 114,
+      "team": "Racist Nabers \ud83c\udfc6",
+      "player": "Bhayshul Tuten"
+    },
+    {
+      "round": 10,
+      "pick": 7,
+      "overall": 115,
+      "team": "Kraft Mac and Cheese",
+      "player": "Cam Skattebo"
+    },
+    {
+      "round": 10,
+      "pick": 8,
+      "overall": 116,
+      "team": "Top Gooners",
+      "player": "Chris Godwin Jr."
+    },
+    {
+      "round": 10,
+      "pick": 9,
+      "overall": 117,
+      "team": "Here for the money",
+      "player": "Jayden Reed"
+    },
+    {
+      "round": 10,
+      "pick": 10,
+      "overall": 118,
+      "team": "Ya Sistas ASSS",
+      "player": "Ollie Gordon II"
+    },
+    {
+      "round": 10,
+      "pick": 11,
+      "overall": 119,
+      "team": "Its Just  A Buzz",
+      "player": "Quinshon Judkins"
+    },
+    {
+      "round": 10,
+      "pick": 12,
+      "overall": 120,
+      "team": "Turd Ferguson",
+      "player": "Zach Charbonnet"
+    },
+    {
+      "round": 11,
+      "pick": 1,
+      "overall": 121,
+      "team": "Turd Ferguson",
+      "player": "Jake Ferguson"
+    },
+    {
+      "round": 11,
+      "pick": 2,
+      "overall": 122,
+      "team": "Its Just  A Buzz",
+      "player": "Brian Robinson Jr."
+    },
+    {
+      "round": 11,
+      "pick": 3,
+      "overall": 123,
+      "team": "Ya Sistas ASSS",
+      "player": "Marvin Mims Jr."
+    },
+    {
+      "round": 11,
+      "pick": 4,
+      "overall": 124,
+      "team": "Here for the money",
+      "player": "Cedric Tillman"
+    },
+    {
+      "round": 11,
+      "pick": 5,
+      "overall": 125,
+      "team": "Top Gooners",
+      "player": "Jerome Ford"
+    },
+    {
+      "round": 11,
+      "pick": 6,
+      "overall": 126,
+      "team": "Kraft Mac and Cheese",
+      "player": "Xavier Legette"
+    },
+    {
+      "round": 11,
+      "pick": 7,
+      "overall": 127,
+      "team": "Racist Nabers \ud83c\udfc6",
+      "player": "Keon Coleman"
+    },
+    {
+      "round": 11,
+      "pick": 8,
+      "overall": 128,
+      "team": "Louisiana State Mud Dogs",
+      "player": "Broncos D/ST"
+    },
+    {
+      "round": 11,
+      "pick": 9,
+      "overall": 129,
+      "team": "Dumpster FIRE",
+      "player": "Najee Harris"
+    },
+    {
+      "round": 11,
+      "pick": 10,
+      "overall": 130,
+      "team": "4 Doors More Haors",
+      "player": "Patriots D/ST"
+    },
+    {
+      "round": 11,
+      "pick": 11,
+      "overall": 131,
+      "team": "Gimli\u2019s Arse",
+      "player": "Jaydon Blue"
+    },
+    {
+      "round": 11,
+      "pick": 12,
+      "overall": 132,
+      "team": "Sizzling SeX GOD",
+      "player": "Jayden Higgins"
+    },
+    {
+      "round": 12,
+      "pick": 1,
+      "overall": 133,
+      "team": "Sizzling SeX GOD",
+      "player": "Kyle Williams"
+    },
+    {
+      "round": 12,
+      "pick": 2,
+      "overall": 134,
+      "team": "Gimli\u2019s Arse",
+      "player": "Adam Thielen"
+    },
+    {
+      "round": 12,
+      "pick": 3,
+      "overall": 135,
+      "team": "4 Doors More Haors",
+      "player": "Drake Maye"
+    },
+    {
+      "round": 12,
+      "pick": 4,
+      "overall": 136,
+      "team": "Dumpster FIRE",
+      "player": "Lions D/ST"
+    },
+    {
+      "round": 12,
+      "pick": 5,
+      "overall": 137,
+      "team": "Louisiana State Mud Dogs",
+      "player": "Brandon Aubrey"
+    },
+    {
+      "round": 12,
+      "pick": 6,
+      "overall": 138,
+      "team": "Racist Nabers \ud83c\udfc6",
+      "player": "Tyler Allgeier"
+    },
+    {
+      "round": 12,
+      "pick": 7,
+      "overall": 139,
+      "team": "Kraft Mac and Cheese",
+      "player": "Trey Benson"
+    },
+    {
+      "round": 12,
+      "pick": 8,
+      "overall": 140,
+      "team": "Top Gooners",
+      "player": "Keenan Allen"
+    },
+    {
+      "round": 12,
+      "pick": 9,
+      "overall": 141,
+      "team": "Here for the money",
+      "player": "Bills D/ST"
+    },
+    {
+      "round": 12,
+      "pick": 10,
+      "overall": 142,
+      "team": "Ya Sistas ASSS",
+      "player": "Jake Bates"
+    },
+    {
+      "round": 12,
+      "pick": 11,
+      "overall": 143,
+      "team": "Its Just  A Buzz",
+      "player": "Brandon Aiyuk"
+    },
+    {
+      "round": 12,
+      "pick": 12,
+      "overall": 144,
+      "team": "Turd Ferguson",
+      "player": "Eagles D/ST"
+    },
+    {
+      "round": 13,
+      "pick": 1,
+      "overall": 145,
+      "team": "Turd Ferguson",
+      "player": "Rachaad White"
+    },
+    {
+      "round": 13,
+      "pick": 2,
+      "overall": 146,
+      "team": "Its Just  A Buzz",
+      "player": "Luther Burden III"
+    },
+    {
+      "round": 13,
+      "pick": 3,
+      "overall": 147,
+      "team": "Ya Sistas ASSS",
+      "player": "Ravens D/ST"
+    },
+    {
+      "round": 13,
+      "pick": 4,
+      "overall": 148,
+      "team": "Here for the money",
+      "player": "Dylan Sampson"
+    },
+    {
+      "round": 13,
+      "pick": 5,
+      "overall": 149,
+      "team": "Top Gooners",
+      "player": "Cameron Dicker"
+    },
+    {
+      "round": 13,
+      "pick": 6,
+      "overall": 150,
+      "team": "Kraft Mac and Cheese",
+      "player": "Vikings D/ST"
+    },
+    {
+      "round": 13,
+      "pick": 7,
+      "overall": 151,
+      "team": "Racist Nabers \ud83c\udfc6",
+      "player": "Dalton Kincaid"
+    },
+    {
+      "round": 13,
+      "pick": 8,
+      "overall": 152,
+      "team": "Louisiana State Mud Dogs",
+      "player": "Dont'e Thornton Jr."
+    },
+    {
+      "round": 13,
+      "pick": 9,
+      "overall": 153,
+      "team": "Dumpster FIRE",
+      "player": "DeMario Douglas"
+    },
+    {
+      "round": 13,
+      "pick": 10,
+      "overall": 154,
+      "team": "4 Doors More Haors",
+      "player": "DeVonta Smith"
+    },
+    {
+      "round": 13,
+      "pick": 11,
+      "overall": 155,
+      "team": "Gimli\u2019s Arse",
+      "player": "Harrison Butker"
+    },
+    {
+      "round": 13,
+      "pick": 12,
+      "overall": 156,
+      "team": "Sizzling SeX GOD",
+      "player": "Packers D/ST"
+    },
+    {
+      "round": 14,
+      "pick": 1,
+      "overall": 157,
+      "team": "Sizzling SeX GOD",
+      "player": "Wil Lutz"
+    },
+    {
+      "round": 14,
+      "pick": 2,
+      "overall": 158,
+      "team": "Gimli\u2019s Arse",
+      "player": "Hunter Henry"
+    },
+    {
+      "round": 14,
+      "pick": 3,
+      "overall": 159,
+      "team": "4 Doors More Haors",
+      "player": "Tyler Loop"
+    },
+    {
+      "round": 14,
+      "pick": 4,
+      "overall": 160,
+      "team": "Dumpster FIRE",
+      "player": "Cade Otton"
+    },
+    {
+      "round": 14,
+      "pick": 5,
+      "overall": 161,
+      "team": "Louisiana State Mud Dogs",
+      "player": "Jared Goff"
+    },
+    {
+      "round": 14,
+      "pick": 6,
+      "overall": 162,
+      "team": "Racist Nabers \ud83c\udfc6",
+      "player": "Efton Chism III"
+    },
+    {
+      "round": 14,
+      "pick": 7,
+      "overall": 163,
+      "team": "Kraft Mac and Cheese",
+      "player": "Evan McPherson"
+    },
+    {
+      "round": 14,
+      "pick": 8,
+      "overall": 164,
+      "team": "Top Gooners",
+      "player": "Chargers D/ST"
+    },
+    {
+      "round": 14,
+      "pick": 9,
+      "overall": 165,
+      "team": "Here for the money",
+      "player": "Jake Elliott"
+    },
+    {
+      "round": 14,
+      "pick": 10,
+      "overall": 166,
+      "team": "Ya Sistas ASSS",
+      "player": "Braelon Allen"
+    },
+    {
+      "round": 14,
+      "pick": 11,
+      "overall": 167,
+      "team": "Its Just  A Buzz",
+      "player": "Kyle Pitts Sr."
+    },
+    {
+      "round": 14,
+      "pick": 12,
+      "overall": 168,
+      "team": "Turd Ferguson",
+      "player": "Tyjae Spears"
+    }
+  ],
+  "trades": []
+}
