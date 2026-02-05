@@ -410,36 +410,85 @@ footer {
 .sb-matchup {
     font-size: 2.5rem;
     font-weight: bold;
-    margin: 1rem 0;
+    margin: 1.5rem 0;
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 1rem;
+    gap: 2rem;
     flex-wrap: wrap;
 }
 
-.sb-team {
-    padding: 0.5rem 1.5rem;
-    border-radius: 8px;
+.sb-team-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 1rem;
+    border-radius: 15px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
-.sb-team.patriots {
-    background: var(--pats-red);
-    color: white;
-    font-size: 2.8rem;
-    box-shadow: 0 0 20px rgba(198, 12, 48, 0.5);
+.sb-team-container:hover {
+    transform: scale(1.05);
 }
 
-.sb-team.seahawks {
-    background: #69be28;
-    color: #002244;
-    font-size: 2rem;
-    opacity: 0.7;
+.patriots-container {
+    background: linear-gradient(145deg, rgba(198, 12, 48, 0.3), rgba(0, 34, 68, 0.5));
+    border: 2px solid var(--pats-red);
+    box-shadow: 0 0 30px rgba(198, 12, 48, 0.4);
+}
+
+.patriots-container:hover {
+    box-shadow: 0 0 50px rgba(198, 12, 48, 0.6);
+}
+
+.seahawks-container {
+    background: rgba(0, 34, 68, 0.3);
+    border: 2px solid #69be28;
+    opacity: 0.6;
+    filter: grayscale(30%);
+}
+
+.team-logo {
+    width: 120px;
+    height: 120px;
+    object-fit: contain;
+    filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));
+}
+
+.patriots-logo {
+    width: 140px;
+    height: 140px;
+    animation: pulse 2s ease-in-out infinite;
+}
+
+@keyframes pulse {
+    0%, 100% { transform: scale(1); }
+    50% { transform: scale(1.05); }
+}
+
+.sb-team-name {
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.patriots-name {
+    color: var(--pats-red);
+    font-size: 1.8rem;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+}
+
+.seahawks-name {
+    color: #69be28;
+    font-size: 1.3rem;
 }
 
 .sb-vs {
     color: var(--pats-silver);
-    font-size: 1.5rem;
+    font-size: 2rem;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
 }
 
 .sb-slogan {
