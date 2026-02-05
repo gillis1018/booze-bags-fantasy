@@ -369,102 +369,165 @@ footer {
 
 /* Super Bowl Section */
 .super-bowl-banner {
-    background: linear-gradient(135deg, var(--pats-blue) 0%, #001a33 50%, var(--pats-blue) 100%);
-    border: 3px solid var(--pats-red);
-    border-radius: 15px;
-    padding: 2rem;
+    background:
+        radial-gradient(ellipse at top, rgba(198, 12, 48, 0.15) 0%, transparent 50%),
+        radial-gradient(ellipse at bottom, rgba(176, 183, 188, 0.1) 0%, transparent 50%),
+        linear-gradient(180deg, #001029 0%, var(--pats-blue) 50%, #001029 100%);
+    border: 3px solid transparent;
+    border-image: linear-gradient(90deg, var(--pats-red), var(--pats-silver), var(--pats-red)) 1;
+    border-radius: 20px;
+    padding: 2.5rem 2rem;
     margin-bottom: 2rem;
     text-align: center;
     position: relative;
     overflow: hidden;
 }
 
-.super-bowl-banner::before {
-    content: "";
+.sb-stars {
     position: absolute;
     top: 0;
     left: 0;
     right: 0;
-    height: 5px;
-    background: linear-gradient(90deg, var(--pats-red), var(--pats-silver), var(--pats-red));
-}
-
-.super-bowl-banner::after {
-    content: "";
-    position: absolute;
     bottom: 0;
-    left: 0;
-    right: 0;
-    height: 5px;
-    background: linear-gradient(90deg, var(--pats-red), var(--pats-silver), var(--pats-red));
+    background-image:
+        radial-gradient(2px 2px at 20px 30px, white, transparent),
+        radial-gradient(2px 2px at 40px 70px, rgba(255,255,255,0.8), transparent),
+        radial-gradient(1px 1px at 90px 40px, white, transparent),
+        radial-gradient(2px 2px at 130px 80px, rgba(255,255,255,0.6), transparent),
+        radial-gradient(1px 1px at 160px 120px, white, transparent),
+        radial-gradient(2px 2px at 200px 50px, rgba(255,255,255,0.7), transparent),
+        radial-gradient(1px 1px at 250px 90px, white, transparent),
+        radial-gradient(2px 2px at 300px 60px, rgba(255,255,255,0.5), transparent),
+        radial-gradient(1px 1px at 350px 30px, white, transparent),
+        radial-gradient(2px 2px at 400px 100px, rgba(255,255,255,0.8), transparent);
+    background-size: 400px 150px;
+    animation: twinkle 4s ease-in-out infinite;
+    opacity: 0.6;
+    pointer-events: none;
 }
 
-.sb-title {
-    font-size: 1.2rem;
-    color: var(--pats-silver);
-    text-transform: uppercase;
-    letter-spacing: 3px;
-    margin-bottom: 0.5rem;
+@keyframes twinkle {
+    0%, 100% { opacity: 0.4; }
+    50% { opacity: 0.8; }
 }
 
-.sb-matchup {
-    font-size: 2.5rem;
-    font-weight: bold;
-    margin: 1.5rem 0;
+.sb-content {
+    position: relative;
+    z-index: 1;
+}
+
+.sb-header {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 2rem;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+}
+
+.sb-trophy {
+    font-size: 2rem;
+    animation: bounce 2s ease-in-out infinite;
+}
+
+@keyframes bounce {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-5px); }
+}
+
+.sb-title {
+    font-size: 1.5rem;
+    color: var(--pats-silver);
+    text-transform: uppercase;
+    letter-spacing: 6px;
+    font-weight: bold;
+    background: linear-gradient(90deg, var(--pats-silver), white, var(--pats-silver));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.sb-matchup {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5rem;
     flex-wrap: wrap;
+    margin: 1.5rem 0;
 }
 
 .sb-team-container {
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 0.75rem;
-    padding: 1rem;
+    gap: 0.5rem;
+    padding: 1.25rem;
     border-radius: 15px;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
-}
-
-.sb-team-container:hover {
-    transform: scale(1.05);
+    position: relative;
 }
 
 .patriots-container {
-    background: linear-gradient(145deg, rgba(198, 12, 48, 0.3), rgba(0, 34, 68, 0.5));
+    background: linear-gradient(145deg, rgba(198, 12, 48, 0.25), rgba(0, 34, 68, 0.6));
     border: 2px solid var(--pats-red);
-    box-shadow: 0 0 30px rgba(198, 12, 48, 0.4);
+    box-shadow:
+        0 0 30px rgba(198, 12, 48, 0.4),
+        inset 0 0 30px rgba(198, 12, 48, 0.1);
 }
 
 .patriots-container:hover {
-    box-shadow: 0 0 50px rgba(198, 12, 48, 0.6);
+    transform: scale(1.05);
+    box-shadow:
+        0 0 50px rgba(198, 12, 48, 0.6),
+        inset 0 0 40px rgba(198, 12, 48, 0.2);
+}
+
+.team-glow {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100px;
+    height: 100px;
+    background: radial-gradient(circle, rgba(198, 12, 48, 0.4) 0%, transparent 70%);
+    border-radius: 50%;
+    animation: glow-pulse 2s ease-in-out infinite;
+}
+
+@keyframes glow-pulse {
+    0%, 100% { transform: translate(-50%, -50%) scale(1); opacity: 0.5; }
+    50% { transform: translate(-50%, -50%) scale(1.3); opacity: 0.8; }
 }
 
 .seahawks-container {
-    background: rgba(0, 34, 68, 0.3);
-    border: 2px solid #69be28;
-    opacity: 0.6;
-    filter: grayscale(30%);
+    background: rgba(0, 34, 68, 0.4);
+    border: 2px solid rgba(105, 190, 40, 0.5);
+    opacity: 0.55;
+    filter: grayscale(40%);
+}
+
+.seahawks-container:hover {
+    transform: scale(1.02);
+    opacity: 0.65;
 }
 
 .team-logo {
-    width: 120px;
-    height: 120px;
+    width: 80px;
+    height: 80px;
     object-fit: contain;
-    filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));
+    filter: drop-shadow(0 4px 8px rgba(0,0,0,0.4));
 }
 
 .patriots-logo {
-    width: 140px;
-    height: 140px;
+    width: 90px;
+    height: 90px;
     animation: pulse 2s ease-in-out infinite;
+    position: relative;
+    z-index: 1;
 }
 
 @keyframes pulse {
     0%, 100% { transform: scale(1); }
-    50% { transform: scale(1.05); }
+    50% { transform: scale(1.08); }
 }
 
 .sb-team-name {
@@ -474,60 +537,188 @@ footer {
 }
 
 .patriots-name {
-    color: var(--pats-red);
-    font-size: 1.8rem;
-    text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+    color: white;
+    font-size: 1.4rem;
+    text-shadow: 0 0 10px rgba(198, 12, 48, 0.8), 2px 2px 4px rgba(0,0,0,0.5);
 }
 
 .seahawks-name {
     color: #69be28;
-    font-size: 1.3rem;
+    font-size: 1rem;
+}
+
+.team-record {
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    padding: 0.2rem 0.6rem;
+    border-radius: 10px;
+    margin-top: 0.25rem;
+}
+
+.patriots-container .team-record {
+    background: var(--pats-red);
+    color: white;
+}
+
+.seahawks-container .team-record {
+    background: rgba(105, 190, 40, 0.3);
+    color: #69be28;
+}
+
+.vs-container {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.vs-diamond {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background: linear-gradient(135deg, var(--pats-blue), var(--pats-red));
+    transform: rotate(45deg);
+    border-radius: 5px;
+    opacity: 0.3;
 }
 
 .sb-vs {
     color: var(--pats-silver);
-    font-size: 2rem;
+    font-size: 1.5rem;
     font-weight: bold;
     text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+    z-index: 1;
 }
 
 .sb-slogan {
-    font-size: 1.8rem;
-    color: var(--pats-red);
-    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.75rem;
     margin: 1.5rem 0;
-    text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+}
+
+.slogan-text {
+    font-size: 1.6rem;
+    color: var(--pats-silver);
+    font-weight: bold;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+}
+
+.ring-container {
+    display: flex;
+    align-items: center;
+    gap: 0.3rem;
+    background: linear-gradient(135deg, var(--pats-red), #ff1a1a);
+    padding: 0.4rem 1rem;
+    border-radius: 25px;
+    box-shadow: 0 0 20px rgba(198, 12, 48, 0.5);
+    animation: ring-glow 2s ease-in-out infinite;
+}
+
+@keyframes ring-glow {
+    0%, 100% { box-shadow: 0 0 20px rgba(198, 12, 48, 0.5); }
+    50% { box-shadow: 0 0 35px rgba(198, 12, 48, 0.8); }
+}
+
+.ring-number {
+    font-size: 2rem;
+    font-weight: bold;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+}
+
+.ring-icon {
+    font-size: 1.8rem;
+    animation: ring-spin 3s ease-in-out infinite;
+}
+
+@keyframes ring-spin {
+    0%, 100% { transform: rotate(-10deg); }
+    50% { transform: rotate(10deg); }
 }
 
 .sb-details {
     color: var(--pats-silver);
-    font-size: 1rem;
-    margin-top: 1rem;
-}
-
-.pats-pride {
+    font-size: 0.95rem;
+    margin: 1rem 0;
     display: flex;
     justify-content: center;
-    gap: 2rem;
-    margin-top: 1.5rem;
+    align-items: center;
+    gap: 0.5rem;
     flex-wrap: wrap;
 }
 
-.pride-item {
-    background: rgba(198, 12, 48, 0.2);
-    border: 1px solid var(--pats-red);
-    padding: 1rem 1.5rem;
-    border-radius: 8px;
+.detail-icon {
+    font-size: 1rem;
 }
 
-.pride-item .number {
-    font-size: 2rem;
-    font-weight: bold;
+.detail-divider {
     color: var(--pats-red);
+    margin: 0 0.5rem;
 }
 
-.pride-item .label {
-    font-size: 0.85rem;
+.ring-case {
+    margin-top: 1.5rem;
+    padding: 1rem;
+    background: rgba(0, 0, 0, 0.3);
+    border-radius: 15px;
+    border: 1px solid rgba(176, 183, 188, 0.2);
+}
+
+.ring-case-title {
+    font-size: 0.8rem;
     color: var(--pats-silver);
+    letter-spacing: 3px;
+    margin-bottom: 0.75rem;
     text-transform: uppercase;
+}
+
+.rings-row {
+    display: flex;
+    justify-content: center;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+}
+
+.ring-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0.5rem;
+    background: rgba(198, 12, 48, 0.15);
+    border-radius: 10px;
+    border: 1px solid rgba(198, 12, 48, 0.3);
+    min-width: 50px;
+}
+
+.ring-item span {
+    font-size: 1.3rem;
+}
+
+.ring-item small {
+    font-size: 0.6rem;
+    color: var(--pats-silver);
+    margin-top: 0.2rem;
+}
+
+.ring-pending {
+    background: rgba(255, 215, 0, 0.15);
+    border: 1px dashed gold;
+    animation: pending-pulse 1.5s ease-in-out infinite;
+}
+
+@keyframes pending-pulse {
+    0%, 100% { opacity: 0.6; }
+    50% { opacity: 1; }
+}
+
+.ring-pending span {
+    filter: grayscale(50%);
+}
+
+.ring-pending small {
+    color: gold;
 }
