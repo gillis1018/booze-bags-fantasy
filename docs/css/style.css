@@ -1,17 +1,21 @@
 /* Booze Bags Fantasy League - Styles */
 
 :root {
-    --primary: #1a472a;
-    --primary-light: #2d5a3f;
-    --secondary: #d4af37;
-    --dark: #1a1a2e;
-    --darker: #0f0f1a;
+    --primary: #002244;
+    --primary-light: #003366;
+    --secondary: #c60c30;
+    --accent: #b0b7bc;
+    --dark: #0a1628;
+    --darker: #050d18;
     --light: #f5f5f5;
-    --text: #e0e0e0;
-    --text-muted: #888;
-    --card-bg: #252540;
+    --text: #e8e8e8;
+    --text-muted: #a0a8b0;
+    --card-bg: #142238;
     --success: #28a745;
     --warning: #ffc107;
+    --pats-blue: #002244;
+    --pats-red: #c60c30;
+    --pats-silver: #b0b7bc;
 }
 
 * {
@@ -361,4 +365,120 @@ footer {
     .data-table td {
         padding: 0.5rem;
     }
+}
+
+/* Super Bowl Section */
+.super-bowl-banner {
+    background: linear-gradient(135deg, var(--pats-blue) 0%, #001a33 50%, var(--pats-blue) 100%);
+    border: 3px solid var(--pats-red);
+    border-radius: 15px;
+    padding: 2rem;
+    margin-bottom: 2rem;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+}
+
+.super-bowl-banner::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 5px;
+    background: linear-gradient(90deg, var(--pats-red), var(--pats-silver), var(--pats-red));
+}
+
+.super-bowl-banner::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 5px;
+    background: linear-gradient(90deg, var(--pats-red), var(--pats-silver), var(--pats-red));
+}
+
+.sb-title {
+    font-size: 1.2rem;
+    color: var(--pats-silver);
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    margin-bottom: 0.5rem;
+}
+
+.sb-matchup {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin: 1rem 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+
+.sb-team {
+    padding: 0.5rem 1.5rem;
+    border-radius: 8px;
+}
+
+.sb-team.patriots {
+    background: var(--pats-red);
+    color: white;
+    font-size: 2.8rem;
+    box-shadow: 0 0 20px rgba(198, 12, 48, 0.5);
+}
+
+.sb-team.seahawks {
+    background: #69be28;
+    color: #002244;
+    font-size: 2rem;
+    opacity: 0.7;
+}
+
+.sb-vs {
+    color: var(--pats-silver);
+    font-size: 1.5rem;
+}
+
+.sb-slogan {
+    font-size: 1.8rem;
+    color: var(--pats-red);
+    font-weight: bold;
+    margin: 1.5rem 0;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+}
+
+.sb-details {
+    color: var(--pats-silver);
+    font-size: 1rem;
+    margin-top: 1rem;
+}
+
+.pats-pride {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    margin-top: 1.5rem;
+    flex-wrap: wrap;
+}
+
+.pride-item {
+    background: rgba(198, 12, 48, 0.2);
+    border: 1px solid var(--pats-red);
+    padding: 1rem 1.5rem;
+    border-radius: 8px;
+}
+
+.pride-item .number {
+    font-size: 2rem;
+    font-weight: bold;
+    color: var(--pats-red);
+}
+
+.pride-item .label {
+    font-size: 0.85rem;
+    color: var(--pats-silver);
+    text-transform: uppercase;
 }
