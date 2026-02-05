@@ -1,0 +1,1926 @@
+{
+  "year": 2020,
+  "league_name": "Booze Bags Fantasy League",
+  "teams": [
+    {
+      "team_id": 4,
+      "team_name": "Louisiana State Mud Dogs",
+      "owner": "Steve  Gilmore",
+      "wins": 11,
+      "losses": 2,
+      "ties": 0,
+      "points_for": 1899.5,
+      "points_against": 1504.75,
+      "final_standing": 1,
+      "playoff_seed": null
+    },
+    {
+      "team_id": 6,
+      "team_name": "MAGA   2020",
+      "owner": "Henry Krueger",
+      "wins": 8,
+      "losses": 5,
+      "ties": 0,
+      "points_for": 1824.15,
+      "points_against": 1511.7,
+      "final_standing": 2,
+      "playoff_seed": null
+    },
+    {
+      "team_id": 2,
+      "team_name": "Them New Asians",
+      "owner": "joshua deangelis",
+      "wins": 7,
+      "losses": 6,
+      "ties": 0,
+      "points_for": 1524.4,
+      "points_against": 1624.1,
+      "final_standing": 3,
+      "playoff_seed": null
+    },
+    {
+      "team_id": 3,
+      "team_name": "Dumpster FIRE",
+      "owner": "Ryan Fleming",
+      "wins": 6,
+      "losses": 7,
+      "ties": 0,
+      "points_for": 1589.05,
+      "points_against": 1725.4,
+      "final_standing": 4,
+      "playoff_seed": null
+    },
+    {
+      "team_id": 1,
+      "team_name": "Its Just  A Buzz",
+      "owner": "Patrick Gonsalves",
+      "wins": 6,
+      "losses": 7,
+      "ties": 0,
+      "points_for": 1715.0,
+      "points_against": 1749.7,
+      "final_standing": 5,
+      "playoff_seed": null
+    },
+    {
+      "team_id": 9,
+      "team_name": "Shidded And Farded",
+      "owner": "Ben Lenhart",
+      "wins": 8,
+      "losses": 5,
+      "ties": 0,
+      "points_for": 1799.0,
+      "points_against": 1511.65,
+      "final_standing": 6,
+      "playoff_seed": null
+    },
+    {
+      "team_id": 11,
+      "team_name": "No Juju",
+      "owner": "Christian Kelly",
+      "wins": 5,
+      "losses": 8,
+      "ties": 0,
+      "points_for": 1553.05,
+      "points_against": 1745.25,
+      "final_standing": 7,
+      "playoff_seed": null
+    },
+    {
+      "team_id": 5,
+      "team_name": "Mr. Big Chest",
+      "owner": "Brandon Baglio",
+      "wins": 5,
+      "losses": 8,
+      "ties": 0,
+      "points_for": 1684.05,
+      "points_against": 1715.55,
+      "final_standing": 8,
+      "playoff_seed": null
+    },
+    {
+      "team_id": 10,
+      "team_name": "Se\u00f1or Turdcocks",
+      "owner": "Jacob Bergeron",
+      "wins": 5,
+      "losses": 8,
+      "ties": 0,
+      "points_for": 1406.3,
+      "points_against": 1675.35,
+      "final_standing": 9,
+      "playoff_seed": null
+    },
+    {
+      "team_id": 8,
+      "team_name": "Sizzling SeX GOD",
+      "owner": "george gillis",
+      "wins": 4,
+      "losses": 9,
+      "ties": 0,
+      "points_for": 1505.1,
+      "points_against": 1736.15,
+      "final_standing": 10,
+      "playoff_seed": null
+    }
+  ],
+  "standings": [
+    {
+      "rank": 1,
+      "team_name": "Louisiana State Mud Dogs",
+      "owner": "Steve  Gilmore",
+      "record": "11-2",
+      "points_for": 1899.5
+    },
+    {
+      "rank": 2,
+      "team_name": "MAGA   2020",
+      "owner": "Henry Krueger",
+      "record": "8-5",
+      "points_for": 1824.15
+    },
+    {
+      "rank": 3,
+      "team_name": "Them New Asians",
+      "owner": "joshua deangelis",
+      "record": "7-6",
+      "points_for": 1524.4
+    },
+    {
+      "rank": 4,
+      "team_name": "Dumpster FIRE",
+      "owner": "Ryan Fleming",
+      "record": "6-7",
+      "points_for": 1589.05
+    },
+    {
+      "rank": 5,
+      "team_name": "Its Just  A Buzz",
+      "owner": "Patrick Gonsalves",
+      "record": "6-7",
+      "points_for": 1715.0
+    },
+    {
+      "rank": 6,
+      "team_name": "Shidded And Farded",
+      "owner": "Ben Lenhart",
+      "record": "8-5",
+      "points_for": 1799.0
+    },
+    {
+      "rank": 7,
+      "team_name": "No Juju",
+      "owner": "Christian Kelly",
+      "record": "5-8",
+      "points_for": 1553.05
+    },
+    {
+      "rank": 8,
+      "team_name": "Mr. Big Chest",
+      "owner": "Brandon Baglio",
+      "record": "5-8",
+      "points_for": 1684.05
+    },
+    {
+      "rank": 9,
+      "team_name": "Se\u00f1or Turdcocks",
+      "owner": "Jacob Bergeron",
+      "record": "5-8",
+      "points_for": 1406.3
+    },
+    {
+      "rank": 10,
+      "team_name": "Sizzling SeX GOD",
+      "owner": "george gillis",
+      "record": "4-9",
+      "points_for": 1505.1
+    }
+  ],
+  "matchups": [
+    {
+      "week": 1,
+      "home_team": "No Juju",
+      "home_score": 107.7,
+      "away_team": "Mr. Big Chest",
+      "away_score": 167.15,
+      "is_playoff": false
+    },
+    {
+      "week": 1,
+      "home_team": "MAGA   2020",
+      "home_score": 138.5,
+      "away_team": "Se\u00f1or Turdcocks",
+      "away_score": 144.9,
+      "is_playoff": false
+    },
+    {
+      "week": 1,
+      "home_team": "Its Just  A Buzz",
+      "home_score": 106.7,
+      "away_team": "Shidded And Farded",
+      "away_score": 175.1,
+      "is_playoff": false
+    },
+    {
+      "week": 1,
+      "home_team": "Louisiana State Mud Dogs",
+      "home_score": 134.25,
+      "away_team": "Sizzling SeX GOD",
+      "away_score": 134.0,
+      "is_playoff": false
+    },
+    {
+      "week": 1,
+      "home_team": "Them New Asians",
+      "home_score": 141.45,
+      "away_team": "Dumpster FIRE",
+      "away_score": 71.05,
+      "is_playoff": false
+    },
+    {
+      "week": 2,
+      "home_team": "Mr. Big Chest",
+      "home_score": 133.15,
+      "away_team": "Se\u00f1or Turdcocks",
+      "away_score": 159.6,
+      "is_playoff": false
+    },
+    {
+      "week": 2,
+      "home_team": "Shidded And Farded",
+      "home_score": 159.0,
+      "away_team": "No Juju",
+      "away_score": 116.2,
+      "is_playoff": false
+    },
+    {
+      "week": 2,
+      "home_team": "Sizzling SeX GOD",
+      "home_score": 116.95,
+      "away_team": "MAGA   2020",
+      "away_score": 177.95,
+      "is_playoff": false
+    },
+    {
+      "week": 2,
+      "home_team": "Dumpster FIRE",
+      "home_score": 128.3,
+      "away_team": "Its Just  A Buzz",
+      "away_score": 170.6,
+      "is_playoff": false
+    },
+    {
+      "week": 2,
+      "home_team": "Them New Asians",
+      "home_score": 77.7,
+      "away_team": "Louisiana State Mud Dogs",
+      "away_score": 138.25,
+      "is_playoff": false
+    },
+    {
+      "week": 3,
+      "home_team": "Shidded And Farded",
+      "home_score": 149.75,
+      "away_team": "Mr. Big Chest",
+      "away_score": 104.5,
+      "is_playoff": false
+    },
+    {
+      "week": 3,
+      "home_team": "Se\u00f1or Turdcocks",
+      "home_score": 143.0,
+      "away_team": "Sizzling SeX GOD",
+      "away_score": 118.8,
+      "is_playoff": false
+    },
+    {
+      "week": 3,
+      "home_team": "No Juju",
+      "home_score": 132.6,
+      "away_team": "Dumpster FIRE",
+      "away_score": 131.05,
+      "is_playoff": false
+    },
+    {
+      "week": 3,
+      "home_team": "MAGA   2020",
+      "home_score": 197.45,
+      "away_team": "Them New Asians",
+      "away_score": 130.85,
+      "is_playoff": false
+    },
+    {
+      "week": 3,
+      "home_team": "Its Just  A Buzz",
+      "home_score": 121.8,
+      "away_team": "Louisiana State Mud Dogs",
+      "away_score": 154.9,
+      "is_playoff": false
+    },
+    {
+      "week": 4,
+      "home_team": "Mr. Big Chest",
+      "home_score": 92.25,
+      "away_team": "Sizzling SeX GOD",
+      "away_score": 130.25,
+      "is_playoff": false
+    },
+    {
+      "week": 4,
+      "home_team": "Dumpster FIRE",
+      "home_score": 105.8,
+      "away_team": "Shidded And Farded",
+      "away_score": 163.8,
+      "is_playoff": false
+    },
+    {
+      "week": 4,
+      "home_team": "Them New Asians",
+      "home_score": 157.65,
+      "away_team": "Se\u00f1or Turdcocks",
+      "away_score": 122.0,
+      "is_playoff": false
+    },
+    {
+      "week": 4,
+      "home_team": "Louisiana State Mud Dogs",
+      "home_score": 177.8,
+      "away_team": "No Juju",
+      "away_score": 79.0,
+      "is_playoff": false
+    },
+    {
+      "week": 4,
+      "home_team": "Its Just  A Buzz",
+      "home_score": 152.75,
+      "away_team": "MAGA   2020",
+      "away_score": 133.7,
+      "is_playoff": false
+    },
+    {
+      "week": 5,
+      "home_team": "Dumpster FIRE",
+      "home_score": 143.6,
+      "away_team": "Mr. Big Chest",
+      "away_score": 113.25,
+      "is_playoff": false
+    },
+    {
+      "week": 5,
+      "home_team": "Sizzling SeX GOD",
+      "home_score": 88.6,
+      "away_team": "Them New Asians",
+      "away_score": 135.9,
+      "is_playoff": false
+    },
+    {
+      "week": 5,
+      "home_team": "Shidded And Farded",
+      "home_score": 148.05,
+      "away_team": "Louisiana State Mud Dogs",
+      "away_score": 170.25,
+      "is_playoff": false
+    },
+    {
+      "week": 5,
+      "home_team": "Se\u00f1or Turdcocks",
+      "home_score": 113.7,
+      "away_team": "Its Just  A Buzz",
+      "away_score": 100.1,
+      "is_playoff": false
+    },
+    {
+      "week": 5,
+      "home_team": "No Juju",
+      "home_score": 146.05,
+      "away_team": "MAGA   2020",
+      "away_score": 93.85,
+      "is_playoff": false
+    },
+    {
+      "week": 6,
+      "home_team": "Mr. Big Chest",
+      "home_score": 123.95,
+      "away_team": "Them New Asians",
+      "away_score": 162.8,
+      "is_playoff": false
+    },
+    {
+      "week": 6,
+      "home_team": "Louisiana State Mud Dogs",
+      "home_score": 137.35,
+      "away_team": "Dumpster FIRE",
+      "away_score": 99.75,
+      "is_playoff": false
+    },
+    {
+      "week": 6,
+      "home_team": "Its Just  A Buzz",
+      "home_score": 133.5,
+      "away_team": "Sizzling SeX GOD",
+      "away_score": 161.05,
+      "is_playoff": false
+    },
+    {
+      "week": 6,
+      "home_team": "MAGA   2020",
+      "home_score": 133.8,
+      "away_team": "Shidded And Farded",
+      "away_score": 99.05,
+      "is_playoff": false
+    },
+    {
+      "week": 6,
+      "home_team": "No Juju",
+      "home_score": 99.0,
+      "away_team": "Se\u00f1or Turdcocks",
+      "away_score": 69.7,
+      "is_playoff": false
+    },
+    {
+      "week": 7,
+      "home_team": "Louisiana State Mud Dogs",
+      "home_score": 154.25,
+      "away_team": "Mr. Big Chest",
+      "away_score": 118.9,
+      "is_playoff": false
+    },
+    {
+      "week": 7,
+      "home_team": "Them New Asians",
+      "home_score": 114.4,
+      "away_team": "Its Just  A Buzz",
+      "away_score": 173.0,
+      "is_playoff": false
+    },
+    {
+      "week": 7,
+      "home_team": "Dumpster FIRE",
+      "home_score": 77.1,
+      "away_team": "MAGA   2020",
+      "away_score": 183.55,
+      "is_playoff": false
+    },
+    {
+      "week": 7,
+      "home_team": "Sizzling SeX GOD",
+      "home_score": 123.2,
+      "away_team": "No Juju",
+      "away_score": 111.05,
+      "is_playoff": false
+    },
+    {
+      "week": 7,
+      "home_team": "Shidded And Farded",
+      "home_score": 122.9,
+      "away_team": "Se\u00f1or Turdcocks",
+      "away_score": 107.7,
+      "is_playoff": false
+    },
+    {
+      "week": 8,
+      "home_team": "Mr. Big Chest",
+      "home_score": 151.65,
+      "away_team": "Its Just  A Buzz",
+      "away_score": 124.35,
+      "is_playoff": false
+    },
+    {
+      "week": 8,
+      "home_team": "MAGA   2020",
+      "home_score": 92.45,
+      "away_team": "Louisiana State Mud Dogs",
+      "away_score": 125.45,
+      "is_playoff": false
+    },
+    {
+      "week": 8,
+      "home_team": "No Juju",
+      "home_score": 117.75,
+      "away_team": "Them New Asians",
+      "away_score": 103.2,
+      "is_playoff": false
+    },
+    {
+      "week": 8,
+      "home_team": "Se\u00f1or Turdcocks",
+      "home_score": 67.0,
+      "away_team": "Dumpster FIRE",
+      "away_score": 170.1,
+      "is_playoff": false
+    },
+    {
+      "week": 8,
+      "home_team": "Shidded And Farded",
+      "home_score": 147.65,
+      "away_team": "Sizzling SeX GOD",
+      "away_score": 84.95,
+      "is_playoff": false
+    },
+    {
+      "week": 9,
+      "home_team": "MAGA   2020",
+      "home_score": 140.55,
+      "away_team": "Mr. Big Chest",
+      "away_score": 127.5,
+      "is_playoff": false
+    },
+    {
+      "week": 9,
+      "home_team": "Its Just  A Buzz",
+      "home_score": 131.15,
+      "away_team": "No Juju",
+      "away_score": 84.75,
+      "is_playoff": false
+    },
+    {
+      "week": 9,
+      "home_team": "Louisiana State Mud Dogs",
+      "home_score": 122.85,
+      "away_team": "Se\u00f1or Turdcocks",
+      "away_score": 143.2,
+      "is_playoff": false
+    },
+    {
+      "week": 9,
+      "home_team": "Them New Asians",
+      "home_score": 69.2,
+      "away_team": "Shidded And Farded",
+      "away_score": 126.7,
+      "is_playoff": false
+    },
+    {
+      "week": 9,
+      "home_team": "Dumpster FIRE",
+      "home_score": 138.0,
+      "away_team": "Sizzling SeX GOD",
+      "away_score": 110.3,
+      "is_playoff": false
+    },
+    {
+      "week": 10,
+      "home_team": "Mr. Big Chest",
+      "home_score": 107.95,
+      "away_team": "No Juju",
+      "away_score": 149.85,
+      "is_playoff": false
+    },
+    {
+      "week": 10,
+      "home_team": "Se\u00f1or Turdcocks",
+      "home_score": 70.1,
+      "away_team": "MAGA   2020",
+      "away_score": 112.2,
+      "is_playoff": false
+    },
+    {
+      "week": 10,
+      "home_team": "Shidded And Farded",
+      "home_score": 115.7,
+      "away_team": "Its Just  A Buzz",
+      "away_score": 123.15,
+      "is_playoff": false
+    },
+    {
+      "week": 10,
+      "home_team": "Sizzling SeX GOD",
+      "home_score": 112.25,
+      "away_team": "Louisiana State Mud Dogs",
+      "away_score": 127.05,
+      "is_playoff": false
+    },
+    {
+      "week": 10,
+      "home_team": "Dumpster FIRE",
+      "home_score": 71.0,
+      "away_team": "Them New Asians",
+      "away_score": 89.15,
+      "is_playoff": false
+    },
+    {
+      "week": 11,
+      "home_team": "Se\u00f1or Turdcocks",
+      "home_score": 69.1,
+      "away_team": "Mr. Big Chest",
+      "away_score": 163.15,
+      "is_playoff": false
+    },
+    {
+      "week": 11,
+      "home_team": "No Juju",
+      "home_score": 117.4,
+      "away_team": "Shidded And Farded",
+      "away_score": 152.05,
+      "is_playoff": false
+    },
+    {
+      "week": 11,
+      "home_team": "MAGA   2020",
+      "home_score": 138.75,
+      "away_team": "Sizzling SeX GOD",
+      "away_score": 87.7,
+      "is_playoff": false
+    },
+    {
+      "week": 11,
+      "home_team": "Its Just  A Buzz",
+      "home_score": 125.45,
+      "away_team": "Dumpster FIRE",
+      "away_score": 139.2,
+      "is_playoff": false
+    },
+    {
+      "week": 11,
+      "home_team": "Louisiana State Mud Dogs",
+      "home_score": 193.05,
+      "away_team": "Them New Asians",
+      "away_score": 104.5,
+      "is_playoff": false
+    },
+    {
+      "week": 12,
+      "home_team": "Mr. Big Chest",
+      "home_score": 130.0,
+      "away_team": "Shidded And Farded",
+      "away_score": 112.1,
+      "is_playoff": false
+    },
+    {
+      "week": 12,
+      "home_team": "Sizzling SeX GOD",
+      "home_score": 125.4,
+      "away_team": "Se\u00f1or Turdcocks",
+      "away_score": 106.15,
+      "is_playoff": false
+    },
+    {
+      "week": 12,
+      "home_team": "Dumpster FIRE",
+      "home_score": 172.1,
+      "away_team": "No Juju",
+      "away_score": 163.75,
+      "is_playoff": false
+    },
+    {
+      "week": 12,
+      "home_team": "Them New Asians",
+      "home_score": 126.05,
+      "away_team": "MAGA   2020",
+      "away_score": 111.15,
+      "is_playoff": false
+    },
+    {
+      "week": 12,
+      "home_team": "Louisiana State Mud Dogs",
+      "home_score": 107.0,
+      "away_team": "Its Just  A Buzz",
+      "away_score": 145.2,
+      "is_playoff": false
+    },
+    {
+      "week": 13,
+      "home_team": "Sizzling SeX GOD",
+      "home_score": 111.65,
+      "away_team": "Mr. Big Chest",
+      "away_score": 150.65,
+      "is_playoff": false
+    },
+    {
+      "week": 13,
+      "home_team": "Shidded And Farded",
+      "home_score": 127.15,
+      "away_team": "Dumpster FIRE",
+      "away_score": 142.0,
+      "is_playoff": false
+    },
+    {
+      "week": 13,
+      "home_team": "Se\u00f1or Turdcocks",
+      "home_score": 90.15,
+      "away_team": "Them New Asians",
+      "away_score": 111.55,
+      "is_playoff": false
+    },
+    {
+      "week": 13,
+      "home_team": "No Juju",
+      "home_score": 127.95,
+      "away_team": "Louisiana State Mud Dogs",
+      "away_score": 157.05,
+      "is_playoff": false
+    },
+    {
+      "week": 13,
+      "home_team": "MAGA   2020",
+      "home_score": 170.25,
+      "away_team": "Its Just  A Buzz",
+      "away_score": 107.25,
+      "is_playoff": false
+    },
+    {
+      "week": 14,
+      "home_team": "Them New Asians",
+      "home_score": 150.65,
+      "away_team": "Its Just  A Buzz",
+      "away_score": 108.7,
+      "is_playoff": false
+    },
+    {
+      "week": 14,
+      "home_team": "Shidded And Farded",
+      "home_score": 135.9,
+      "away_team": "Dumpster FIRE",
+      "away_score": 141.95,
+      "is_playoff": false
+    },
+    {
+      "week": 14,
+      "home_team": "Mr. Big Chest",
+      "home_score": 122.15,
+      "away_team": "No Juju",
+      "away_score": 168.75,
+      "is_playoff": false
+    },
+    {
+      "week": 14,
+      "home_team": "Se\u00f1or Turdcocks",
+      "home_score": 94.75,
+      "away_team": "Sizzling SeX GOD",
+      "away_score": 138.45,
+      "is_playoff": false
+    },
+    {
+      "week": 15,
+      "home_team": "Louisiana State Mud Dogs",
+      "home_score": 128.35,
+      "away_team": "Them New Asians",
+      "away_score": 120.75,
+      "is_playoff": true
+    },
+    {
+      "week": 15,
+      "home_team": "MAGA   2020",
+      "home_score": 134.45,
+      "away_team": "Dumpster FIRE",
+      "away_score": 93.1,
+      "is_playoff": true
+    },
+    {
+      "week": 15,
+      "home_team": "Shidded And Farded",
+      "home_score": 177.65,
+      "away_team": "Its Just  A Buzz",
+      "away_score": 147.2,
+      "is_playoff": true
+    },
+    {
+      "week": 15,
+      "home_team": "No Juju",
+      "home_score": 152.45,
+      "away_team": "Sizzling SeX GOD",
+      "away_score": 137.0,
+      "is_playoff": true
+    },
+    {
+      "week": 15,
+      "home_team": "Mr. Big Chest",
+      "home_score": 83.9,
+      "away_team": "Se\u00f1or Turdcocks",
+      "away_score": 75.1,
+      "is_playoff": true
+    },
+    {
+      "week": 16,
+      "home_team": "Louisiana State Mud Dogs",
+      "home_score": 232.4,
+      "away_team": "MAGA   2020",
+      "away_score": 147.05,
+      "is_playoff": true
+    },
+    {
+      "week": 16,
+      "home_team": "Them New Asians",
+      "home_score": 93.85,
+      "away_team": "Dumpster FIRE",
+      "away_score": 91.4,
+      "is_playoff": true
+    },
+    {
+      "week": 16,
+      "home_team": "Shidded And Farded",
+      "home_score": 86.45,
+      "away_team": "Its Just  A Buzz",
+      "away_score": 125.65,
+      "is_playoff": true
+    },
+    {
+      "week": 16,
+      "home_team": "Mr. Big Chest",
+      "home_score": 130.75,
+      "away_team": "No Juju",
+      "away_score": 136.65,
+      "is_playoff": true
+    },
+    {
+      "week": 16,
+      "home_team": "Se\u00f1or Turdcocks",
+      "home_score": 147.35,
+      "away_team": "Sizzling SeX GOD",
+      "away_score": 90.95,
+      "is_playoff": true
+    },
+    {
+      "week": 17,
+      "home_team": "Louisiana State Mud Dogs",
+      "home_score": 232.4,
+      "away_team": "MAGA   2020",
+      "away_score": 147.05,
+      "is_playoff": true
+    },
+    {
+      "week": 17,
+      "home_team": "Them New Asians",
+      "home_score": 93.85,
+      "away_team": "Dumpster FIRE",
+      "away_score": 91.4,
+      "is_playoff": true
+    },
+    {
+      "week": 17,
+      "home_team": "Shidded And Farded",
+      "home_score": 86.45,
+      "away_team": "Its Just  A Buzz",
+      "away_score": 125.65,
+      "is_playoff": true
+    },
+    {
+      "week": 17,
+      "home_team": "Mr. Big Chest",
+      "home_score": 130.75,
+      "away_team": "No Juju",
+      "away_score": 136.65,
+      "is_playoff": true
+    },
+    {
+      "week": 17,
+      "home_team": "Se\u00f1or Turdcocks",
+      "home_score": 147.35,
+      "away_team": "Sizzling SeX GOD",
+      "away_score": 90.95,
+      "is_playoff": true
+    }
+  ],
+  "playoffs": [],
+  "draft": [
+    {
+      "round": 1,
+      "pick": 1,
+      "overall": 1,
+      "team": "Mr. Big Chest",
+      "player": "Emmanuel Sanders"
+    },
+    {
+      "round": 1,
+      "pick": 2,
+      "overall": 2,
+      "team": "No Juju",
+      "player": "Nick Chubb"
+    },
+    {
+      "round": 1,
+      "pick": 3,
+      "overall": 3,
+      "team": "Louisiana State Mud Dogs",
+      "player": "Adam Thielen"
+    },
+    {
+      "round": 1,
+      "pick": 4,
+      "overall": 4,
+      "team": "Shidded And Farded",
+      "player": "Joe Mixon"
+    },
+    {
+      "round": 1,
+      "pick": 5,
+      "overall": 5,
+      "team": "Dumpster FIRE",
+      "player": "Patrick Mahomes"
+    },
+    {
+      "round": 1,
+      "pick": 6,
+      "overall": 6,
+      "team": "Its Just  A Buzz",
+      "player": "Courtland Sutton"
+    },
+    {
+      "round": 1,
+      "pick": 7,
+      "overall": 7,
+      "team": "MAGA   2020",
+      "player": "Tyler Lockett"
+    },
+    {
+      "round": 1,
+      "pick": 8,
+      "overall": 8,
+      "team": "Se\u00f1or Turdcocks",
+      "player": "Chris Godwin"
+    },
+    {
+      "round": 1,
+      "pick": 9,
+      "overall": 9,
+      "team": "Them New Asians",
+      "player": "Derrick Henry"
+    },
+    {
+      "round": 1,
+      "pick": 10,
+      "overall": 10,
+      "team": "Sizzling SeX GOD",
+      "player": "Kenny Golladay"
+    },
+    {
+      "round": 2,
+      "pick": 1,
+      "overall": 11,
+      "team": "Mr. Big Chest",
+      "player": "Davante Adams"
+    },
+    {
+      "round": 2,
+      "pick": 2,
+      "overall": 12,
+      "team": "No Juju",
+      "player": "Miles Sanders"
+    },
+    {
+      "round": 2,
+      "pick": 3,
+      "overall": 13,
+      "team": "Louisiana State Mud Dogs",
+      "player": "Alvin Kamara"
+    },
+    {
+      "round": 2,
+      "pick": 4,
+      "overall": 14,
+      "team": "Shidded And Farded",
+      "player": "Dalvin Cook"
+    },
+    {
+      "round": 2,
+      "pick": 5,
+      "overall": 15,
+      "team": "Dumpster FIRE",
+      "player": "Michael Thomas"
+    },
+    {
+      "round": 2,
+      "pick": 6,
+      "overall": 16,
+      "team": "Its Just  A Buzz",
+      "player": "Saquon Barkley"
+    },
+    {
+      "round": 2,
+      "pick": 7,
+      "overall": 17,
+      "team": "MAGA   2020",
+      "player": "Clyde Edwards-Helaire"
+    },
+    {
+      "round": 2,
+      "pick": 8,
+      "overall": 18,
+      "team": "Se\u00f1or Turdcocks",
+      "player": "Christian McCaffrey"
+    },
+    {
+      "round": 2,
+      "pick": 9,
+      "overall": 19,
+      "team": "Them New Asians",
+      "player": "Ezekiel Elliott"
+    },
+    {
+      "round": 2,
+      "pick": 10,
+      "overall": 20,
+      "team": "Sizzling SeX GOD",
+      "player": "Julio Jones"
+    },
+    {
+      "round": 3,
+      "pick": 1,
+      "overall": 21,
+      "team": "Sizzling SeX GOD",
+      "player": "Tyreek Hill"
+    },
+    {
+      "round": 3,
+      "pick": 2,
+      "overall": 22,
+      "team": "Them New Asians",
+      "player": "George Kittle"
+    },
+    {
+      "round": 3,
+      "pick": 3,
+      "overall": 23,
+      "team": "Se\u00f1or Turdcocks",
+      "player": "Mike Evans"
+    },
+    {
+      "round": 3,
+      "pick": 4,
+      "overall": 24,
+      "team": "MAGA   2020",
+      "player": "Austin Ekeler"
+    },
+    {
+      "round": 3,
+      "pick": 5,
+      "overall": 25,
+      "team": "Its Just  A Buzz",
+      "player": "Aaron Jones"
+    },
+    {
+      "round": 3,
+      "pick": 6,
+      "overall": 26,
+      "team": "Dumpster FIRE",
+      "player": "Kenyan Drake"
+    },
+    {
+      "round": 3,
+      "pick": 7,
+      "overall": 27,
+      "team": "Shidded And Farded",
+      "player": "DeAndre Hopkins"
+    },
+    {
+      "round": 3,
+      "pick": 8,
+      "overall": 28,
+      "team": "Louisiana State Mud Dogs",
+      "player": "Travis Kelce"
+    },
+    {
+      "round": 3,
+      "pick": 9,
+      "overall": 29,
+      "team": "No Juju",
+      "player": "DJ Moore"
+    },
+    {
+      "round": 3,
+      "pick": 10,
+      "overall": 30,
+      "team": "Mr. Big Chest",
+      "player": "Josh Jacobs"
+    },
+    {
+      "round": 4,
+      "pick": 1,
+      "overall": 31,
+      "team": "Mr. Big Chest",
+      "player": "Chris Carson"
+    },
+    {
+      "round": 4,
+      "pick": 2,
+      "overall": 32,
+      "team": "No Juju",
+      "player": "JuJu Smith-Schuster"
+    },
+    {
+      "round": 4,
+      "pick": 3,
+      "overall": 33,
+      "team": "Louisiana State Mud Dogs",
+      "player": "Odell Beckham Jr."
+    },
+    {
+      "round": 4,
+      "pick": 4,
+      "overall": 34,
+      "team": "Shidded And Farded",
+      "player": "Calvin Ridley"
+    },
+    {
+      "round": 4,
+      "pick": 5,
+      "overall": 35,
+      "team": "Dumpster FIRE",
+      "player": "Cooper Kupp"
+    },
+    {
+      "round": 4,
+      "pick": 6,
+      "overall": 36,
+      "team": "Its Just  A Buzz",
+      "player": "Allen Robinson II"
+    },
+    {
+      "round": 4,
+      "pick": 7,
+      "overall": 37,
+      "team": "MAGA   2020",
+      "player": "Amari Cooper"
+    },
+    {
+      "round": 4,
+      "pick": 8,
+      "overall": 38,
+      "team": "Se\u00f1or Turdcocks",
+      "player": "Zach Ertz"
+    },
+    {
+      "round": 4,
+      "pick": 9,
+      "overall": 39,
+      "team": "Them New Asians",
+      "player": "Lamar Jackson"
+    },
+    {
+      "round": 4,
+      "pick": 10,
+      "overall": 40,
+      "team": "Sizzling SeX GOD",
+      "player": "Mark Andrews"
+    },
+    {
+      "round": 5,
+      "pick": 1,
+      "overall": 41,
+      "team": "Sizzling SeX GOD",
+      "player": "Melvin Gordon III"
+    },
+    {
+      "round": 5,
+      "pick": 2,
+      "overall": 42,
+      "team": "Them New Asians",
+      "player": "David Johnson"
+    },
+    {
+      "round": 5,
+      "pick": 3,
+      "overall": 43,
+      "team": "Se\u00f1or Turdcocks",
+      "player": "Raheem Mostert"
+    },
+    {
+      "round": 5,
+      "pick": 4,
+      "overall": 44,
+      "team": "MAGA   2020",
+      "player": "A.J. Brown"
+    },
+    {
+      "round": 5,
+      "pick": 5,
+      "overall": 45,
+      "team": "Its Just  A Buzz",
+      "player": "James Conner"
+    },
+    {
+      "round": 5,
+      "pick": 6,
+      "overall": 46,
+      "team": "Dumpster FIRE",
+      "player": "Leonard Fournette"
+    },
+    {
+      "round": 5,
+      "pick": 7,
+      "overall": 47,
+      "team": "Shidded And Farded",
+      "player": "Le'Veon Bell"
+    },
+    {
+      "round": 5,
+      "pick": 8,
+      "overall": 48,
+      "team": "Louisiana State Mud Dogs",
+      "player": "Todd Gurley II"
+    },
+    {
+      "round": 5,
+      "pick": 9,
+      "overall": 49,
+      "team": "No Juju",
+      "player": "Robert Woods"
+    },
+    {
+      "round": 5,
+      "pick": 10,
+      "overall": 50,
+      "team": "Mr. Big Chest",
+      "player": "Keenan Allen"
+    },
+    {
+      "round": 6,
+      "pick": 1,
+      "overall": 51,
+      "team": "Mr. Big Chest",
+      "player": "DJ Chark Jr."
+    },
+    {
+      "round": 6,
+      "pick": 2,
+      "overall": 52,
+      "team": "No Juju",
+      "player": "Jonathan Taylor"
+    },
+    {
+      "round": 6,
+      "pick": 3,
+      "overall": 53,
+      "team": "Louisiana State Mud Dogs",
+      "player": "T.Y. Hilton"
+    },
+    {
+      "round": 6,
+      "pick": 4,
+      "overall": 54,
+      "team": "Shidded And Farded",
+      "player": "DeVante Parker"
+    },
+    {
+      "round": 6,
+      "pick": 5,
+      "overall": 55,
+      "team": "Dumpster FIRE",
+      "player": "DK Metcalf"
+    },
+    {
+      "round": 6,
+      "pick": 6,
+      "overall": 56,
+      "team": "Its Just  A Buzz",
+      "player": "Terry McLaurin"
+    },
+    {
+      "round": 6,
+      "pick": 7,
+      "overall": 57,
+      "team": "MAGA   2020",
+      "player": "Darren Waller"
+    },
+    {
+      "round": 6,
+      "pick": 8,
+      "overall": 58,
+      "team": "Se\u00f1or Turdcocks",
+      "player": "Marquise Brown"
+    },
+    {
+      "round": 6,
+      "pick": 9,
+      "overall": 59,
+      "team": "Them New Asians",
+      "player": "A.J. Green"
+    },
+    {
+      "round": 6,
+      "pick": 10,
+      "overall": 60,
+      "team": "Sizzling SeX GOD",
+      "player": "Mark Ingram II"
+    },
+    {
+      "round": 7,
+      "pick": 1,
+      "overall": 61,
+      "team": "Sizzling SeX GOD",
+      "player": "Michael Gallup"
+    },
+    {
+      "round": 7,
+      "pick": 2,
+      "overall": 62,
+      "team": "Them New Asians",
+      "player": "Jarvis Landry"
+    },
+    {
+      "round": 7,
+      "pick": 3,
+      "overall": 63,
+      "team": "Se\u00f1or Turdcocks",
+      "player": "Dak Prescott"
+    },
+    {
+      "round": 7,
+      "pick": 4,
+      "overall": 64,
+      "team": "MAGA   2020",
+      "player": "Cam Akers"
+    },
+    {
+      "round": 7,
+      "pick": 5,
+      "overall": 65,
+      "team": "Its Just  A Buzz",
+      "player": "Tyler Boyd"
+    },
+    {
+      "round": 7,
+      "pick": 6,
+      "overall": 66,
+      "team": "Dumpster FIRE",
+      "player": "Tarik Cohen"
+    },
+    {
+      "round": 7,
+      "pick": 7,
+      "overall": 67,
+      "team": "Shidded And Farded",
+      "player": "Russell Wilson"
+    },
+    {
+      "round": 7,
+      "pick": 8,
+      "overall": 68,
+      "team": "Louisiana State Mud Dogs",
+      "player": "Kareem Hunt"
+    },
+    {
+      "round": 7,
+      "pick": 9,
+      "overall": 69,
+      "team": "No Juju",
+      "player": "David Montgomery"
+    },
+    {
+      "round": 7,
+      "pick": 10,
+      "overall": 70,
+      "team": "Mr. Big Chest",
+      "player": "Kerryon Johnson"
+    },
+    {
+      "round": 8,
+      "pick": 1,
+      "overall": 71,
+      "team": "Mr. Big Chest",
+      "player": "Tyler Higbee"
+    },
+    {
+      "round": 8,
+      "pick": 2,
+      "overall": 72,
+      "team": "No Juju",
+      "player": "D'Andre Swift"
+    },
+    {
+      "round": 8,
+      "pick": 3,
+      "overall": 73,
+      "team": "Louisiana State Mud Dogs",
+      "player": "Deshaun Watson"
+    },
+    {
+      "round": 8,
+      "pick": 4,
+      "overall": 74,
+      "team": "Shidded And Farded",
+      "player": "Will Fuller V"
+    },
+    {
+      "round": 8,
+      "pick": 5,
+      "overall": 75,
+      "team": "Dumpster FIRE",
+      "player": "Evan Engram"
+    },
+    {
+      "round": 8,
+      "pick": 6,
+      "overall": 76,
+      "team": "Its Just  A Buzz",
+      "player": "Kyler Murray"
+    },
+    {
+      "round": 8,
+      "pick": 7,
+      "overall": 77,
+      "team": "MAGA   2020",
+      "player": "Stefon Diggs"
+    },
+    {
+      "round": 8,
+      "pick": 8,
+      "overall": 78,
+      "team": "Se\u00f1or Turdcocks",
+      "player": "James White"
+    },
+    {
+      "round": 8,
+      "pick": 9,
+      "overall": 79,
+      "team": "Them New Asians",
+      "player": "Marvin Jones Jr."
+    },
+    {
+      "round": 8,
+      "pick": 10,
+      "overall": 80,
+      "team": "Sizzling SeX GOD",
+      "player": "Devin Singletary"
+    },
+    {
+      "round": 9,
+      "pick": 1,
+      "overall": 81,
+      "team": "Sizzling SeX GOD",
+      "player": "Matt Ryan"
+    },
+    {
+      "round": 9,
+      "pick": 2,
+      "overall": 82,
+      "team": "Them New Asians",
+      "player": "Rob Gronkowski"
+    },
+    {
+      "round": 9,
+      "pick": 3,
+      "overall": 83,
+      "team": "Se\u00f1or Turdcocks",
+      "player": "Christian Kirk"
+    },
+    {
+      "round": 9,
+      "pick": 4,
+      "overall": 84,
+      "team": "MAGA   2020",
+      "player": "Hunter Henry"
+    },
+    {
+      "round": 9,
+      "pick": 5,
+      "overall": 85,
+      "team": "Its Just  A Buzz",
+      "player": "Antonio Gibson"
+    },
+    {
+      "round": 9,
+      "pick": 6,
+      "overall": 86,
+      "team": "Dumpster FIRE",
+      "player": "Julian Edelman"
+    },
+    {
+      "round": 9,
+      "pick": 7,
+      "overall": 87,
+      "team": "Shidded And Farded",
+      "player": "CeeDee Lamb"
+    },
+    {
+      "round": 9,
+      "pick": 8,
+      "overall": 88,
+      "team": "Louisiana State Mud Dogs",
+      "player": "Brandin Cooks"
+    },
+    {
+      "round": 9,
+      "pick": 9,
+      "overall": 89,
+      "team": "No Juju",
+      "player": "Deebo Samuel"
+    },
+    {
+      "round": 9,
+      "pick": 10,
+      "overall": 90,
+      "team": "Mr. Big Chest",
+      "player": "Tom Brady"
+    },
+    {
+      "round": 10,
+      "pick": 1,
+      "overall": 91,
+      "team": "Mr. Big Chest",
+      "player": "Phillip Lindsay"
+    },
+    {
+      "round": 10,
+      "pick": 2,
+      "overall": 92,
+      "team": "No Juju",
+      "player": "Ronald Jones II"
+    },
+    {
+      "round": 10,
+      "pick": 3,
+      "overall": 93,
+      "team": "Louisiana State Mud Dogs",
+      "player": "49ers D/ST"
+    },
+    {
+      "round": 10,
+      "pick": 4,
+      "overall": 94,
+      "team": "Shidded And Farded",
+      "player": "Jerry Jeudy"
+    },
+    {
+      "round": 10,
+      "pick": 5,
+      "overall": 95,
+      "team": "Dumpster FIRE",
+      "player": "Sterling Shepard"
+    },
+    {
+      "round": 10,
+      "pick": 6,
+      "overall": 96,
+      "team": "Its Just  A Buzz",
+      "player": "Diontae Johnson"
+    },
+    {
+      "round": 10,
+      "pick": 7,
+      "overall": 97,
+      "team": "MAGA   2020",
+      "player": "Josh Allen"
+    },
+    {
+      "round": 10,
+      "pick": 8,
+      "overall": 98,
+      "team": "Se\u00f1or Turdcocks",
+      "player": "Ravens D/ST"
+    },
+    {
+      "round": 10,
+      "pick": 9,
+      "overall": 99,
+      "team": "Them New Asians",
+      "player": "Jamison Crowder"
+    },
+    {
+      "round": 10,
+      "pick": 10,
+      "overall": 100,
+      "team": "Sizzling SeX GOD",
+      "player": "Jordan Howard"
+    },
+    {
+      "round": 11,
+      "pick": 1,
+      "overall": 101,
+      "team": "Sizzling SeX GOD",
+      "player": "John Brown"
+    },
+    {
+      "round": 11,
+      "pick": 2,
+      "overall": 102,
+      "team": "Them New Asians",
+      "player": "Bills D/ST"
+    },
+    {
+      "round": 11,
+      "pick": 3,
+      "overall": 103,
+      "team": "Se\u00f1or Turdcocks",
+      "player": "Curtis Samuel"
+    },
+    {
+      "round": 11,
+      "pick": 4,
+      "overall": 104,
+      "team": "MAGA   2020",
+      "player": "Damien Harris"
+    },
+    {
+      "round": 11,
+      "pick": 5,
+      "overall": 105,
+      "team": "Its Just  A Buzz",
+      "player": "Hayden Hurst"
+    },
+    {
+      "round": 11,
+      "pick": 6,
+      "overall": 106,
+      "team": "Dumpster FIRE",
+      "player": "T.J. Hockenson"
+    },
+    {
+      "round": 11,
+      "pick": 7,
+      "overall": 107,
+      "team": "Shidded And Farded",
+      "player": "Jared Cook"
+    },
+    {
+      "round": 11,
+      "pick": 8,
+      "overall": 108,
+      "team": "Louisiana State Mud Dogs",
+      "player": "Matt Breida"
+    },
+    {
+      "round": 11,
+      "pick": 9,
+      "overall": 109,
+      "team": "No Juju",
+      "player": "Austin Hooper"
+    },
+    {
+      "round": 11,
+      "pick": 10,
+      "overall": 110,
+      "team": "Mr. Big Chest",
+      "player": "Steelers D/ST"
+    },
+    {
+      "round": 12,
+      "pick": 1,
+      "overall": 111,
+      "team": "Mr. Big Chest",
+      "player": "Golden Tate"
+    },
+    {
+      "round": 12,
+      "pick": 2,
+      "overall": 112,
+      "team": "No Juju",
+      "player": "Drew Brees"
+    },
+    {
+      "round": 12,
+      "pick": 3,
+      "overall": 113,
+      "team": "Louisiana State Mud Dogs",
+      "player": "Marlon Mack"
+    },
+    {
+      "round": 12,
+      "pick": 4,
+      "overall": 114,
+      "team": "Shidded And Farded",
+      "player": "Henry Ruggs III"
+    },
+    {
+      "round": 12,
+      "pick": 5,
+      "overall": 115,
+      "team": "Dumpster FIRE",
+      "player": "Ryquell Armstead"
+    },
+    {
+      "round": 12,
+      "pick": 6,
+      "overall": 116,
+      "team": "Its Just  A Buzz",
+      "player": "Harrison Butker"
+    },
+    {
+      "round": 12,
+      "pick": 7,
+      "overall": 117,
+      "team": "MAGA   2020",
+      "player": "Patriots D/ST"
+    },
+    {
+      "round": 12,
+      "pick": 8,
+      "overall": 118,
+      "team": "Se\u00f1or Turdcocks",
+      "player": "Wil Lutz"
+    },
+    {
+      "round": 12,
+      "pick": 9,
+      "overall": 119,
+      "team": "Them New Asians",
+      "player": "J.K. Dobbins"
+    },
+    {
+      "round": 12,
+      "pick": 10,
+      "overall": 120,
+      "team": "Sizzling SeX GOD",
+      "player": "Tevin Coleman"
+    },
+    {
+      "round": 13,
+      "pick": 1,
+      "overall": 121,
+      "team": "Sizzling SeX GOD",
+      "player": "Joshua Kelley"
+    },
+    {
+      "round": 13,
+      "pick": 2,
+      "overall": 122,
+      "team": "Them New Asians",
+      "player": "Preston Williams"
+    },
+    {
+      "round": 13,
+      "pick": 3,
+      "overall": 123,
+      "team": "Se\u00f1or Turdcocks",
+      "player": "Tyler Eifert"
+    },
+    {
+      "round": 13,
+      "pick": 4,
+      "overall": 124,
+      "team": "MAGA   2020",
+      "player": "Tony Pollard"
+    },
+    {
+      "round": 13,
+      "pick": 5,
+      "overall": 125,
+      "team": "Its Just  A Buzz",
+      "player": "Zack Moss"
+    },
+    {
+      "round": 13,
+      "pick": 6,
+      "overall": 126,
+      "team": "Dumpster FIRE",
+      "player": "N'Keal Harry"
+    },
+    {
+      "round": 13,
+      "pick": 7,
+      "overall": 127,
+      "team": "Shidded And Farded",
+      "player": "Alexander Mattison"
+    },
+    {
+      "round": 13,
+      "pick": 8,
+      "overall": 128,
+      "team": "Louisiana State Mud Dogs",
+      "player": "Justin Tucker"
+    },
+    {
+      "round": 13,
+      "pick": 9,
+      "overall": 129,
+      "team": "No Juju",
+      "player": "Bears D/ST"
+    },
+    {
+      "round": 13,
+      "pick": 10,
+      "overall": 130,
+      "team": "Mr. Big Chest",
+      "player": "Greg Zuerlein"
+    },
+    {
+      "round": 14,
+      "pick": 1,
+      "overall": 131,
+      "team": "Mr. Big Chest",
+      "player": "Noah Fant"
+    },
+    {
+      "round": 14,
+      "pick": 2,
+      "overall": 132,
+      "team": "No Juju",
+      "player": "Matt Prater"
+    },
+    {
+      "round": 14,
+      "pick": 3,
+      "overall": 133,
+      "team": "Louisiana State Mud Dogs",
+      "player": "Joe Burrow"
+    },
+    {
+      "round": 14,
+      "pick": 4,
+      "overall": 134,
+      "team": "Shidded And Farded",
+      "player": "Robbie Gould"
+    },
+    {
+      "round": 14,
+      "pick": 5,
+      "overall": 135,
+      "team": "Dumpster FIRE",
+      "player": "Vikings D/ST"
+    },
+    {
+      "round": 14,
+      "pick": 6,
+      "overall": 136,
+      "team": "Its Just  A Buzz",
+      "player": "Titans D/ST"
+    },
+    {
+      "round": 14,
+      "pick": 7,
+      "overall": 137,
+      "team": "MAGA   2020",
+      "player": "Justin Jackson"
+    },
+    {
+      "round": 14,
+      "pick": 8,
+      "overall": 138,
+      "team": "Se\u00f1or Turdcocks",
+      "player": "Carlos Hyde"
+    },
+    {
+      "round": 14,
+      "pick": 9,
+      "overall": 139,
+      "team": "Them New Asians",
+      "player": "Latavius Murray"
+    },
+    {
+      "round": 14,
+      "pick": 10,
+      "overall": 140,
+      "team": "Sizzling SeX GOD",
+      "player": "Saints D/ST"
+    },
+    {
+      "round": 15,
+      "pick": 1,
+      "overall": 141,
+      "team": "Sizzling SeX GOD",
+      "player": "Younghoe Koo"
+    },
+    {
+      "round": 15,
+      "pick": 2,
+      "overall": 142,
+      "team": "Them New Asians",
+      "player": "Ryan Succop"
+    },
+    {
+      "round": 15,
+      "pick": 3,
+      "overall": 143,
+      "team": "Se\u00f1or Turdcocks",
+      "player": "Jimmy Garoppolo"
+    },
+    {
+      "round": 15,
+      "pick": 4,
+      "overall": 144,
+      "team": "MAGA   2020",
+      "player": "Chris Boswell"
+    },
+    {
+      "round": 15,
+      "pick": 5,
+      "overall": 145,
+      "team": "Its Just  A Buzz",
+      "player": "Marquez Valdes-Scantling"
+    },
+    {
+      "round": 15,
+      "pick": 6,
+      "overall": 146,
+      "team": "Dumpster FIRE",
+      "player": "Jake Elliott"
+    },
+    {
+      "round": 15,
+      "pick": 7,
+      "overall": 147,
+      "team": "Shidded And Farded",
+      "player": "Tua Tagovailoa"
+    },
+    {
+      "round": 15,
+      "pick": 8,
+      "overall": 148,
+      "team": "Louisiana State Mud Dogs",
+      "player": "Duke Johnson"
+    },
+    {
+      "round": 15,
+      "pick": 9,
+      "overall": 149,
+      "team": "No Juju",
+      "player": "Mike Gesicki"
+    },
+    {
+      "round": 15,
+      "pick": 10,
+      "overall": 150,
+      "team": "Mr. Big Chest",
+      "player": "Darrell Henderson Jr."
+    }
+  ],
+  "trades": []
+}

@@ -1,0 +1,1078 @@
+{
+  "league_name": "Booze Bags Fantasy League",
+  "league_id": 335765,
+  "years": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "total_seasons": 11,
+  "last_updated": "2026-02-04T20:13:01.043097",
+  "all_time_records": [
+    {
+      "owner": "Patrick Gonsalves",
+      "seasons": 11,
+      "wins": 78,
+      "losses": 70,
+      "ties": 0,
+      "points_for": 18477.36,
+      "points_against": 18218.08,
+      "championships": 0,
+      "playoff_appearances": 7,
+      "best_finish": 2,
+      "teams": [
+        {
+          "year": 2015,
+          "team_name": "It's Just A Buzz",
+          "record": "7-6",
+          "standing": 4
+        },
+        {
+          "year": 2016,
+          "team_name": "It's Just A Buzz",
+          "record": "6-7",
+          "standing": 7
+        },
+        {
+          "year": 2017,
+          "team_name": "It's Just A Buzz",
+          "record": "8-5",
+          "standing": 2
+        },
+        {
+          "year": 2018,
+          "team_name": "Its Just  A Buzz",
+          "record": "8-5",
+          "standing": 5
+        },
+        {
+          "year": 2019,
+          "team_name": "Its Just  A Buzz",
+          "record": "9-4",
+          "standing": 5
+        },
+        {
+          "year": 2020,
+          "team_name": "Its Just  A Buzz",
+          "record": "6-7",
+          "standing": 5
+        },
+        {
+          "year": 2021,
+          "team_name": "Its Just  A Buzz",
+          "record": "5-9",
+          "standing": 9
+        },
+        {
+          "year": 2022,
+          "team_name": "Its Just  A Buzz",
+          "record": "8-6",
+          "standing": 2
+        },
+        {
+          "year": 2023,
+          "team_name": "Its Just  A Buzz",
+          "record": "6-8",
+          "standing": 7
+        },
+        {
+          "year": 2024,
+          "team_name": "Its Just  A Buzz",
+          "record": "9-5",
+          "standing": 2
+        },
+        {
+          "year": 2025,
+          "team_name": "Its Just  A Buzz",
+          "record": "6-8",
+          "standing": 10
+        }
+      ],
+      "win_pct": 52.7
+    },
+    {
+      "owner": "Ben Lenhart",
+      "seasons": 11,
+      "wins": 78,
+      "losses": 70,
+      "ties": 0,
+      "points_for": 18193.07,
+      "points_against": 17964.79,
+      "championships": 0,
+      "playoff_appearances": 7,
+      "best_finish": 2,
+      "teams": [
+        {
+          "year": 2015,
+          "team_name": "Deez Nuts",
+          "record": "5-8",
+          "standing": 9
+        },
+        {
+          "year": 2016,
+          "team_name": "Barnacle  Benny",
+          "record": "7-6",
+          "standing": 5
+        },
+        {
+          "year": 2017,
+          "team_name": "Catch Deez  Hands",
+          "record": "5-8",
+          "standing": 8
+        },
+        {
+          "year": 2018,
+          "team_name": "Catch Deez  Hands",
+          "record": "6-7",
+          "standing": 3
+        },
+        {
+          "year": 2019,
+          "team_name": "Big Balls",
+          "record": "5-8",
+          "standing": 7
+        },
+        {
+          "year": 2020,
+          "team_name": "Shidded And Farded",
+          "record": "8-5",
+          "standing": 6
+        },
+        {
+          "year": 2021,
+          "team_name": "Beese Chussy ",
+          "record": "10-4",
+          "standing": 4
+        },
+        {
+          "year": 2022,
+          "team_name": "Big Booty Wizzard 69",
+          "record": "7-7",
+          "standing": 11
+        },
+        {
+          "year": 2023,
+          "team_name": "BOOBS RULE",
+          "record": "8-6",
+          "standing": 5
+        },
+        {
+          "year": 2024,
+          "team_name": "Nonstop ass r*pe",
+          "record": "7-7",
+          "standing": 5
+        },
+        {
+          "year": 2025,
+          "team_name": "Top Gooners",
+          "record": "10-4",
+          "standing": 2
+        }
+      ],
+      "win_pct": 52.7
+    },
+    {
+      "owner": "Ryan Fleming",
+      "seasons": 11,
+      "wins": 77,
+      "losses": 71,
+      "ties": 0,
+      "points_for": 18738.16,
+      "points_against": 18441.4,
+      "championships": 0,
+      "playoff_appearances": 7,
+      "best_finish": 2,
+      "teams": [
+        {
+          "year": 2015,
+          "team_name": "The Money Team",
+          "record": "8-5",
+          "standing": 2
+        },
+        {
+          "year": 2016,
+          "team_name": "The Money Team",
+          "record": "7-6",
+          "standing": 4
+        },
+        {
+          "year": 2017,
+          "team_name": "The Money Team",
+          "record": "3-10",
+          "standing": 7
+        },
+        {
+          "year": 2018,
+          "team_name": "Tannehill 2.0",
+          "record": "10-3",
+          "standing": 2
+        },
+        {
+          "year": 2019,
+          "team_name": "Tannehill 2.0",
+          "record": "6-7",
+          "standing": 6
+        },
+        {
+          "year": 2020,
+          "team_name": "Dumpster FIRE",
+          "record": "6-7",
+          "standing": 4
+        },
+        {
+          "year": 2021,
+          "team_name": "Dumpster FIRE",
+          "record": "11-3",
+          "standing": 2
+        },
+        {
+          "year": 2022,
+          "team_name": "Dumpster FIRE",
+          "record": "4-10",
+          "standing": 7
+        },
+        {
+          "year": 2023,
+          "team_name": "Dumpster FIRE",
+          "record": "7-7",
+          "standing": 12
+        },
+        {
+          "year": 2024,
+          "team_name": "Dumpster FIRE",
+          "record": "7-7",
+          "standing": 8
+        },
+        {
+          "year": 2025,
+          "team_name": "Dumpster FIRE",
+          "record": "8-6",
+          "standing": 3
+        }
+      ],
+      "win_pct": 52.0
+    },
+    {
+      "owner": "joshua deangelis",
+      "seasons": 10,
+      "wins": 77,
+      "losses": 58,
+      "ties": 0,
+      "points_for": 16832.2,
+      "points_against": 16589.23,
+      "championships": 2,
+      "playoff_appearances": 7,
+      "best_finish": 1,
+      "teams": [
+        {
+          "year": 2016,
+          "team_name": "Them New Asians",
+          "record": "9-4",
+          "standing": 2
+        },
+        {
+          "year": 2017,
+          "team_name": "Them New Asians",
+          "record": "7-6",
+          "standing": 3
+        },
+        {
+          "year": 2018,
+          "team_name": "Them New Asians",
+          "record": "7-6",
+          "standing": 6
+        },
+        {
+          "year": 2019,
+          "team_name": "Them New Asians",
+          "record": "9-4",
+          "standing": 2
+        },
+        {
+          "year": 2020,
+          "team_name": "Them New Asians",
+          "record": "7-6",
+          "standing": 3
+        },
+        {
+          "year": 2021,
+          "team_name": "Them New Asians",
+          "record": "7-7",
+          "standing": 1
+        },
+        {
+          "year": 2022,
+          "team_name": "Ramy's Propeller ",
+          "record": "7-7",
+          "standing": 10
+        },
+        {
+          "year": 2023,
+          "team_name": "Them New Asians ",
+          "record": "5-9",
+          "standing": 10
+        },
+        {
+          "year": 2024,
+          "team_name": "Them New Asians ",
+          "record": "10-4",
+          "standing": 1
+        },
+        {
+          "year": 2025,
+          "team_name": "Turd Ferguson",
+          "record": "9-5",
+          "standing": 7
+        }
+      ],
+      "win_pct": 57.0
+    },
+    {
+      "owner": "Brandon Baglio",
+      "seasons": 11,
+      "wins": 73,
+      "losses": 75,
+      "ties": 0,
+      "points_for": 18306.9,
+      "points_against": 18289.95,
+      "championships": 0,
+      "playoff_appearances": 7,
+      "best_finish": 2,
+      "teams": [
+        {
+          "year": 2015,
+          "team_name": "Strawberitavill Strawberitamen",
+          "record": "5-8",
+          "standing": 5
+        },
+        {
+          "year": 2016,
+          "team_name": "Strawberitavill Strawberitamen",
+          "record": "7-6",
+          "standing": 6
+        },
+        {
+          "year": 2017,
+          "team_name": "WE WAS KANGGGGZ",
+          "record": "7-6",
+          "standing": 6
+        },
+        {
+          "year": 2018,
+          "team_name": "Weird Flex But OK",
+          "record": "5-8",
+          "standing": 8
+        },
+        {
+          "year": 2019,
+          "team_name": "Mr. Big Chest",
+          "record": "4-9",
+          "standing": 10
+        },
+        {
+          "year": 2020,
+          "team_name": "Mr. Big Chest",
+          "record": "5-8",
+          "standing": 8
+        },
+        {
+          "year": 2021,
+          "team_name": "Mr. Big Chest",
+          "record": "7-7",
+          "standing": 3
+        },
+        {
+          "year": 2022,
+          "team_name": "Sunday Skid Marks",
+          "record": "6-8",
+          "standing": 9
+        },
+        {
+          "year": 2023,
+          "team_name": "Ya Sistas ASSS",
+          "record": "11-3",
+          "standing": 2
+        },
+        {
+          "year": 2024,
+          "team_name": "Ya Sistas ASSS",
+          "record": "8-6",
+          "standing": 3
+        },
+        {
+          "year": 2025,
+          "team_name": "Ya Sistas ASSS",
+          "record": "8-6",
+          "standing": 6
+        }
+      ],
+      "win_pct": 49.3
+    },
+    {
+      "owner": "george gillis",
+      "seasons": 11,
+      "wins": 71,
+      "losses": 77,
+      "ties": 0,
+      "points_for": 18324.77,
+      "points_against": 18594.92,
+      "championships": 2,
+      "playoff_appearances": 6,
+      "best_finish": 1,
+      "teams": [
+        {
+          "year": 2015,
+          "team_name": "win or lose i still booze",
+          "record": "5-8",
+          "standing": 10
+        },
+        {
+          "year": 2016,
+          "team_name": "my team sucks",
+          "record": "4-9",
+          "standing": 10
+        },
+        {
+          "year": 2017,
+          "team_name": "sizzling seX GOD",
+          "record": "9-4",
+          "standing": 1
+        },
+        {
+          "year": 2018,
+          "team_name": "Sizzling SeX GOD",
+          "record": "6-7",
+          "standing": 4
+        },
+        {
+          "year": 2019,
+          "team_name": "Sizzling SeX GOD",
+          "record": "9-4",
+          "standing": 1
+        },
+        {
+          "year": 2020,
+          "team_name": "Sizzling SeX GOD",
+          "record": "4-9",
+          "standing": 10
+        },
+        {
+          "year": 2021,
+          "team_name": "Sizzling SeX GOD",
+          "record": "8-6",
+          "standing": 6
+        },
+        {
+          "year": 2022,
+          "team_name": "Sizzling SeX GOD",
+          "record": "10-4",
+          "standing": 5
+        },
+        {
+          "year": 2023,
+          "team_name": "Sizzling SeX GOD",
+          "record": "7-7",
+          "standing": 3
+        },
+        {
+          "year": 2024,
+          "team_name": "Sizzling SeX GOD",
+          "record": "4-10",
+          "standing": 11
+        },
+        {
+          "year": 2025,
+          "team_name": "Sizzling SeX GOD",
+          "record": "5-9",
+          "standing": 12
+        }
+      ],
+      "win_pct": 48.0
+    },
+    {
+      "owner": "Steve  Gilmore",
+      "seasons": 8,
+      "wins": 65,
+      "losses": 44,
+      "ties": 0,
+      "points_for": 13827.5,
+      "points_against": 13301.1,
+      "championships": 3,
+      "playoff_appearances": 5,
+      "best_finish": 1,
+      "teams": [
+        {
+          "year": 2018,
+          "team_name": "Evil Snead",
+          "record": "9-4",
+          "standing": 1
+        },
+        {
+          "year": 2019,
+          "team_name": "Evil Snead",
+          "record": "6-7",
+          "standing": 8
+        },
+        {
+          "year": 2020,
+          "team_name": "Louisiana State Mud Dogs",
+          "record": "11-2",
+          "standing": 1
+        },
+        {
+          "year": 2021,
+          "team_name": "Louisiana State Mud Dogs",
+          "record": "6-8",
+          "standing": 7
+        },
+        {
+          "year": 2022,
+          "team_name": "Louisiana State Mud Dogs",
+          "record": "12-2",
+          "standing": 3
+        },
+        {
+          "year": 2023,
+          "team_name": "Louisiana State Mud Dogs",
+          "record": "8-6",
+          "standing": 1
+        },
+        {
+          "year": 2024,
+          "team_name": "Louisiana State Mud Dogs",
+          "record": "7-7",
+          "standing": 12
+        },
+        {
+          "year": 2025,
+          "team_name": "Louisiana State Mud Dogs",
+          "record": "6-8",
+          "standing": 5
+        }
+      ],
+      "win_pct": 59.6
+    },
+    {
+      "owner": "Christian Kelly",
+      "seasons": 9,
+      "wins": 57,
+      "losses": 65,
+      "ties": 0,
+      "points_for": 15000.45,
+      "points_against": 15103.75,
+      "championships": 0,
+      "playoff_appearances": 4,
+      "best_finish": 4,
+      "teams": [
+        {
+          "year": 2017,
+          "team_name": "So Icy Entertainment ",
+          "record": "4-9",
+          "standing": 10
+        },
+        {
+          "year": 2018,
+          "team_name": "Zeke-a- Leak",
+          "record": "6-7",
+          "standing": 7
+        },
+        {
+          "year": 2019,
+          "team_name": "Bad  Juju",
+          "record": "4-9",
+          "standing": 9
+        },
+        {
+          "year": 2020,
+          "team_name": "No Juju",
+          "record": "5-8",
+          "standing": 7
+        },
+        {
+          "year": 2021,
+          "team_name": "Big  Waller Brand ",
+          "record": "7-7",
+          "standing": 5
+        },
+        {
+          "year": 2022,
+          "team_name": "Grave Diggser",
+          "record": "9-5",
+          "standing": 4
+        },
+        {
+          "year": 2023,
+          "team_name": "Grave Diggser",
+          "record": "5-9",
+          "standing": 11
+        },
+        {
+          "year": 2024,
+          "team_name": "Grave Diggser",
+          "record": "8-6",
+          "standing": 6
+        },
+        {
+          "year": 2025,
+          "team_name": "Kraft Mac and Cheese",
+          "record": "9-5",
+          "standing": 4
+        }
+      ],
+      "win_pct": 46.7
+    },
+    {
+      "owner": "Jacob Bergeron",
+      "seasons": 9,
+      "wins": 51,
+      "losses": 70,
+      "ties": 0,
+      "points_for": 14257.0,
+      "points_against": 14809.74,
+      "championships": 1,
+      "playoff_appearances": 4,
+      "best_finish": 1,
+      "teams": [
+        {
+          "year": 2015,
+          "team_name": "Your Moms  Fantasy",
+          "record": "7-6",
+          "standing": 8
+        },
+        {
+          "year": 2017,
+          "team_name": "77 Degreez",
+          "record": "8-5",
+          "standing": 5
+        },
+        {
+          "year": 2018,
+          "team_name": "77 Degreez",
+          "record": "2-11",
+          "standing": 9
+        },
+        {
+          "year": 2019,
+          "team_name": "77 Degreez",
+          "record": "6-7",
+          "standing": 3
+        },
+        {
+          "year": 2020,
+          "team_name": "Se\u00f1or Turdcocks",
+          "record": "5-8",
+          "standing": 9
+        },
+        {
+          "year": 2022,
+          "team_name": "Gimli\u2019s Arse",
+          "record": "8-6",
+          "standing": 1
+        },
+        {
+          "year": 2023,
+          "team_name": "Gimli\u2019s Arse",
+          "record": "7-7",
+          "standing": 6
+        },
+        {
+          "year": 2024,
+          "team_name": "Gimli\u2019s Arse",
+          "record": "4-10",
+          "standing": 7
+        },
+        {
+          "year": 2025,
+          "team_name": "Gimli\u2019s Arse",
+          "record": "4-10",
+          "standing": 9
+        }
+      ],
+      "win_pct": 42.1
+    },
+    {
+      "owner": "Henry Krueger",
+      "seasons": 8,
+      "wins": 50,
+      "losses": 59,
+      "ties": 0,
+      "points_for": 13425.0,
+      "points_against": 13622.55,
+      "championships": 0,
+      "playoff_appearances": 3,
+      "best_finish": 2,
+      "teams": [
+        {
+          "year": 2018,
+          "team_name": "Cuck Baggers",
+          "record": "6-7",
+          "standing": 10
+        },
+        {
+          "year": 2019,
+          "team_name": "MAGA   2020",
+          "record": "7-6",
+          "standing": 4
+        },
+        {
+          "year": 2020,
+          "team_name": "MAGA   2020",
+          "record": "8-5",
+          "standing": 2
+        },
+        {
+          "year": 2021,
+          "team_name": "Liberals   Suck",
+          "record": "5-9",
+          "standing": 8
+        },
+        {
+          "year": 2022,
+          "team_name": "C-Kupp  TDs",
+          "record": "7-7",
+          "standing": 6
+        },
+        {
+          "year": 2023,
+          "team_name": "HOCK and BALLS",
+          "record": "6-8",
+          "standing": 9
+        },
+        {
+          "year": 2024,
+          "team_name": "HOCK and BALLS",
+          "record": "7-7",
+          "standing": 9
+        },
+        {
+          "year": 2025,
+          "team_name": "Racist Nabers \ud83c\udfc6",
+          "record": "4-10",
+          "standing": 11
+        }
+      ],
+      "win_pct": 45.9
+    },
+    {
+      "owner": "Steve Gilmore",
+      "seasons": 3,
+      "wins": 26,
+      "losses": 13,
+      "ties": 0,
+      "points_for": 4916.23,
+      "points_against": 4502.69,
+      "championships": 2,
+      "playoff_appearances": 3,
+      "best_finish": 1,
+      "teams": [
+        {
+          "year": 2015,
+          "team_name": "Gildo Reign ",
+          "record": "7-6",
+          "standing": 1
+        },
+        {
+          "year": 2016,
+          "team_name": "Evil Snead",
+          "record": "10-3",
+          "standing": 1
+        },
+        {
+          "year": 2017,
+          "team_name": "Evil Snead",
+          "record": "9-4",
+          "standing": 4
+        }
+      ],
+      "win_pct": 66.7
+    },
+    {
+      "owner": "Matt Driscoll",
+      "seasons": 5,
+      "wins": 25,
+      "losses": 45,
+      "ties": 0,
+      "points_for": 8044.85,
+      "points_against": 8616.35,
+      "championships": 0,
+      "playoff_appearances": 0,
+      "best_finish": 8,
+      "teams": [
+        {
+          "year": 2021,
+          "team_name": "Daddy\u2019s Broken Toy",
+          "record": "4-10",
+          "standing": 10
+        },
+        {
+          "year": 2022,
+          "team_name": "Bricked Up Bandits",
+          "record": "3-11",
+          "standing": 12
+        },
+        {
+          "year": 2023,
+          "team_name": "The Belt-Fed Chronicles",
+          "record": "4-10",
+          "standing": 8
+        },
+        {
+          "year": 2024,
+          "team_name": "Try That in a Small Town",
+          "record": "6-8",
+          "standing": 10
+        },
+        {
+          "year": 2025,
+          "team_name": "4 Doors More Haors",
+          "record": "8-6",
+          "standing": 8
+        }
+      ],
+      "win_pct": 35.7
+    },
+    {
+      "owner": "Jonathan Palmer",
+      "seasons": 2,
+      "wins": 16,
+      "losses": 10,
+      "ties": 0,
+      "points_for": 3333.56,
+      "points_against": 3079.9,
+      "championships": 0,
+      "playoff_appearances": 2,
+      "best_finish": 3,
+      "teams": [
+        {
+          "year": 2015,
+          "team_name": "Bangladesh Bald Beavers",
+          "record": "7-6",
+          "standing": 6
+        },
+        {
+          "year": 2016,
+          "team_name": "Le'veon A Prayer",
+          "record": "9-4",
+          "standing": 3
+        }
+      ],
+      "win_pct": 61.5
+    },
+    {
+      "owner": "Nicholas Bradley",
+      "seasons": 3,
+      "wins": 14,
+      "losses": 25,
+      "ties": 0,
+      "points_for": 4292.65,
+      "points_against": 4675.41,
+      "championships": 0,
+      "playoff_appearances": 0,
+      "best_finish": 7,
+      "teams": [
+        {
+          "year": 2015,
+          "team_name": "Butch Rich is Corrupt",
+          "record": "4-9",
+          "standing": 7
+        },
+        {
+          "year": 2016,
+          "team_name": "Butch Rich is Corrupt",
+          "record": "5-8",
+          "standing": 8
+        },
+        {
+          "year": 2017,
+          "team_name": "Waiver Wire Nick",
+          "record": "5-8",
+          "standing": 9
+        }
+      ],
+      "win_pct": 35.9
+    },
+    {
+      "owner": "Benjamin Chaves",
+      "seasons": 2,
+      "wins": 14,
+      "losses": 14,
+      "ties": 0,
+      "points_for": 3351.25,
+      "points_against": 3309.25,
+      "championships": 1,
+      "playoff_appearances": 2,
+      "best_finish": 1,
+      "teams": [
+        {
+          "year": 2024,
+          "team_name": "Benny Beers",
+          "record": "7-7",
+          "standing": 4
+        },
+        {
+          "year": 2025,
+          "team_name": "Here for the money",
+          "record": "7-7",
+          "standing": 1
+        }
+      ],
+      "win_pct": 50.0
+    },
+    {
+      "owner": "Tim Lewis",
+      "seasons": 2,
+      "wins": 13,
+      "losses": 15,
+      "ties": 0,
+      "points_for": 3320.55,
+      "points_against": 3244.45,
+      "championships": 0,
+      "playoff_appearances": 1,
+      "best_finish": 4,
+      "teams": [
+        {
+          "year": 2022,
+          "team_name": "JA'MARR-A- LAGO",
+          "record": "3-11",
+          "standing": 8
+        },
+        {
+          "year": 2023,
+          "team_name": "Purdy Brown LaPortagee",
+          "record": "10-4",
+          "standing": 4
+        }
+      ],
+      "win_pct": 46.4
+    },
+    {
+      "owner": "Matt Getchell",
+      "seasons": 1,
+      "wins": 10,
+      "losses": 3,
+      "ties": 0,
+      "points_for": 1637.05,
+      "points_against": 1523.59,
+      "championships": 0,
+      "playoff_appearances": 1,
+      "best_finish": 3,
+      "teams": [
+        {
+          "year": 2015,
+          "team_name": "ImAssuming  UhaveComcast?",
+          "record": "10-3",
+          "standing": 3
+        }
+      ],
+      "win_pct": 76.9
+    },
+    {
+      "owner": "Ben Boulerice",
+      "seasons": 1,
+      "wins": 1,
+      "losses": 12,
+      "ties": 0,
+      "points_for": 1414.84,
+      "points_against": 1806.24,
+      "championships": 0,
+      "playoff_appearances": 0,
+      "best_finish": 9,
+      "teams": [
+        {
+          "year": 2016,
+          "team_name": "BOLO'S  EL MISERABLES",
+          "record": "1-12",
+          "standing": 9
+        }
+      ],
+      "win_pct": 7.7
+    }
+  ],
+  "championship_history": [
+    {
+      "year": 2015,
+      "team_name": "Gildo Reign ",
+      "owner": "Steve Gilmore",
+      "record": "7-6",
+      "points_for": 1635.96
+    },
+    {
+      "year": 2016,
+      "team_name": "Evil Snead",
+      "owner": "Steve Gilmore",
+      "record": "10-3",
+      "points_for": 1756.92
+    },
+    {
+      "year": 2017,
+      "team_name": "sizzling seX GOD",
+      "owner": "george gillis",
+      "record": "9-4",
+      "points_for": 1732.75
+    },
+    {
+      "year": 2018,
+      "team_name": "Evil Snead",
+      "owner": "Steve  Gilmore",
+      "record": "9-4",
+      "points_for": 1768.5
+    },
+    {
+      "year": 2019,
+      "team_name": "Sizzling SeX GOD",
+      "owner": "george gillis",
+      "record": "9-4",
+      "points_for": 1819.1
+    },
+    {
+      "year": 2020,
+      "team_name": "Louisiana State Mud Dogs",
+      "owner": "Steve  Gilmore",
+      "record": "11-2",
+      "points_for": 1899.5
+    },
+    {
+      "year": 2021,
+      "team_name": "Them New Asians",
+      "owner": "joshua deangelis",
+      "record": "7-7",
+      "points_for": 1701.0
+    },
+    {
+      "year": 2022,
+      "team_name": "Gimli\u2019s Arse",
+      "owner": "Jacob Bergeron",
+      "record": "8-6",
+      "points_for": 1755.85
+    },
+    {
+      "year": 2023,
+      "team_name": "Louisiana State Mud Dogs",
+      "owner": "Steve  Gilmore",
+      "record": "8-6",
+      "points_for": 1621.7
+    },
+    {
+      "year": 2024,
+      "team_name": "Them New Asians ",
+      "owner": "joshua deangelis",
+      "record": "10-4",
+      "points_for": 1728.9
+    },
+    {
+      "year": 2025,
+      "team_name": "Here for the money",
+      "owner": "Benjamin Chaves",
+      "record": "7-7",
+      "points_for": 1609.9
+    }
+  ]
+}

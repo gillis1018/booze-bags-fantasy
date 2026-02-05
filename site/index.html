@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Booze Bags Fantasy League</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-brand">Booze Bags Fantasy League</div>
+        <ul class="nav-links">
+            <li><a href="#dashboard" class="active" data-section="dashboard">Dashboard</a></li>
+            <li><a href="#standings" data-section="standings">Standings</a></li>
+            <li><a href="#all-time" data-section="all-time">All-Time Records</a></li>
+            <li><a href="#champions" data-section="champions">Champions</a></li>
+            <li><a href="#drafts" data-section="drafts">Draft History</a></li>
+        </ul>
+    </nav>
+
+    <main class="container">
+        <!-- Dashboard Section -->
+        <section id="dashboard" class="section active">
+            <h1>League Dashboard</h1>
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <h3>Total Seasons</h3>
+                    <div class="stat-value" id="total-seasons">-</div>
+                </div>
+                <div class="stat-card">
+                    <h3>Active Since</h3>
+                    <div class="stat-value" id="first-year">-</div>
+                </div>
+                <div class="stat-card">
+                    <h3>Current Champion</h3>
+                    <div class="stat-value" id="current-champ">-</div>
+                </div>
+                <div class="stat-card">
+                    <h3>Most Titles</h3>
+                    <div class="stat-value" id="most-titles">-</div>
+                </div>
+            </div>
+
+            <div class="card">
+                <h2>Championship Trophy Case</h2>
+                <div class="trophy-case" id="trophy-case"></div>
+            </div>
+
+            <div class="card">
+                <h2>All-Time Wins Leaders</h2>
+                <div id="wins-leaders"></div>
+            </div>
+        </section>
+
+        <!-- Historical Standings Section -->
+        <section id="standings" class="section">
+            <h1>Historical Standings</h1>
+            <div class="year-selector">
+                <label for="year-select">Select Season:</label>
+                <select id="year-select"></select>
+            </div>
+            <div class="card">
+                <table class="data-table" id="standings-table">
+                    <thead>
+                        <tr>
+                            <th>Rank</th>
+                            <th>Team</th>
+                            <th>Owner</th>
+                            <th>Record</th>
+                            <th>Points For</th>
+                        </tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
+            </div>
+        </section>
+
+        <!-- All-Time Records Section -->
+        <section id="all-time" class="section">
+            <h1>All-Time Records</h1>
+            <div class="card">
+                <table class="data-table" id="all-time-table">
+                    <thead>
+                        <tr>
+                            <th>Owner</th>
+                            <th>Seasons</th>
+                            <th>Wins</th>
+                            <th>Losses</th>
+                            <th>Win %</th>
+                            <th>Points For</th>
+                            <th>Titles</th>
+                            <th>Best Finish</th>
+                        </tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
+            </div>
+        </section>
+
+        <!-- Champions Section -->
+        <section id="champions" class="section">
+            <h1>Championship History</h1>
+            <div class="champions-grid" id="champions-grid"></div>
+        </section>
+
+        <!-- Draft History Section -->
+        <section id="drafts" class="section">
+            <h1>Draft History</h1>
+            <div class="year-selector">
+                <label for="draft-year-select">Select Season:</label>
+                <select id="draft-year-select"></select>
+            </div>
+            <div class="card">
+                <table class="data-table" id="draft-table">
+                    <thead>
+                        <tr>
+                            <th>Pick</th>
+                            <th>Round</th>
+                            <th>Team</th>
+                            <th>Player</th>
+                        </tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>Booze Bags Fantasy League &bull; Est. 2015 &bull; Data from ESPN Fantasy</p>
+        <p class="last-updated">Last updated: <span id="last-updated">-</span></p>
+    </footer>
+
+    <script src="js/app.js"></script>
+</body>
+</html>

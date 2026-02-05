@@ -1,0 +1,2226 @@
+{
+  "year": 2022,
+  "league_name": "Booze Bags Fantasy League",
+  "teams": [
+    {
+      "team_id": 12,
+      "team_name": "Gimli\u2019s Arse",
+      "owner": "Jacob Bergeron",
+      "wins": 8,
+      "losses": 6,
+      "ties": 0,
+      "points_for": 1755.85,
+      "points_against": 1562.5,
+      "final_standing": 1,
+      "playoff_seed": null
+    },
+    {
+      "team_id": 1,
+      "team_name": "Its Just  A Buzz",
+      "owner": "Patrick Gonsalves",
+      "wins": 8,
+      "losses": 6,
+      "ties": 0,
+      "points_for": 1694.35,
+      "points_against": 1718.5,
+      "final_standing": 2,
+      "playoff_seed": null
+    },
+    {
+      "team_id": 4,
+      "team_name": "Louisiana State Mud Dogs",
+      "owner": "Steve  Gilmore",
+      "wins": 12,
+      "losses": 2,
+      "ties": 0,
+      "points_for": 1828.4,
+      "points_against": 1629.9,
+      "final_standing": 3,
+      "playoff_seed": null
+    },
+    {
+      "team_id": 11,
+      "team_name": "Grave Diggser",
+      "owner": "Christian Kelly",
+      "wins": 9,
+      "losses": 5,
+      "ties": 0,
+      "points_for": 1860.75,
+      "points_against": 1557.35,
+      "final_standing": 4,
+      "playoff_seed": null
+    },
+    {
+      "team_id": 8,
+      "team_name": "Sizzling SeX GOD",
+      "owner": "george gillis",
+      "wins": 10,
+      "losses": 4,
+      "ties": 0,
+      "points_for": 1719.75,
+      "points_against": 1676.45,
+      "final_standing": 5,
+      "playoff_seed": null
+    },
+    {
+      "team_id": 6,
+      "team_name": "C-Kupp  TDs",
+      "owner": "Henry Krueger",
+      "wins": 7,
+      "losses": 7,
+      "ties": 0,
+      "points_for": 1750.2,
+      "points_against": 1817.05,
+      "final_standing": 6,
+      "playoff_seed": null
+    },
+    {
+      "team_id": 3,
+      "team_name": "Dumpster FIRE",
+      "owner": "Ryan Fleming",
+      "wins": 4,
+      "losses": 10,
+      "ties": 0,
+      "points_for": 1568.7,
+      "points_against": 1686.3,
+      "final_standing": 7,
+      "playoff_seed": null
+    },
+    {
+      "team_id": 13,
+      "team_name": "JA'MARR-A- LAGO",
+      "owner": "Tim Lewis",
+      "wins": 3,
+      "losses": 11,
+      "ties": 0,
+      "points_for": 1452.65,
+      "points_against": 1593.35,
+      "final_standing": 8,
+      "playoff_seed": null
+    },
+    {
+      "team_id": 5,
+      "team_name": "Sunday Skid Marks",
+      "owner": "Brandon Baglio",
+      "wins": 6,
+      "losses": 8,
+      "ties": 0,
+      "points_for": 1596.4,
+      "points_against": 1723.9,
+      "final_standing": 9,
+      "playoff_seed": null
+    },
+    {
+      "team_id": 2,
+      "team_name": "Ramy's Propeller ",
+      "owner": "joshua deangelis",
+      "wins": 7,
+      "losses": 7,
+      "ties": 0,
+      "points_for": 1661.95,
+      "points_against": 1801.95,
+      "final_standing": 10,
+      "playoff_seed": null
+    },
+    {
+      "team_id": 9,
+      "team_name": "Big Booty Wizzard 69",
+      "owner": "Ben Lenhart",
+      "wins": 7,
+      "losses": 7,
+      "ties": 0,
+      "points_for": 1680.6,
+      "points_against": 1679.45,
+      "final_standing": 11,
+      "playoff_seed": null
+    },
+    {
+      "team_id": 10,
+      "team_name": "Bricked Up Bandits",
+      "owner": "Matt Driscoll",
+      "wins": 3,
+      "losses": 11,
+      "ties": 0,
+      "points_for": 1456.3,
+      "points_against": 1579.2,
+      "final_standing": 12,
+      "playoff_seed": null
+    }
+  ],
+  "standings": [
+    {
+      "rank": 1,
+      "team_name": "Gimli\u2019s Arse",
+      "owner": "Jacob Bergeron",
+      "record": "8-6",
+      "points_for": 1755.85
+    },
+    {
+      "rank": 2,
+      "team_name": "Its Just  A Buzz",
+      "owner": "Patrick Gonsalves",
+      "record": "8-6",
+      "points_for": 1694.35
+    },
+    {
+      "rank": 3,
+      "team_name": "Louisiana State Mud Dogs",
+      "owner": "Steve  Gilmore",
+      "record": "12-2",
+      "points_for": 1828.4
+    },
+    {
+      "rank": 4,
+      "team_name": "Grave Diggser",
+      "owner": "Christian Kelly",
+      "record": "9-5",
+      "points_for": 1860.75
+    },
+    {
+      "rank": 5,
+      "team_name": "Sizzling SeX GOD",
+      "owner": "george gillis",
+      "record": "10-4",
+      "points_for": 1719.75
+    },
+    {
+      "rank": 6,
+      "team_name": "C-Kupp  TDs",
+      "owner": "Henry Krueger",
+      "record": "7-7",
+      "points_for": 1750.2
+    },
+    {
+      "rank": 7,
+      "team_name": "Dumpster FIRE",
+      "owner": "Ryan Fleming",
+      "record": "4-10",
+      "points_for": 1568.7
+    },
+    {
+      "rank": 8,
+      "team_name": "JA'MARR-A- LAGO",
+      "owner": "Tim Lewis",
+      "record": "3-11",
+      "points_for": 1452.65
+    },
+    {
+      "rank": 9,
+      "team_name": "Sunday Skid Marks",
+      "owner": "Brandon Baglio",
+      "record": "6-8",
+      "points_for": 1596.4
+    },
+    {
+      "rank": 10,
+      "team_name": "Ramy's Propeller ",
+      "owner": "joshua deangelis",
+      "record": "7-7",
+      "points_for": 1661.95
+    },
+    {
+      "rank": 11,
+      "team_name": "Big Booty Wizzard 69",
+      "owner": "Ben Lenhart",
+      "record": "7-7",
+      "points_for": 1680.6
+    },
+    {
+      "rank": 12,
+      "team_name": "Bricked Up Bandits",
+      "owner": "Matt Driscoll",
+      "record": "3-11",
+      "points_for": 1456.3
+    }
+  ],
+  "matchups": [
+    {
+      "week": 1,
+      "home_team": "Sizzling SeX GOD",
+      "home_score": 117.25,
+      "away_team": "Bricked Up Bandits",
+      "away_score": 112.15,
+      "is_playoff": false
+    },
+    {
+      "week": 1,
+      "home_team": "Its Just  A Buzz",
+      "home_score": 168.95,
+      "away_team": "JA'MARR-A- LAGO",
+      "away_score": 102.95,
+      "is_playoff": false
+    },
+    {
+      "week": 1,
+      "home_team": "Ramy's Propeller ",
+      "home_score": 122.25,
+      "away_team": "Louisiana State Mud Dogs",
+      "away_score": 124.05,
+      "is_playoff": false
+    },
+    {
+      "week": 1,
+      "home_team": "Big Booty Wizzard 69",
+      "home_score": 149.85,
+      "away_team": "C-Kupp  TDs",
+      "away_score": 131.7,
+      "is_playoff": false
+    },
+    {
+      "week": 1,
+      "home_team": "Gimli\u2019s Arse",
+      "home_score": 69.2,
+      "away_team": "Dumpster FIRE",
+      "away_score": 78.6,
+      "is_playoff": false
+    },
+    {
+      "week": 1,
+      "home_team": "Sunday Skid Marks",
+      "home_score": 118.6,
+      "away_team": "Grave Diggser",
+      "away_score": 136.0,
+      "is_playoff": false
+    },
+    {
+      "week": 2,
+      "home_team": "Gimli\u2019s Arse",
+      "home_score": 105.8,
+      "away_team": "JA'MARR-A- LAGO",
+      "away_score": 99.35,
+      "is_playoff": false
+    },
+    {
+      "week": 2,
+      "home_team": "Sizzling SeX GOD",
+      "home_score": 124.9,
+      "away_team": "Louisiana State Mud Dogs",
+      "away_score": 152.55,
+      "is_playoff": false
+    },
+    {
+      "week": 2,
+      "home_team": "Dumpster FIRE",
+      "home_score": 162.6,
+      "away_team": "Its Just  A Buzz",
+      "away_score": 98.2,
+      "is_playoff": false
+    },
+    {
+      "week": 2,
+      "home_team": "Grave Diggser",
+      "home_score": 164.15,
+      "away_team": "C-Kupp  TDs",
+      "away_score": 173.75,
+      "is_playoff": false
+    },
+    {
+      "week": 2,
+      "home_team": "Ramy's Propeller ",
+      "home_score": 118.75,
+      "away_team": "Bricked Up Bandits",
+      "away_score": 105.5,
+      "is_playoff": false
+    },
+    {
+      "week": 2,
+      "home_team": "Sunday Skid Marks",
+      "home_score": 116.35,
+      "away_team": "Big Booty Wizzard 69",
+      "away_score": 106.85,
+      "is_playoff": false
+    },
+    {
+      "week": 3,
+      "home_team": "Louisiana State Mud Dogs",
+      "home_score": 113.0,
+      "away_team": "Bricked Up Bandits",
+      "away_score": 139.6,
+      "is_playoff": false
+    },
+    {
+      "week": 3,
+      "home_team": "JA'MARR-A- LAGO",
+      "home_score": 110.7,
+      "away_team": "Dumpster FIRE",
+      "away_score": 91.15,
+      "is_playoff": false
+    },
+    {
+      "week": 3,
+      "home_team": "Ramy's Propeller ",
+      "home_score": 109.6,
+      "away_team": "Sizzling SeX GOD",
+      "away_score": 143.15,
+      "is_playoff": false
+    },
+    {
+      "week": 3,
+      "home_team": "Its Just  A Buzz",
+      "home_score": 83.35,
+      "away_team": "Gimli\u2019s Arse",
+      "away_score": 147.85,
+      "is_playoff": false
+    },
+    {
+      "week": 3,
+      "home_team": "Sunday Skid Marks",
+      "home_score": 110.25,
+      "away_team": "C-Kupp  TDs",
+      "away_score": 82.9,
+      "is_playoff": false
+    },
+    {
+      "week": 3,
+      "home_team": "Grave Diggser",
+      "home_score": 99.7,
+      "away_team": "Big Booty Wizzard 69",
+      "away_score": 128.9,
+      "is_playoff": false
+    },
+    {
+      "week": 4,
+      "home_team": "Dumpster FIRE",
+      "home_score": 122.2,
+      "away_team": "Ramy's Propeller ",
+      "away_score": 125.15,
+      "is_playoff": false
+    },
+    {
+      "week": 4,
+      "home_team": "Gimli\u2019s Arse",
+      "home_score": 170.55,
+      "away_team": "C-Kupp  TDs",
+      "away_score": 121.65,
+      "is_playoff": false
+    },
+    {
+      "week": 4,
+      "home_team": "Bricked Up Bandits",
+      "home_score": 96.7,
+      "away_team": "JA'MARR-A- LAGO",
+      "away_score": 77.3,
+      "is_playoff": false
+    },
+    {
+      "week": 4,
+      "home_team": "Sunday Skid Marks",
+      "home_score": 113.85,
+      "away_team": "Louisiana State Mud Dogs",
+      "away_score": 150.05,
+      "is_playoff": false
+    },
+    {
+      "week": 4,
+      "home_team": "Grave Diggser",
+      "home_score": 120.05,
+      "away_team": "Its Just  A Buzz",
+      "away_score": 122.4,
+      "is_playoff": false
+    },
+    {
+      "week": 4,
+      "home_team": "Big Booty Wizzard 69",
+      "home_score": 109.5,
+      "away_team": "Sizzling SeX GOD",
+      "away_score": 119.3,
+      "is_playoff": false
+    },
+    {
+      "week": 5,
+      "home_team": "Grave Diggser",
+      "home_score": 179.9,
+      "away_team": "Bricked Up Bandits",
+      "away_score": 85.2,
+      "is_playoff": false
+    },
+    {
+      "week": 5,
+      "home_team": "Sunday Skid Marks",
+      "home_score": 110.65,
+      "away_team": "Dumpster FIRE",
+      "away_score": 87.75,
+      "is_playoff": false
+    },
+    {
+      "week": 5,
+      "home_team": "C-Kupp  TDs",
+      "home_score": 103.5,
+      "away_team": "JA'MARR-A- LAGO",
+      "away_score": 102.2,
+      "is_playoff": false
+    },
+    {
+      "week": 5,
+      "home_team": "Ramy's Propeller ",
+      "home_score": 129.9,
+      "away_team": "Gimli\u2019s Arse",
+      "away_score": 167.05,
+      "is_playoff": false
+    },
+    {
+      "week": 5,
+      "home_team": "Louisiana State Mud Dogs",
+      "home_score": 130.9,
+      "away_team": "Big Booty Wizzard 69",
+      "away_score": 115.75,
+      "is_playoff": false
+    },
+    {
+      "week": 5,
+      "home_team": "Its Just  A Buzz",
+      "home_score": 130.7,
+      "away_team": "Sizzling SeX GOD",
+      "away_score": 106.9,
+      "is_playoff": false
+    },
+    {
+      "week": 6,
+      "home_team": "Bricked Up Bandits",
+      "home_score": 111.1,
+      "away_team": "Dumpster FIRE",
+      "away_score": 112.25,
+      "is_playoff": false
+    },
+    {
+      "week": 6,
+      "home_team": "Gimli\u2019s Arse",
+      "home_score": 96.65,
+      "away_team": "Grave Diggser",
+      "away_score": 119.1,
+      "is_playoff": false
+    },
+    {
+      "week": 6,
+      "home_team": "C-Kupp  TDs",
+      "home_score": 131.0,
+      "away_team": "Ramy's Propeller ",
+      "away_score": 132.45,
+      "is_playoff": false
+    },
+    {
+      "week": 6,
+      "home_team": "Sizzling SeX GOD",
+      "home_score": 99.5,
+      "away_team": "Sunday Skid Marks",
+      "away_score": 132.2,
+      "is_playoff": false
+    },
+    {
+      "week": 6,
+      "home_team": "Big Booty Wizzard 69",
+      "home_score": 83.35,
+      "away_team": "JA'MARR-A- LAGO",
+      "away_score": 117.25,
+      "is_playoff": false
+    },
+    {
+      "week": 6,
+      "home_team": "Its Just  A Buzz",
+      "home_score": 77.45,
+      "away_team": "Louisiana State Mud Dogs",
+      "away_score": 119.0,
+      "is_playoff": false
+    },
+    {
+      "week": 7,
+      "home_team": "Sunday Skid Marks",
+      "home_score": 131.35,
+      "away_team": "Bricked Up Bandits",
+      "away_score": 91.3,
+      "is_playoff": false
+    },
+    {
+      "week": 7,
+      "home_team": "Sizzling SeX GOD",
+      "home_score": 119.05,
+      "away_team": "Gimli\u2019s Arse",
+      "away_score": 103.6,
+      "is_playoff": false
+    },
+    {
+      "week": 7,
+      "home_team": "Ramy's Propeller ",
+      "home_score": 121.35,
+      "away_team": "Big Booty Wizzard 69",
+      "away_score": 69.35,
+      "is_playoff": false
+    },
+    {
+      "week": 7,
+      "home_team": "Grave Diggser",
+      "home_score": 136.85,
+      "away_team": "Dumpster FIRE",
+      "away_score": 114.85,
+      "is_playoff": false
+    },
+    {
+      "week": 7,
+      "home_team": "C-Kupp  TDs",
+      "home_score": 111.5,
+      "away_team": "Its Just  A Buzz",
+      "away_score": 131.7,
+      "is_playoff": false
+    },
+    {
+      "week": 7,
+      "home_team": "JA'MARR-A- LAGO",
+      "home_score": 133.05,
+      "away_team": "Louisiana State Mud Dogs",
+      "away_score": 135.8,
+      "is_playoff": false
+    },
+    {
+      "week": 8,
+      "home_team": "Bricked Up Bandits",
+      "home_score": 114.7,
+      "away_team": "Gimli\u2019s Arse",
+      "away_score": 129.95,
+      "is_playoff": false
+    },
+    {
+      "week": 8,
+      "home_team": "JA'MARR-A- LAGO",
+      "home_score": 145.8,
+      "away_team": "Sunday Skid Marks",
+      "away_score": 106.4,
+      "is_playoff": false
+    },
+    {
+      "week": 8,
+      "home_team": "Big Booty Wizzard 69",
+      "home_score": 145.55,
+      "away_team": "Dumpster FIRE",
+      "away_score": 138.5,
+      "is_playoff": false
+    },
+    {
+      "week": 8,
+      "home_team": "Its Just  A Buzz",
+      "home_score": 137.4,
+      "away_team": "Ramy's Propeller ",
+      "away_score": 156.1,
+      "is_playoff": false
+    },
+    {
+      "week": 8,
+      "home_team": "Louisiana State Mud Dogs",
+      "home_score": 90.6,
+      "away_team": "Grave Diggser",
+      "away_score": 121.55,
+      "is_playoff": false
+    },
+    {
+      "week": 8,
+      "home_team": "Sizzling SeX GOD",
+      "home_score": 148.2,
+      "away_team": "C-Kupp  TDs",
+      "away_score": 148.0,
+      "is_playoff": false
+    },
+    {
+      "week": 9,
+      "home_team": "Big Booty Wizzard 69",
+      "home_score": 139.05,
+      "away_team": "Its Just  A Buzz",
+      "away_score": 128.15,
+      "is_playoff": false
+    },
+    {
+      "week": 9,
+      "home_team": "Gimli\u2019s Arse",
+      "home_score": 113.35,
+      "away_team": "Sunday Skid Marks",
+      "away_score": 80.7,
+      "is_playoff": false
+    },
+    {
+      "week": 9,
+      "home_team": "Sizzling SeX GOD",
+      "home_score": 114.85,
+      "away_team": "JA'MARR-A- LAGO",
+      "away_score": 104.6,
+      "is_playoff": false
+    },
+    {
+      "week": 9,
+      "home_team": "Dumpster FIRE",
+      "home_score": 105.55,
+      "away_team": "Louisiana State Mud Dogs",
+      "away_score": 132.85,
+      "is_playoff": false
+    },
+    {
+      "week": 9,
+      "home_team": "C-Kupp  TDs",
+      "home_score": 124.55,
+      "away_team": "Bricked Up Bandits",
+      "away_score": 89.65,
+      "is_playoff": false
+    },
+    {
+      "week": 9,
+      "home_team": "Ramy's Propeller ",
+      "home_score": 102.9,
+      "away_team": "Grave Diggser",
+      "away_score": 182.8,
+      "is_playoff": false
+    },
+    {
+      "week": 10,
+      "home_team": "Bricked Up Bandits",
+      "home_score": 89.7,
+      "away_team": "Big Booty Wizzard 69",
+      "away_score": 89.85,
+      "is_playoff": false
+    },
+    {
+      "week": 10,
+      "home_team": "Its Just  A Buzz",
+      "home_score": 166.75,
+      "away_team": "Sunday Skid Marks",
+      "away_score": 90.45,
+      "is_playoff": false
+    },
+    {
+      "week": 10,
+      "home_team": "Louisiana State Mud Dogs",
+      "home_score": 146.8,
+      "away_team": "Gimli\u2019s Arse",
+      "away_score": 134.9,
+      "is_playoff": false
+    },
+    {
+      "week": 10,
+      "home_team": "Grave Diggser",
+      "home_score": 116.35,
+      "away_team": "Sizzling SeX GOD",
+      "away_score": 129.05,
+      "is_playoff": false
+    },
+    {
+      "week": 10,
+      "home_team": "C-Kupp  TDs",
+      "home_score": 108.35,
+      "away_team": "Dumpster FIRE",
+      "away_score": 97.5,
+      "is_playoff": false
+    },
+    {
+      "week": 10,
+      "home_team": "Ramy's Propeller ",
+      "home_score": 117.4,
+      "away_team": "JA'MARR-A- LAGO",
+      "away_score": 104.05,
+      "is_playoff": false
+    },
+    {
+      "week": 11,
+      "home_team": "Its Just  A Buzz",
+      "home_score": 72.15,
+      "away_team": "Bricked Up Bandits",
+      "away_score": 140.05,
+      "is_playoff": false
+    },
+    {
+      "week": 11,
+      "home_team": "C-Kupp  TDs",
+      "home_score": 124.05,
+      "away_team": "Louisiana State Mud Dogs",
+      "away_score": 175.1,
+      "is_playoff": false
+    },
+    {
+      "week": 11,
+      "home_team": "Big Booty Wizzard 69",
+      "home_score": 136.7,
+      "away_team": "Gimli\u2019s Arse",
+      "away_score": 101.15,
+      "is_playoff": false
+    },
+    {
+      "week": 11,
+      "home_team": "Sizzling SeX GOD",
+      "home_score": 142.2,
+      "away_team": "Dumpster FIRE",
+      "away_score": 129.45,
+      "is_playoff": false
+    },
+    {
+      "week": 11,
+      "home_team": "Sunday Skid Marks",
+      "home_score": 148.75,
+      "away_team": "Ramy's Propeller ",
+      "away_score": 95.55,
+      "is_playoff": false
+    },
+    {
+      "week": 11,
+      "home_team": "JA'MARR-A- LAGO",
+      "home_score": 57.95,
+      "away_team": "Grave Diggser",
+      "away_score": 100.85,
+      "is_playoff": false
+    },
+    {
+      "week": 12,
+      "home_team": "Ramy's Propeller ",
+      "home_score": 111.15,
+      "away_team": "Louisiana State Mud Dogs",
+      "away_score": 148.45,
+      "is_playoff": false
+    },
+    {
+      "week": 12,
+      "home_team": "JA'MARR-A- LAGO",
+      "home_score": 108.95,
+      "away_team": "Its Just  A Buzz",
+      "away_score": 135.8,
+      "is_playoff": false
+    },
+    {
+      "week": 12,
+      "home_team": "Bricked Up Bandits",
+      "home_score": 100.3,
+      "away_team": "Sizzling SeX GOD",
+      "away_score": 111.7,
+      "is_playoff": false
+    },
+    {
+      "week": 12,
+      "home_team": "C-Kupp  TDs",
+      "home_score": 129.7,
+      "away_team": "Big Booty Wizzard 69",
+      "away_score": 117.45,
+      "is_playoff": false
+    },
+    {
+      "week": 12,
+      "home_team": "Grave Diggser",
+      "home_score": 120.3,
+      "away_team": "Sunday Skid Marks",
+      "away_score": 116.3,
+      "is_playoff": false
+    },
+    {
+      "week": 12,
+      "home_team": "Dumpster FIRE",
+      "home_score": 119.05,
+      "away_team": "Gimli\u2019s Arse",
+      "away_score": 179.2,
+      "is_playoff": false
+    },
+    {
+      "week": 13,
+      "home_team": "JA'MARR-A- LAGO",
+      "home_score": 85.05,
+      "away_team": "Gimli\u2019s Arse",
+      "away_score": 122.55,
+      "is_playoff": false
+    },
+    {
+      "week": 13,
+      "home_team": "Louisiana State Mud Dogs",
+      "home_score": 109.5,
+      "away_team": "Sizzling SeX GOD",
+      "away_score": 109.45,
+      "is_playoff": false
+    },
+    {
+      "week": 13,
+      "home_team": "Its Just  A Buzz",
+      "home_score": 112.85,
+      "away_team": "Dumpster FIRE",
+      "away_score": 99.0,
+      "is_playoff": false
+    },
+    {
+      "week": 13,
+      "home_team": "C-Kupp  TDs",
+      "home_score": 125.25,
+      "away_team": "Grave Diggser",
+      "away_score": 118.65,
+      "is_playoff": false
+    },
+    {
+      "week": 13,
+      "home_team": "Bricked Up Bandits",
+      "home_score": 83.95,
+      "away_team": "Ramy's Propeller ",
+      "away_score": 101.45,
+      "is_playoff": false
+    },
+    {
+      "week": 13,
+      "home_team": "Big Booty Wizzard 69",
+      "home_score": 193.5,
+      "away_team": "Sunday Skid Marks",
+      "away_score": 111.2,
+      "is_playoff": false
+    },
+    {
+      "week": 14,
+      "home_team": "Sunday Skid Marks",
+      "home_score": 109.35,
+      "away_team": "C-Kupp  TDs",
+      "away_score": 134.3,
+      "is_playoff": false
+    },
+    {
+      "week": 14,
+      "home_team": "Dumpster FIRE",
+      "home_score": 110.25,
+      "away_team": "JA'MARR-A- LAGO",
+      "away_score": 103.45,
+      "is_playoff": false
+    },
+    {
+      "week": 14,
+      "home_team": "Bricked Up Bandits",
+      "home_score": 96.4,
+      "away_team": "Louisiana State Mud Dogs",
+      "away_score": 99.75,
+      "is_playoff": false
+    },
+    {
+      "week": 14,
+      "home_team": "Gimli\u2019s Arse",
+      "home_score": 114.05,
+      "away_team": "Its Just  A Buzz",
+      "away_score": 128.5,
+      "is_playoff": false
+    },
+    {
+      "week": 14,
+      "home_team": "Ramy's Propeller ",
+      "home_score": 117.95,
+      "away_team": "Sizzling SeX GOD",
+      "away_score": 134.25,
+      "is_playoff": false
+    },
+    {
+      "week": 14,
+      "home_team": "Grave Diggser",
+      "home_score": 144.5,
+      "away_team": "Big Booty Wizzard 69",
+      "away_score": 94.95,
+      "is_playoff": false
+    },
+    {
+      "week": 15,
+      "home_team": "Sizzling SeX GOD",
+      "home_score": 113.35,
+      "away_team": "Its Just  A Buzz",
+      "away_score": 141.6,
+      "is_playoff": true
+    },
+    {
+      "week": 15,
+      "home_team": "Gimli\u2019s Arse",
+      "home_score": 135.6,
+      "away_team": "C-Kupp  TDs",
+      "away_score": 89.5,
+      "is_playoff": true
+    },
+    {
+      "week": 15,
+      "home_team": "Ramy's Propeller ",
+      "home_score": 166.1,
+      "away_team": "Big Booty Wizzard 69",
+      "away_score": 125.15,
+      "is_playoff": true
+    },
+    {
+      "week": 15,
+      "home_team": "Sunday Skid Marks",
+      "home_score": 110.6,
+      "away_team": "Dumpster FIRE",
+      "away_score": 135.7,
+      "is_playoff": true
+    },
+    {
+      "week": 15,
+      "home_team": "Bricked Up Bandits",
+      "home_score": 80.7,
+      "away_team": "JA'MARR-A- LAGO",
+      "away_score": 122.0,
+      "is_playoff": true
+    },
+    {
+      "week": 16,
+      "home_team": "Louisiana State Mud Dogs",
+      "home_score": 134.4,
+      "away_team": "Its Just  A Buzz",
+      "away_score": 142.75,
+      "is_playoff": true
+    },
+    {
+      "week": 16,
+      "home_team": "Grave Diggser",
+      "home_score": 126.8,
+      "away_team": "Gimli\u2019s Arse",
+      "away_score": 129.65,
+      "is_playoff": true
+    },
+    {
+      "week": 16,
+      "home_team": "Sizzling SeX GOD",
+      "home_score": 76.05,
+      "away_team": "C-Kupp  TDs",
+      "away_score": 81.05,
+      "is_playoff": true
+    },
+    {
+      "week": 16,
+      "home_team": "Ramy's Propeller ",
+      "home_score": 101.7,
+      "away_team": "Dumpster FIRE",
+      "away_score": 120.45,
+      "is_playoff": true
+    },
+    {
+      "week": 16,
+      "home_team": "Big Booty Wizzard 69",
+      "home_score": 67.2,
+      "away_team": "JA'MARR-A- LAGO",
+      "away_score": 75.6,
+      "is_playoff": true
+    },
+    {
+      "week": 16,
+      "home_team": "Sunday Skid Marks",
+      "home_score": 150.05,
+      "away_team": "Bricked Up Bandits",
+      "away_score": 115.85,
+      "is_playoff": true
+    },
+    {
+      "week": 17,
+      "home_team": "Gimli\u2019s Arse",
+      "home_score": 157.9,
+      "away_team": "Its Just  A Buzz",
+      "away_score": 117.55,
+      "is_playoff": true
+    },
+    {
+      "week": 17,
+      "home_team": "Louisiana State Mud Dogs",
+      "home_score": 130.95,
+      "away_team": "Grave Diggser",
+      "away_score": 76.6,
+      "is_playoff": true
+    },
+    {
+      "week": 17,
+      "home_team": "Sizzling SeX GOD",
+      "home_score": 108.1,
+      "away_team": "C-Kupp  TDs",
+      "away_score": 71.75,
+      "is_playoff": true
+    },
+    {
+      "week": 17,
+      "home_team": "Dumpster FIRE",
+      "home_score": 77.75,
+      "away_team": "JA'MARR-A- LAGO",
+      "away_score": 72.5,
+      "is_playoff": true
+    },
+    {
+      "week": 17,
+      "home_team": "Ramy's Propeller ",
+      "home_score": 66.9,
+      "away_team": "Sunday Skid Marks",
+      "away_score": 74.5,
+      "is_playoff": true
+    },
+    {
+      "week": 17,
+      "home_team": "Big Booty Wizzard 69",
+      "home_score": 125.2,
+      "away_team": "Bricked Up Bandits",
+      "away_score": 103.25,
+      "is_playoff": true
+    }
+  ],
+  "playoffs": [],
+  "draft": [
+    {
+      "round": 1,
+      "pick": 1,
+      "overall": 1,
+      "team": "Bricked Up Bandits",
+      "player": "Lamar Jackson"
+    },
+    {
+      "round": 1,
+      "pick": 2,
+      "overall": 2,
+      "team": "Its Just  A Buzz",
+      "player": "Derek Carr"
+    },
+    {
+      "round": 1,
+      "pick": 3,
+      "overall": 3,
+      "team": "C-Kupp  TDs",
+      "player": "Russell Wilson"
+    },
+    {
+      "round": 1,
+      "pick": 4,
+      "overall": 4,
+      "team": "Louisiana State Mud Dogs",
+      "player": "Kyler Murray"
+    },
+    {
+      "round": 1,
+      "pick": 5,
+      "overall": 5,
+      "team": "Sizzling SeX GOD",
+      "player": "Justin Herbert"
+    },
+    {
+      "round": 1,
+      "pick": 6,
+      "overall": 6,
+      "team": "Grave Diggser",
+      "player": "Patrick Mahomes"
+    },
+    {
+      "round": 1,
+      "pick": 7,
+      "overall": 7,
+      "team": "Big Booty Wizzard 69",
+      "player": "Jalen Hurts"
+    },
+    {
+      "round": 1,
+      "pick": 8,
+      "overall": 8,
+      "team": "Sunday Skid Marks",
+      "player": "Joe Burrow"
+    },
+    {
+      "round": 1,
+      "pick": 9,
+      "overall": 9,
+      "team": "Dumpster FIRE",
+      "player": "Matthew Stafford"
+    },
+    {
+      "round": 1,
+      "pick": 10,
+      "overall": 10,
+      "team": "Ramy's Propeller ",
+      "player": "Josh Allen"
+    },
+    {
+      "round": 1,
+      "pick": 11,
+      "overall": 11,
+      "team": "Gimli\u2019s Arse",
+      "player": "Tom Brady"
+    },
+    {
+      "round": 1,
+      "pick": 12,
+      "overall": 12,
+      "team": "JA'MARR-A- LAGO",
+      "player": "Kirk Cousins"
+    },
+    {
+      "round": 2,
+      "pick": 1,
+      "overall": 13,
+      "team": "JA'MARR-A- LAGO",
+      "player": "Alvin Kamara"
+    },
+    {
+      "round": 2,
+      "pick": 2,
+      "overall": 14,
+      "team": "Gimli\u2019s Arse",
+      "player": "Derrick Henry"
+    },
+    {
+      "round": 2,
+      "pick": 3,
+      "overall": 15,
+      "team": "Ramy's Propeller ",
+      "player": "Christian McCaffrey"
+    },
+    {
+      "round": 2,
+      "pick": 4,
+      "overall": 16,
+      "team": "Dumpster FIRE",
+      "player": "Aaron Jones"
+    },
+    {
+      "round": 2,
+      "pick": 5,
+      "overall": 17,
+      "team": "Sunday Skid Marks",
+      "player": "Jonathan Taylor"
+    },
+    {
+      "round": 2,
+      "pick": 6,
+      "overall": 18,
+      "team": "Big Booty Wizzard 69",
+      "player": "D'Andre Swift"
+    },
+    {
+      "round": 2,
+      "pick": 7,
+      "overall": 19,
+      "team": "Grave Diggser",
+      "player": "Joe Mixon"
+    },
+    {
+      "round": 2,
+      "pick": 8,
+      "overall": 20,
+      "team": "Sizzling SeX GOD",
+      "player": "Dalvin Cook"
+    },
+    {
+      "round": 2,
+      "pick": 9,
+      "overall": 21,
+      "team": "Louisiana State Mud Dogs",
+      "player": "Austin Ekeler"
+    },
+    {
+      "round": 2,
+      "pick": 10,
+      "overall": 22,
+      "team": "C-Kupp  TDs",
+      "player": "Javonte Williams"
+    },
+    {
+      "round": 2,
+      "pick": 11,
+      "overall": 23,
+      "team": "Its Just  A Buzz",
+      "player": "Saquon Barkley"
+    },
+    {
+      "round": 2,
+      "pick": 12,
+      "overall": 24,
+      "team": "Bricked Up Bandits",
+      "player": "Najee Harris"
+    },
+    {
+      "round": 3,
+      "pick": 1,
+      "overall": 25,
+      "team": "Bricked Up Bandits",
+      "player": "James Conner"
+    },
+    {
+      "round": 3,
+      "pick": 2,
+      "overall": 26,
+      "team": "Its Just  A Buzz",
+      "player": "Clyde Edwards-Helaire"
+    },
+    {
+      "round": 3,
+      "pick": 3,
+      "overall": 27,
+      "team": "C-Kupp  TDs",
+      "player": "Breece Hall"
+    },
+    {
+      "round": 3,
+      "pick": 4,
+      "overall": 28,
+      "team": "Louisiana State Mud Dogs",
+      "player": "Ezekiel Elliott"
+    },
+    {
+      "round": 3,
+      "pick": 5,
+      "overall": 29,
+      "team": "Sizzling SeX GOD",
+      "player": "Antonio Gibson"
+    },
+    {
+      "round": 3,
+      "pick": 6,
+      "overall": 30,
+      "team": "Grave Diggser",
+      "player": "David Montgomery"
+    },
+    {
+      "round": 3,
+      "pick": 7,
+      "overall": 31,
+      "team": "Big Booty Wizzard 69",
+      "player": "Elijah Mitchell"
+    },
+    {
+      "round": 3,
+      "pick": 8,
+      "overall": 32,
+      "team": "Sunday Skid Marks",
+      "player": "Leonard Fournette"
+    },
+    {
+      "round": 3,
+      "pick": 9,
+      "overall": 33,
+      "team": "Dumpster FIRE",
+      "player": "Cam Akers"
+    },
+    {
+      "round": 3,
+      "pick": 10,
+      "overall": 34,
+      "team": "Ramy's Propeller ",
+      "player": "Nick Chubb"
+    },
+    {
+      "round": 3,
+      "pick": 11,
+      "overall": 35,
+      "team": "Gimli\u2019s Arse",
+      "player": "Josh Jacobs"
+    },
+    {
+      "round": 3,
+      "pick": 12,
+      "overall": 36,
+      "team": "JA'MARR-A- LAGO",
+      "player": "Travis Etienne Jr."
+    },
+    {
+      "round": 4,
+      "pick": 1,
+      "overall": 37,
+      "team": "JA'MARR-A- LAGO",
+      "player": "Ja'Marr Chase"
+    },
+    {
+      "round": 4,
+      "pick": 2,
+      "overall": 38,
+      "team": "Gimli\u2019s Arse",
+      "player": "CeeDee Lamb"
+    },
+    {
+      "round": 4,
+      "pick": 3,
+      "overall": 39,
+      "team": "Ramy's Propeller ",
+      "player": "Gabe Davis"
+    },
+    {
+      "round": 4,
+      "pick": 4,
+      "overall": 40,
+      "team": "Dumpster FIRE",
+      "player": "Deebo Samuel"
+    },
+    {
+      "round": 4,
+      "pick": 5,
+      "overall": 41,
+      "team": "Sunday Skid Marks",
+      "player": "Tee Higgins"
+    },
+    {
+      "round": 4,
+      "pick": 6,
+      "overall": 42,
+      "team": "Big Booty Wizzard 69",
+      "player": "Davante Adams"
+    },
+    {
+      "round": 4,
+      "pick": 7,
+      "overall": 43,
+      "team": "Grave Diggser",
+      "player": "Stefon Diggs"
+    },
+    {
+      "round": 4,
+      "pick": 8,
+      "overall": 44,
+      "team": "Sizzling SeX GOD",
+      "player": "Mike Evans"
+    },
+    {
+      "round": 4,
+      "pick": 9,
+      "overall": 45,
+      "team": "Louisiana State Mud Dogs",
+      "player": "Allen Robinson II"
+    },
+    {
+      "round": 4,
+      "pick": 10,
+      "overall": 46,
+      "team": "C-Kupp  TDs",
+      "player": "Cooper Kupp"
+    },
+    {
+      "round": 4,
+      "pick": 11,
+      "overall": 47,
+      "team": "Its Just  A Buzz",
+      "player": "Justin Jefferson"
+    },
+    {
+      "round": 4,
+      "pick": 12,
+      "overall": 48,
+      "team": "Bricked Up Bandits",
+      "player": "Michael Pittman Jr."
+    },
+    {
+      "round": 5,
+      "pick": 1,
+      "overall": 49,
+      "team": "Bricked Up Bandits",
+      "player": "Marquise Brown"
+    },
+    {
+      "round": 5,
+      "pick": 2,
+      "overall": 50,
+      "team": "Its Just  A Buzz",
+      "player": "DJ Moore"
+    },
+    {
+      "round": 5,
+      "pick": 3,
+      "overall": 51,
+      "team": "C-Kupp  TDs",
+      "player": "Tyreek Hill"
+    },
+    {
+      "round": 5,
+      "pick": 4,
+      "overall": 52,
+      "team": "Louisiana State Mud Dogs",
+      "player": "Amon-Ra St. Brown"
+    },
+    {
+      "round": 5,
+      "pick": 5,
+      "overall": 53,
+      "team": "Sizzling SeX GOD",
+      "player": "Keenan Allen"
+    },
+    {
+      "round": 5,
+      "pick": 6,
+      "overall": 54,
+      "team": "Grave Diggser",
+      "player": "Mike Williams"
+    },
+    {
+      "round": 5,
+      "pick": 7,
+      "overall": 55,
+      "team": "Big Booty Wizzard 69",
+      "player": "A.J. Brown"
+    },
+    {
+      "round": 5,
+      "pick": 8,
+      "overall": 56,
+      "team": "Sunday Skid Marks",
+      "player": "Jerry Jeudy"
+    },
+    {
+      "round": 5,
+      "pick": 9,
+      "overall": 57,
+      "team": "Dumpster FIRE",
+      "player": "Jaylen Waddle"
+    },
+    {
+      "round": 5,
+      "pick": 10,
+      "overall": 58,
+      "team": "Ramy's Propeller ",
+      "player": "Adam Thielen"
+    },
+    {
+      "round": 5,
+      "pick": 11,
+      "overall": 59,
+      "team": "Gimli\u2019s Arse",
+      "player": "DK Metcalf"
+    },
+    {
+      "round": 5,
+      "pick": 12,
+      "overall": 60,
+      "team": "JA'MARR-A- LAGO",
+      "player": "Courtland Sutton"
+    },
+    {
+      "round": 6,
+      "pick": 1,
+      "overall": 61,
+      "team": "JA'MARR-A- LAGO",
+      "player": "David Njoku"
+    },
+    {
+      "round": 6,
+      "pick": 2,
+      "overall": 62,
+      "team": "Gimli\u2019s Arse",
+      "player": "Mark Andrews"
+    },
+    {
+      "round": 6,
+      "pick": 3,
+      "overall": 63,
+      "team": "Ramy's Propeller ",
+      "player": "Dawson Knox"
+    },
+    {
+      "round": 6,
+      "pick": 4,
+      "overall": 64,
+      "team": "Dumpster FIRE",
+      "player": "T.J. Hockenson"
+    },
+    {
+      "round": 6,
+      "pick": 5,
+      "overall": 65,
+      "team": "Sunday Skid Marks",
+      "player": "George Kittle"
+    },
+    {
+      "round": 6,
+      "pick": 6,
+      "overall": 66,
+      "team": "Big Booty Wizzard 69",
+      "player": "Kyle Pitts"
+    },
+    {
+      "round": 6,
+      "pick": 7,
+      "overall": 67,
+      "team": "Grave Diggser",
+      "player": "Dallas Goedert"
+    },
+    {
+      "round": 6,
+      "pick": 8,
+      "overall": 68,
+      "team": "Sizzling SeX GOD",
+      "player": "Hunter Henry"
+    },
+    {
+      "round": 6,
+      "pick": 9,
+      "overall": 69,
+      "team": "Louisiana State Mud Dogs",
+      "player": "Travis Kelce"
+    },
+    {
+      "round": 6,
+      "pick": 10,
+      "overall": 70,
+      "team": "C-Kupp  TDs",
+      "player": "Darren Waller"
+    },
+    {
+      "round": 6,
+      "pick": 11,
+      "overall": 71,
+      "team": "Its Just  A Buzz",
+      "player": "Dalton Schultz"
+    },
+    {
+      "round": 6,
+      "pick": 12,
+      "overall": 72,
+      "team": "Bricked Up Bandits",
+      "player": "Pat Freiermuth"
+    },
+    {
+      "round": 7,
+      "pick": 1,
+      "overall": 73,
+      "team": "Bricked Up Bandits",
+      "player": "Devin Singletary"
+    },
+    {
+      "round": 7,
+      "pick": 2,
+      "overall": 74,
+      "team": "Its Just  A Buzz",
+      "player": "Terry McLaurin"
+    },
+    {
+      "round": 7,
+      "pick": 3,
+      "overall": 75,
+      "team": "C-Kupp  TDs",
+      "player": "Damien Harris"
+    },
+    {
+      "round": 7,
+      "pick": 4,
+      "overall": 76,
+      "team": "Louisiana State Mud Dogs",
+      "player": "Hunter Renfrow"
+    },
+    {
+      "round": 7,
+      "pick": 5,
+      "overall": 77,
+      "team": "Sizzling SeX GOD",
+      "player": "Amari Cooper"
+    },
+    {
+      "round": 7,
+      "pick": 6,
+      "overall": 78,
+      "team": "Grave Diggser",
+      "player": "Allen Lazard"
+    },
+    {
+      "round": 7,
+      "pick": 7,
+      "overall": 79,
+      "team": "Big Booty Wizzard 69",
+      "player": "Cordarrelle Patterson"
+    },
+    {
+      "round": 7,
+      "pick": 8,
+      "overall": 80,
+      "team": "Sunday Skid Marks",
+      "player": "Rashod Bateman"
+    },
+    {
+      "round": 7,
+      "pick": 9,
+      "overall": 81,
+      "team": "Dumpster FIRE",
+      "player": "Michael Thomas"
+    },
+    {
+      "round": 7,
+      "pick": 10,
+      "overall": 82,
+      "team": "Ramy's Propeller ",
+      "player": "J.K. Dobbins"
+    },
+    {
+      "round": 7,
+      "pick": 11,
+      "overall": 83,
+      "team": "Gimli\u2019s Arse",
+      "player": "Chris Godwin"
+    },
+    {
+      "round": 7,
+      "pick": 12,
+      "overall": 84,
+      "team": "JA'MARR-A- LAGO",
+      "player": "Brandin Cooks"
+    },
+    {
+      "round": 8,
+      "pick": 1,
+      "overall": 85,
+      "team": "JA'MARR-A- LAGO",
+      "player": "Packers D/ST"
+    },
+    {
+      "round": 8,
+      "pick": 2,
+      "overall": 86,
+      "team": "Gimli\u2019s Arse",
+      "player": "Saints D/ST"
+    },
+    {
+      "round": 8,
+      "pick": 3,
+      "overall": 87,
+      "team": "Ramy's Propeller ",
+      "player": "Colts D/ST"
+    },
+    {
+      "round": 8,
+      "pick": 4,
+      "overall": 88,
+      "team": "Dumpster FIRE",
+      "player": "Cowboys D/ST"
+    },
+    {
+      "round": 8,
+      "pick": 5,
+      "overall": 89,
+      "team": "Sunday Skid Marks",
+      "player": "Buccaneers D/ST"
+    },
+    {
+      "round": 8,
+      "pick": 6,
+      "overall": 90,
+      "team": "Big Booty Wizzard 69",
+      "player": "Patriots D/ST"
+    },
+    {
+      "round": 8,
+      "pick": 7,
+      "overall": 91,
+      "team": "Grave Diggser",
+      "player": "Bills D/ST"
+    },
+    {
+      "round": 8,
+      "pick": 8,
+      "overall": 92,
+      "team": "Sizzling SeX GOD",
+      "player": "49ers D/ST"
+    },
+    {
+      "round": 8,
+      "pick": 9,
+      "overall": 93,
+      "team": "Louisiana State Mud Dogs",
+      "player": "Rams D/ST"
+    },
+    {
+      "round": 8,
+      "pick": 10,
+      "overall": 94,
+      "team": "C-Kupp  TDs",
+      "player": "Ravens D/ST"
+    },
+    {
+      "round": 8,
+      "pick": 11,
+      "overall": 95,
+      "team": "Its Just  A Buzz",
+      "player": "Broncos D/ST"
+    },
+    {
+      "round": 8,
+      "pick": 12,
+      "overall": 96,
+      "team": "Bricked Up Bandits",
+      "player": "Commanders D/ST"
+    },
+    {
+      "round": 9,
+      "pick": 1,
+      "overall": 97,
+      "team": "Bricked Up Bandits",
+      "player": "Nick Folk"
+    },
+    {
+      "round": 9,
+      "pick": 2,
+      "overall": 98,
+      "team": "Its Just  A Buzz",
+      "player": "Diontae Johnson"
+    },
+    {
+      "round": 9,
+      "pick": 3,
+      "overall": 99,
+      "team": "C-Kupp  TDs",
+      "player": "Evan McPherson"
+    },
+    {
+      "round": 9,
+      "pick": 4,
+      "overall": 100,
+      "team": "Louisiana State Mud Dogs",
+      "player": "Tyler Bass"
+    },
+    {
+      "round": 9,
+      "pick": 5,
+      "overall": 101,
+      "team": "Sizzling SeX GOD",
+      "player": "Harrison Butker"
+    },
+    {
+      "round": 9,
+      "pick": 6,
+      "overall": 102,
+      "team": "Grave Diggser",
+      "player": "Matt Prater"
+    },
+    {
+      "round": 9,
+      "pick": 7,
+      "overall": 103,
+      "team": "Big Booty Wizzard 69",
+      "player": "Greg Joseph"
+    },
+    {
+      "round": 9,
+      "pick": 8,
+      "overall": 104,
+      "team": "Sunday Skid Marks",
+      "player": "Daniel Carlson"
+    },
+    {
+      "round": 9,
+      "pick": 9,
+      "overall": 105,
+      "team": "Dumpster FIRE",
+      "player": "Brandon McManus"
+    },
+    {
+      "round": 9,
+      "pick": 10,
+      "overall": 106,
+      "team": "Ramy's Propeller ",
+      "player": "Rodrigo Blankenship"
+    },
+    {
+      "round": 9,
+      "pick": 11,
+      "overall": 107,
+      "team": "Gimli\u2019s Arse",
+      "player": "Justin Tucker"
+    },
+    {
+      "round": 9,
+      "pick": 12,
+      "overall": 108,
+      "team": "JA'MARR-A- LAGO",
+      "player": "Matt Gay"
+    },
+    {
+      "round": 10,
+      "pick": 1,
+      "overall": 109,
+      "team": "JA'MARR-A- LAGO",
+      "player": "Elijah Moore"
+    },
+    {
+      "round": 10,
+      "pick": 2,
+      "overall": 110,
+      "team": "Gimli\u2019s Arse",
+      "player": "Miles Sanders"
+    },
+    {
+      "round": 10,
+      "pick": 3,
+      "overall": 111,
+      "team": "Ramy's Propeller ",
+      "player": "JuJu Smith-Schuster"
+    },
+    {
+      "round": 10,
+      "pick": 4,
+      "overall": 112,
+      "team": "Dumpster FIRE",
+      "player": "Rhamondre Stevenson"
+    },
+    {
+      "round": 10,
+      "pick": 5,
+      "overall": 113,
+      "team": "Sunday Skid Marks",
+      "player": "Melvin Gordon III"
+    },
+    {
+      "round": 10,
+      "pick": 6,
+      "overall": 114,
+      "team": "Big Booty Wizzard 69",
+      "player": "AJ Dillon"
+    },
+    {
+      "round": 10,
+      "pick": 7,
+      "overall": 115,
+      "team": "Grave Diggser",
+      "player": "Tyler Lockett"
+    },
+    {
+      "round": 10,
+      "pick": 8,
+      "overall": 116,
+      "team": "Sizzling SeX GOD",
+      "player": "Chase Edmonds"
+    },
+    {
+      "round": 10,
+      "pick": 9,
+      "overall": 117,
+      "team": "Louisiana State Mud Dogs",
+      "player": "Christian Kirk"
+    },
+    {
+      "round": 10,
+      "pick": 10,
+      "overall": 118,
+      "team": "C-Kupp  TDs",
+      "player": "Tony Pollard"
+    },
+    {
+      "round": 10,
+      "pick": 11,
+      "overall": 119,
+      "team": "Its Just  A Buzz",
+      "player": "Dameon Pierce"
+    },
+    {
+      "round": 10,
+      "pick": 12,
+      "overall": 120,
+      "team": "Bricked Up Bandits",
+      "player": "Darnell Mooney"
+    },
+    {
+      "round": 11,
+      "pick": 1,
+      "overall": 121,
+      "team": "Bricked Up Bandits",
+      "player": "Robert Woods"
+    },
+    {
+      "round": 11,
+      "pick": 2,
+      "overall": 122,
+      "team": "Its Just  A Buzz",
+      "player": "Kenneth Walker III"
+    },
+    {
+      "round": 11,
+      "pick": 3,
+      "overall": 123,
+      "team": "C-Kupp  TDs",
+      "player": "Zach Ertz"
+    },
+    {
+      "round": 11,
+      "pick": 4,
+      "overall": 124,
+      "team": "Louisiana State Mud Dogs",
+      "player": "Darrell Henderson Jr."
+    },
+    {
+      "round": 11,
+      "pick": 5,
+      "overall": 125,
+      "team": "Sizzling SeX GOD",
+      "player": "Brandon Aiyuk"
+    },
+    {
+      "round": 11,
+      "pick": 6,
+      "overall": 126,
+      "team": "Grave Diggser",
+      "player": "Nyheim Hines"
+    },
+    {
+      "round": 11,
+      "pick": 7,
+      "overall": 127,
+      "team": "Big Booty Wizzard 69",
+      "player": "Michael Carter"
+    },
+    {
+      "round": 11,
+      "pick": 8,
+      "overall": 128,
+      "team": "Sunday Skid Marks",
+      "player": "Drake London"
+    },
+    {
+      "round": 11,
+      "pick": 9,
+      "overall": 129,
+      "team": "Dumpster FIRE",
+      "player": "DeVante Parker"
+    },
+    {
+      "round": 11,
+      "pick": 10,
+      "overall": 130,
+      "team": "Ramy's Propeller ",
+      "player": "Rashaad Penny"
+    },
+    {
+      "round": 11,
+      "pick": 11,
+      "overall": 131,
+      "team": "Gimli\u2019s Arse",
+      "player": "Aaron Rodgers"
+    },
+    {
+      "round": 11,
+      "pick": 12,
+      "overall": 132,
+      "team": "JA'MARR-A- LAGO",
+      "player": "DeVonta Smith"
+    },
+    {
+      "round": 12,
+      "pick": 1,
+      "overall": 133,
+      "team": "JA'MARR-A- LAGO",
+      "player": "Kadarius Toney"
+    },
+    {
+      "round": 12,
+      "pick": 2,
+      "overall": 134,
+      "team": "Gimli\u2019s Arse",
+      "player": "Tyler Boyd"
+    },
+    {
+      "round": 12,
+      "pick": 3,
+      "overall": 135,
+      "team": "Ramy's Propeller ",
+      "player": "Garrett Wilson"
+    },
+    {
+      "round": 12,
+      "pick": 4,
+      "overall": 136,
+      "team": "Dumpster FIRE",
+      "player": "J.D. McKissic"
+    },
+    {
+      "round": 12,
+      "pick": 5,
+      "overall": 137,
+      "team": "Sunday Skid Marks",
+      "player": "Skyy Moore"
+    },
+    {
+      "round": 12,
+      "pick": 6,
+      "overall": 138,
+      "team": "Big Booty Wizzard 69",
+      "player": "Chase Claypool"
+    },
+    {
+      "round": 12,
+      "pick": 7,
+      "overall": 139,
+      "team": "Grave Diggser",
+      "player": "Alexander Mattison"
+    },
+    {
+      "round": 12,
+      "pick": 8,
+      "overall": 140,
+      "team": "Sizzling SeX GOD",
+      "player": "James Cook"
+    },
+    {
+      "round": 12,
+      "pick": 9,
+      "overall": 141,
+      "team": "Louisiana State Mud Dogs",
+      "player": "Marquez Valdes-Scantling"
+    },
+    {
+      "round": 12,
+      "pick": 10,
+      "overall": 142,
+      "team": "C-Kupp  TDs",
+      "player": "Jakobi Meyers"
+    },
+    {
+      "round": 12,
+      "pick": 11,
+      "overall": 143,
+      "team": "Its Just  A Buzz",
+      "player": "Treylon Burks"
+    },
+    {
+      "round": 12,
+      "pick": 12,
+      "overall": 144,
+      "team": "Bricked Up Bandits",
+      "player": "DeAndre Hopkins"
+    },
+    {
+      "round": 13,
+      "pick": 1,
+      "overall": 145,
+      "team": "Bricked Up Bandits",
+      "player": "Chris Olave"
+    },
+    {
+      "round": 13,
+      "pick": 2,
+      "overall": 146,
+      "team": "Its Just  A Buzz",
+      "player": "Isaiah Spiller"
+    },
+    {
+      "round": 13,
+      "pick": 3,
+      "overall": 147,
+      "team": "C-Kupp  TDs",
+      "player": "Raheem Mostert"
+    },
+    {
+      "round": 13,
+      "pick": 4,
+      "overall": 148,
+      "team": "Louisiana State Mud Dogs",
+      "player": "Cole Kmet"
+    },
+    {
+      "round": 13,
+      "pick": 5,
+      "overall": 149,
+      "team": "Sizzling SeX GOD",
+      "player": "George Pickens"
+    },
+    {
+      "round": 13,
+      "pick": 6,
+      "overall": 150,
+      "team": "Grave Diggser",
+      "player": "Jahan Dotson"
+    },
+    {
+      "round": 13,
+      "pick": 7,
+      "overall": 151,
+      "team": "Big Booty Wizzard 69",
+      "player": "Russell Gage"
+    },
+    {
+      "round": 13,
+      "pick": 8,
+      "overall": 152,
+      "team": "Sunday Skid Marks",
+      "player": "Parris Campbell"
+    },
+    {
+      "round": 13,
+      "pick": 9,
+      "overall": 153,
+      "team": "Dumpster FIRE",
+      "player": "Robbie Anderson"
+    },
+    {
+      "round": 13,
+      "pick": 10,
+      "overall": 154,
+      "team": "Ramy's Propeller ",
+      "player": "Dak Prescott"
+    },
+    {
+      "round": 13,
+      "pick": 11,
+      "overall": 155,
+      "team": "Gimli\u2019s Arse",
+      "player": "Tyler Allgeier"
+    },
+    {
+      "round": 13,
+      "pick": 12,
+      "overall": 156,
+      "team": "JA'MARR-A- LAGO",
+      "player": "James Robinson"
+    },
+    {
+      "round": 14,
+      "pick": 1,
+      "overall": 157,
+      "team": "JA'MARR-A- LAGO",
+      "player": "Kareem Hunt"
+    },
+    {
+      "round": 14,
+      "pick": 2,
+      "overall": 158,
+      "team": "Gimli\u2019s Arse",
+      "player": "Trevor Lawrence"
+    },
+    {
+      "round": 14,
+      "pick": 3,
+      "overall": 159,
+      "team": "Ramy's Propeller ",
+      "player": "Brian Robinson Jr."
+    },
+    {
+      "round": 14,
+      "pick": 4,
+      "overall": 160,
+      "team": "Dumpster FIRE",
+      "player": "Kenny Golladay"
+    },
+    {
+      "round": 14,
+      "pick": 5,
+      "overall": 161,
+      "team": "Sunday Skid Marks",
+      "player": "Darrel Williams"
+    },
+    {
+      "round": 14,
+      "pick": 6,
+      "overall": 162,
+      "team": "Big Booty Wizzard 69",
+      "player": "Jeff Wilson Jr."
+    },
+    {
+      "round": 14,
+      "pick": 7,
+      "overall": 163,
+      "team": "Grave Diggser",
+      "player": "Nico Collins"
+    },
+    {
+      "round": 14,
+      "pick": 8,
+      "overall": 164,
+      "team": "Sizzling SeX GOD",
+      "player": "Trey Lance"
+    },
+    {
+      "round": 14,
+      "pick": 9,
+      "overall": 165,
+      "team": "Louisiana State Mud Dogs",
+      "player": "Jarvis Landry"
+    },
+    {
+      "round": 14,
+      "pick": 10,
+      "overall": 166,
+      "team": "C-Kupp  TDs",
+      "player": "Joshua Palmer"
+    },
+    {
+      "round": 14,
+      "pick": 11,
+      "overall": 167,
+      "team": "Its Just  A Buzz",
+      "player": "Rachaad White"
+    },
+    {
+      "round": 14,
+      "pick": 12,
+      "overall": 168,
+      "team": "Bricked Up Bandits",
+      "player": "Mecole Hardman"
+    }
+  ],
+  "trades": []
+}
